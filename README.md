@@ -1,6 +1,6 @@
 # Transformers Reading Group
 
-Public repo for the [Research Engineering Team](https://www.turing.ac.uk/research-engineering)'s reading group on Transformers. See [here](https://github.com/alan-turing-institute/DataScienceSkills/tree/transformers-reading-group/transformers_reading_group) for more information.
+Public repo for the [Research Engineering Team](https://www.turing.ac.uk/research-engineering)'s reading group on Transformers.
 
 Follow `#hut23-robots-in-disguise` on Slack for the most recent updates.
 
