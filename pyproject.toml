@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "playground"
+version = "0.1.0"
+description = ""
+authors = ["fedenanni <nanni.federico@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+gensim = "^4.3.0"
+sentence-splitter = "^1.4"
+nltk = "^3.8.1"
+keras = "^2.11.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.21.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
