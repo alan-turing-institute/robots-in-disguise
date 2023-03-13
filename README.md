@@ -25,19 +25,20 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## Material for sessions
 
-- Introduction to Word Embeddings
-  - [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
-  - [Word Embeddings (2)](https://www.ruder.io/word-embeddings-softmax/)
-  - [Word Embeddings (3)](https://www.ruder.io/secret-word2vec/)
-  - [Deep Learning, NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-  - [Stanford NLP with Deep Learning (Lecture 1 - Intro & Word Vectors)](https://youtu.be/rmVRLeJRkl4)
-  - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+- Introduction to Word Embeddings and Language modelling
+  - "Essential"
+    - [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
+    - [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
+    - [Word Embeddings (2)](https://www.ruder.io/word-embeddings-softmax/)
+    - [Word Embeddings (3)](https://www.ruder.io/secret-word2vec/)
+    - [Brief History of NLP (part 1)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-1-ffbcb937ebce)
+    - [Brief History of NLP (part 2)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-2-f5e575e8e37)
+  - "Extra"
+    - [Deep Learning, NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+    - [Stanford NLP with Deep Learning (Lecture 1 - Intro & Word Vectors)](https://youtu.be/rmVRLeJRkl4)
+    - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+    - [Stanford Large Language Models (Lecture 1 - Introduction)](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
   
-- Introduction to Language modelling / NLP
-  - [Brief History of NLP (part 1)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-1-ffbcb937ebce)
-  - [Brief History of NLP (part 2)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-2-f5e575e8e37)
-  - [Stanford Large Language Models (Lecture 1 - Introduction)](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
-
 - RNNs / LSTMs
   - [Speech and Language Processing - Chapter 7: Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
   - [Speech and Language Processing - Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
