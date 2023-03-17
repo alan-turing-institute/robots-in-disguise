@@ -16,7 +16,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 |Date | Topic | Room | Lead | Notes |
 | --- | ----- | ---- | ---- | ----- |
-| 20/03/23 | Introduction to word embeddings and language modelling [Slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing) | David Blackwell | Fede | N/A |
+| 20/03/23 | Introduction to word embeddings and language modelling ([Slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing)) | David Blackwell | Fede | N/A |
 | 03/04/23 | Deep Learning Basics | David Blackwell | Phil & Jack | N/A |
 | 17/04/23 | Sequence-to-sequence models part I (RNN) | David Blackwell | N/A | N/A |
 | 01/05/23 | Sequence-to-sequence models part II (LSTM) | David Blackwell | N/A | N/A |
