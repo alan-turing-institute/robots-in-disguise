@@ -39,6 +39,16 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
     - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
     - [Stanford Large Language Models (Lecture 1 - Introduction)](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
   
+- Deep Learning Basics
+  - Main
+    - [Neural Networks and Deep Learning | Chapter 1: Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+    - [Neural Networks and Deep Learning | Chapter 2: How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+      - Alternatively, come along to [Phil and Jack's Lunchtime Tech Talk](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) on Back Propagation (April 11th) - message on the `#hut23-robots-in-disguise` slack if you want to get a calendar invite for the session
+  - Extra
+    - [Learning Deep Learning | Chapters 1 and 2](https://jack89roberts.github.io/learning-deep-learning/index.html)
+    - [Neural Networks by Hand | Feedforward Neural Networks](https://philswatton.github.io/neural-networks-by-hand/feedforward-neural-network.html)
+    - [Andrej Karparthy (YouTube): The spelled-out intro to neural networks and backpropagation](https://youtu.be/VMj-3S1tku0)
+
 - RNNs / LSTMs
   - [Speech and Language Processing - Chapter 7: Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
   - [Speech and Language Processing - Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
