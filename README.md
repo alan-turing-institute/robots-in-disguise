@@ -25,7 +25,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## Material for sessions
 
-- Introduction to Word Embeddings and Language modelling
+- Introduction to Word Embeddings and Language modelling ([Fede Nanni](https://github.com/fedenanni))
   - Main
     - [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
     - [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
@@ -39,7 +39,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
     - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
     - [Stanford Large Language Models (Lecture 1 - Introduction)](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
   
-- Deep Learning Basics
+- Deep Learning Basics ([Phil Swatton](https://github.com/philswatton) & [Jack Roberts](https://github.com/jack89roberts))
   - Main
     - [Neural Networks and Deep Learning | Chapter 1: Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
     - [Neural Networks and Deep Learning | Chapter 2: How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
