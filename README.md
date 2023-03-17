@@ -16,9 +16,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 |Date | Topic | Room | Lead | Notes |
 | --- | ----- | ---- | ---- | ----- |
-| 20/03/23 | Introduction to word embeddings and language modelling ([Slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing)) | David Blackwell | Fede | N/A |
-| 03/04/23 | Deep Learning Basics | David Blackwell | Phil & Jack | N/A |
-| 17/04/23 | Sequence-to-sequence models part I (RNN) | David Blackwell | Ryan | N/A |
+| 20/03/23 | Introduction to word embeddings and language modelling ([Slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing)) | David Blackwell | [Fede Nanni](https://github.com/fedenanni) | N/A |
+| 03/04/23 | Deep Learning Basics | David Blackwell | [Phil Swatton](https://github.com/philswatton) & [Jack Roberts](https://github.com/jack89roberts) | N/A |
+| 17/04/23 | Sequence-to-sequence models part I (RNN) | David Blackwell | [Ryan Chan](https://github.com/rchan26) | N/A |
 | 01/05/23 | Sequence-to-sequence models part II (LSTM) | David Blackwell | N/A | N/A |
 | 15/05/23 | Hands-on RNN/LSTM session | David Blackwell | N/A | N/A |
 | 29/05/23 | Attention | David Blackwell | N/A | N/A |
