@@ -14,49 +14,31 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## Schedule
 
-|Date | Topic | Room | Lead |
-| --- | ----- | ---- | ---- |
-| 20/03/23 | Introduction to word embeddings and language modelling ([Slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing)) | David Blackwell | [Fede Nanni](https://github.com/fedenanni) |
-| 03/04/23 | Deep Learning Basics | David Blackwell | [Phil Swatton](https://github.com/philswatton) & [Jack Roberts](https://github.com/jack89roberts) |
-| 17/04/23 | Sequence-to-sequence models part I (RNN) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
-| 01/05/23 | Sequence-to-sequence models part II (LSTM) | David Blackwell | N/A |
-| 15/05/23 | Hands-on RNN/LSTM session | David Blackwell | N/A |
-| 29/05/23 | Attention | David Blackwell | N/A |
+|Date | Topic | Room | Lead | Notes |
+| --- | ----- | ---- | ---- | ----- |
+| 20/03/23 | Introduction to word embeddings and language modelling | David Blackwell | Fede | N/A |
+| 03/04/23 | Deep Learning Basics | David Blackwell | Phil & Jack | N/A |
+| 17/04/23 | Sequence-to-sequence models part I (RNN) | David Blackwell | N/A | N/A |
+| 01/05/23 | Sequence-to-sequence models part II (LSTM) | David Blackwell | N/A | N/A |
+| 15/05/23 | Hands-on RNN/LSTM session | David Blackwell | N/A | N/A |
+| 29/05/23 | Attention | David Blackwell | N/A | N/A |
 
 ## Material for sessions
 
-### Introduction to Word Embeddings and Language modelling ([Fede Nanni](https://github.com/fedenanni))
-
-**Main**
-  - [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
-  - [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
-  - [Word Embeddings (2)](https://www.ruder.io/word-embeddings-softmax/)
-  - [Word Embeddings (3)](https://www.ruder.io/secret-word2vec/)
-  - [Brief History of NLP (part 1)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-1-ffbcb937ebce)
-  - [Brief History of NLP (part 2)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-2-f5e575e8e37)
-
-**Extra**
-  - [Deep Learning, NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-  - [Stanford NLP with Deep Learning (Lecture 1 - Intro & Word Vectors)](https://youtu.be/rmVRLeJRkl4)
-  - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-  - [Stanford Large Language Models (Lecture 1 - Introduction)](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
+- Introduction to Word Embeddings and Language modelling
+  - Main
+    - [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
+    - [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
+    - [Word Embeddings (2)](https://www.ruder.io/word-embeddings-softmax/)
+    - [Word Embeddings (3)](https://www.ruder.io/secret-word2vec/)
+    - [Brief History of NLP (part 1)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-1-ffbcb937ebce)
+    - [Brief History of NLP (part 2)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-2-f5e575e8e37)
+  - Extra
+    - [Deep Learning, NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+    - [Stanford NLP with Deep Learning (Lecture 1 - Intro & Word Vectors)](https://youtu.be/rmVRLeJRkl4)
+    - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+    - [Stanford Large Language Models (Lecture 1 - Introduction)](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
   
-### Deep Learning Basics ([Phil Swatton](https://github.com/philswatton) & [Jack Roberts](https://github.com/jack89roberts))
-
-**Main**
-  - [Neural Networks and Deep Learning | Chapter 1: Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
-  - [Neural Networks and Deep Learning | Chapter 2: How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-    - Alternatively, come along to [Phil and Jack's Lunchtime Tech Talk](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) on Back Propagation (April 11th) - message on the `#hut23-robots-in-disguise` slack if you want to get a calendar invite for the session
-
-**Extra**
-  - [Learning Deep Learning | Chapters 1 and 2](https://jack89roberts.github.io/learning-deep-learning/index.html)
-  - [Neural Networks by Hand | Feedforward Neural Networks](https://philswatton.github.io/neural-networks-by-hand/feedforward-neural-network.html)
-  - [Andrej Karparthy (YouTube): The spelled-out intro to neural networks and backpropagation](https://youtu.be/VMj-3S1tku0)
-
-**Note**: material below is not confirmed for the session yet...
-
-### Sequence-to-sequence models: Part I (Recurrent Neural Networks) ([Ryan Chan](https://github.com/rchan26))
-
 - RNNs / LSTMs
   - [Speech and Language Processing - Chapter 7: Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
   - [Speech and Language Processing - Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
