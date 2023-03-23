@@ -25,7 +25,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## Material for sessions
 
-- Introduction to Word Embeddings and Language modelling
+### Introduction to Word Embeddings and Language modelling
+
   - Main
     - [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
     - [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
@@ -40,12 +41,29 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
     - [Stanford Large Language Models (Lecture 1 - Introduction)](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
   
 - RNNs / LSTMs
-  - [Speech and Language Processing - Chapter 7: Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
-  - [Speech and Language Processing - Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
-  - [Stanford NLP with Deep Learning (Lecture 5 - RNNs)](https://youtu.be/PLryWeHPcBs)
-  - [Stanford NLP with Deep Learning (Lecture 6 - Simple LSTM RNNs)](https://youtu.be/0LixFSa7yts)
+
   
 - Attention
   - [Michigan Deep Learning for Comp Vis (Lecture 13 - Attention)](https://www.youtube.com/watch?v=YAgjfMR9R_M)
   - [Stanford NLP with Deep Learning (Lecture 7 - Translation, Seq2Seq, Attention)](https://youtu.be/wzfWHP6SXxY)
   
+### Deep Learning Basics
+
+**Main**
+  - [Neural Networks and Deep Learning | Chapter 1: Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+  - [Neural Networks and Deep Learning | Chapter 2: How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+    - Alternatively, come along to [Phil and Jack's Lunchtime Tech Talk](https://github.com/alan-turing-institute/DataScienceSkills/wiki/Lunchtime-Tech-Talks) on Back Propagation (April 11th) - message on the `#hut23-robots-in-disguise` slack if you want to get a calendar invite for the session
+
+**Extra**
+  - [Learning Deep Learning | Chapters 1 and 2](https://jack89roberts.github.io/learning-deep-learning/index.html)
+  - [Neural Networks by Hand | Feedforward Neural Networks](https://philswatton.github.io/neural-networks-by-hand/feedforward-neural-network.html)
+  - [Andrej Karparthy (YouTube): The spelled-out intro to neural networks and backpropagation](https://youtu.be/VMj-3S1tku0)
+
+### RNNs / LSTMs
+
+**Note**: material below is not confirmed for the session yet...
+
+  - [Speech and Language Processing - Chapter 7: Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+  - [Speech and Language Processing - Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+  - [Stanford NLP with Deep Learning (Lecture 5 - RNNs)](https://youtu.be/PLryWeHPcBs)
+  - [Stanford NLP with Deep Learning (Lecture 6 - Simple LSTM RNNs)](https://youtu.be/0LixFSa7yts)
