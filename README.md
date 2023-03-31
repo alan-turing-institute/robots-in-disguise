@@ -73,7 +73,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
   
 **Extra**
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- - [NLP with Deep Learning Stanford Course | Lecture 5](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+- [NLP with Deep Learning Stanford Course | Lecture 5](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
   - Read from Section 3 (read pages 11 onwards)
 - [NLP with Deep Learning Stanford Course | Lecture 6](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
 - [Stanford NLP with Deep Learning | Lecture 6: Simple LSTM RNNs](https://youtu.be/0LixFSa7yts)
