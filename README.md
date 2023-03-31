@@ -53,7 +53,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Neural Networks by Hand | Feedforward Neural Networks](https://philswatton.github.io/neural-networks-by-hand/feedforward-neural-network.html)
 - [Andrej Karparthy (YouTube): The spelled-out intro to neural networks and backpropagation](https://youtu.be/VMj-3S1tku0)
 
-## RNNs / LSTMs (Session 1)
+## RNNs / LSTMs (Part I)
 
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
@@ -65,7 +65,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
   - Read up to Section 3 (read pages 1-11)
 - [Stanford NLP with Deep Learning | Lecture 5: RNNs)](https://you.be/PLryWeHPcBs)
 
-## RNNs / LSTMs (Session 2)
+## RNNs / LSTMs (Part II)
 
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
