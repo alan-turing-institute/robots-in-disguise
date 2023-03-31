@@ -58,9 +58,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
   - Read up to Section 9.5 (read pages 1-13)
-- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 **Extra**
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [NLP with Deep Learning Stanford Course | Lecture 5](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
   - Read up to Section 3 (read pages 1-11)
 - [Stanford NLP with Deep Learning | Lecture 5: RNNs)](https://you.be/PLryWeHPcBs)
@@ -70,13 +70,13 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
   - Read from 9.5 (read pages 14 onwards)
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   
 **Extra**
-- [NLP with Deep Learning Stanford Course | Lecture 5](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- - [NLP with Deep Learning Stanford Course | Lecture 5](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
   - Read from Section 3 (read pages 11 onwards)
- - [NLP with Deep Learning Stanford Course | Lecture 6](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
- - [Stanford NLP with Deep Learning | Lecture 6: Simple LSTM RNNs](https://youtu.be/0LixFSa7yts)
+- [NLP with Deep Learning Stanford Course | Lecture 6](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+- [Stanford NLP with Deep Learning | Lecture 6: Simple LSTM RNNs](https://youtu.be/0LixFSa7yts)
 
 ---
 
