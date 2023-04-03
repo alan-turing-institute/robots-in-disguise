@@ -21,7 +21,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 17/04/23 | Sequence-to-sequence models part I (RNN) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | 01/05/23 | Sequence-to-sequence models part II (LSTM) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | 15/05/23 | Hands-on RNN/LSTM session | David Blackwell | N/A |
-| 29/05/23 | Attention and Self-attention networks | David Blackwell | N/A |
+| 29/05/23 | Attention and Self-attention networks | David Blackwell | [Martin Stoffel](https://github.com/mastoffel)|
 
 # Material for sessions
 
