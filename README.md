@@ -69,7 +69,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
-  - Read from 9.5 (read pages 14 onwards)
+  - Read from 9.5 to 9.8 (read pages 14-21)
   
 **Extra**
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -84,6 +84,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
   
 **Attention**
 - [Michigan Deep Learning for Comp Vis | Lecture 13: Attention](https://www.youtube.com/watch?v=YAgjfMR9R_M)
+- [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+  - Read from 9.8 (read pages from 21 onwards)
 - [Speech and Language Processing | Chapter 10: Transformers and Pretrained Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 - [Stanford NLP with Deep Learning | Lecture 7: Translation, Seq2Seq, Attention](https://youtu.be/wzfWHP6SXxY)
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
