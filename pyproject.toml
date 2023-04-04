@@ -17,6 +17,10 @@ torchvision = "^0.15.1"
 matplotlib = "^3.7.1"
 jupyter = "^1.0.0"
 jupyterlab = "^3.6.3"
+transformers = "^4.27.4"
+spacy = "^3.5.1"
+sklearn = "^0.0.post1"
+scikit-learn = "^1.2.2"
 
 
 [tool.poetry.group.dev.dependencies]
