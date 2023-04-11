@@ -17,9 +17,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
 | 20/03/23 | Introduction to word embeddings and language modelling ([Slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing)) | David Blackwell | [Fede Nanni](https://github.com/fedenanni) |
-| 03/04/23 | Deep Learning Basics | David Blackwell | [Phil Swatton](https://github.com/philswatton) & [Jack Roberts](https://github.com/jack89roberts) |
-| 17/04/23 | Sequence-to-sequence models part I (RNN) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
-| 01/05/23 | Sequence-to-sequence models part II (LSTM) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
+| 03/04/23 | Deep Learning Basics ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/02-deep-learning/Robots_Neural_Networks_2023-04-03.pptx)) | David Blackwell | [Phil Swatton](https://github.com/philswatton) & [Jack Roberts](https://github.com/jack89roberts) |
+| 17/04/23 | Sequence-to-sequence models part I: RNNs/LSTMs | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
+| 01/05/23 | Sequence-to-sequence models part II: Encoder-decoder models | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | 15/05/23 | Hands-on RNN/LSTM session | David Blackwell | N/A |
 | 29/05/23 | Attention and self-attention networks | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
 | 12/06/23 | Hack Week | David Blackwell | N/A |
@@ -57,7 +57,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Neural Networks by Hand | Feedforward Neural Networks](https://philswatton.github.io/neural-networks-by-hand/feedforward-neural-network.html)
 - [Andrej Karparthy (YouTube): The spelled-out intro to neural networks and backpropagation](https://youtu.be/VMj-3S1tku0)
 
-## RNNs / LSTMs (Part I)
+## Sequence-to-sequence models part I: RNNs/LSTMs
 
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
@@ -69,7 +69,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
   - Read up to Section 3 (read pages 1-11)
 - [Stanford NLP with Deep Learning | Lecture 5: RNNs)](https://you.be/PLryWeHPcBs)
 
-## RNNs / LSTMs (Part II)
+## Sequence-to-sequence models part II: Encoder-decoder models
 
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
