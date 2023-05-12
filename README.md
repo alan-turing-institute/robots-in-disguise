@@ -20,7 +20,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 03/04/23 | Deep Learning Basics ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/02-deep-learning/Robots_Neural_Networks_2023-04-03.pptx)) | David Blackwell | [Phil Swatton](https://github.com/philswatton) & [Jack Roberts](https://github.com/jack89roberts) |
 | 17/04/23 | Sequence-to-sequence models part I: RNNs/LSTMs ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/03-seq2seq-part-i/seq2seq_part1_hut23_robots_in_disguise.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | 03/05/23 | Sequence-to-sequence models part II: Encoder-decoder models ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/04-seq2seq-part-ii/seq2seq_part2_hut23_robots_in_disguise.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
-| 15/05/23 | Hands-on RNN/LSTM session | David Blackwell | N/A |
+| 15/05/23 | Hands-on RNN/LSTM session | David Blackwell | [Nathan Simpson](https://github.com/phinate), [Levan Bokeria](https://github.com/lbokeria), [David Llewellyn-Jones](https://github.com/llewelld) |
 | 31/05/23 | Attention and self-attention networks | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
 | 12/06/23 | Hack Week | David Blackwell | N/A |
 | 26/06/23 | Transformer Encoder and Decoders | David Blackwell | N/A |
