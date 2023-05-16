@@ -29,7 +29,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 # Material for sessions
 
-## Introduction to Word Embeddings and Language modelling
+## 20/03/23: Introduction to Word Embeddings and Language modelling
 
 **Main**
   - [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
@@ -45,7 +45,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
   - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
   - [Stanford Large Language Models | Lecture 1: Introduction](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
     
-## Deep Learning Basics
+## 03/04/23: Deep Learning Basics
 
 **Main**
 - [Neural Networks and Deep Learning | Chapter 1: Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
@@ -57,7 +57,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Neural Networks by Hand | Feedforward Neural Networks](https://philswatton.github.io/neural-networks-by-hand/feedforward-neural-network.html)
 - [Andrej Karparthy (YouTube): The spelled-out intro to neural networks and backpropagation](https://youtu.be/VMj-3S1tku0)
 
-## Sequence-to-sequence models part I: RNNs/LSTMs
+## 17/04/23: Sequence-to-sequence models part I: RNNs/LSTMs
 
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
@@ -69,7 +69,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
   - Read up to Section 3 (read pages 1-11)
 - [Stanford NLP with Deep Learning | Lecture 5: RNNs)](https://you.be/PLryWeHPcBs)
 
-## Sequence-to-sequence models part II: Encoder-decoder models
+## 03/05/23: Sequence-to-sequence models part II: Encoder-decoder models
 
 **Main**
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
@@ -81,24 +81,25 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
   - Read from Section 3 (read pages 11 onwards)
 - [Stanford NLP with Deep Learning | Lecture 6: Simple LSTM RNNs](https://youtu.be/0LixFSa7yts)
 
----
-
-## Attention
+## 31/05/23: Attention
 
 **Main**
 - [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
 **Extra**
-- [The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Andrej Karpathy's GPT-2 from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=4766s)
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
   - Read from 9.8 (read pages from 21 onwards)
 - [Speech and Language Processing | Chapter 10: Transformers and Pretrained Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
+- [Anthropic's Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 - [NLP with Deep Learning Stanford Course | Lecture 6](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
-- [NLP with Deep Learning Stanford Course | Self-Attention & Transformers](https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf)
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 - [Stanford NLP with Deep Learning | Lecture 7: Translation, Seq2Seq, Attention](https://youtu.be/wzfWHP6SXxY)
 - [Stanford NLP with Deep Learning | Lecture 9: Self- Attention and Transformers](https://youtu.be/ptuGllU5SQQ)
 - [Michigan Deep Learning for Comp Vis | Lecture 13: Attention](https://www.youtube.com/watch?v=YAgjfMR9R_M)
-- [Anthropic's Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
+**Note**: material below is not confirmed for the session yet...
+
+## Transformer Encoder and Decoders
+- [NLP with Deep Learning Stanford Course | Self-Attention & Transformers](https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf)
