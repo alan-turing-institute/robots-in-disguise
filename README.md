@@ -83,9 +83,14 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ---
 
-**Note**: material below is not confirmed for the session yet...
-  
-**Attention**
+## Attention
+
+**Main**
+- [Attention is all you need](https://arxiv.org/abs/1706.03762)
+
+**Extra**
+- [The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Andrej Karpathy's GPT-2 from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=4766s)
 - [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
   - Read from 9.8 (read pages from 21 onwards)
 - [Speech and Language Processing | Chapter 10: Transformers and Pretrained Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
@@ -95,4 +100,5 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Stanford NLP with Deep Learning | Lecture 7: Translation, Seq2Seq, Attention](https://youtu.be/wzfWHP6SXxY)
 - [Stanford NLP with Deep Learning | Lecture 9: Self- Attention and Transformers](https://youtu.be/ptuGllU5SQQ)
 - [Michigan Deep Learning for Comp Vis | Lecture 13: Attention](https://www.youtube.com/watch?v=YAgjfMR9R_M)
+- [Anthropic's Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
