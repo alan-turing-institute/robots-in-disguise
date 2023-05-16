@@ -6,7 +6,7 @@ Follow `#hut23-robots-in-disguise` on Slack for the most recent updates.
 
 ## Overview
 
-The group meets every <b>2 weeks on Mondays at 11am</b>. Everyone is welcome to join! If you have any questions email [Ryan](mailto:rchan@turing.ac.uk).
+The group meets every <b>2 weeks on Mondays at 11-12</b>. Everyone is welcome to join! If you have any questions email [Ryan](mailto:rchan@turing.ac.uk).
 
 The plan is to learn about transformer models (assuming little knowledge of deep learning and NLP) with the end goal of implementing a transformers model from scratch.
 
