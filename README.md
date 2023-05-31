@@ -22,7 +22,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 03/05/23 | Sequence-to-sequence models part II: Encoder-decoder models ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/04-seq2seq-part-ii/seq2seq_part2_hut23_robots_in_disguise.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | 15/05/23 | Hands-on RNN/LSTM session ([Materials](https://github.com/phinate/jax-rnn))| David Blackwell | [Nathan Simpson](https://github.com/phinate), [Levan Bokeria](https://github.com/lbokeria), [David Llewellyn-Jones](https://github.com/llewelld) |
 | 31/05/23 | Reginald overview & Attention and self-attention networks | David Blackwell | [Evelina Gabasova](https://github.com/evelinag), [Martin Stoffel](https://github.com/mastoffel) |
-| 26/06/23 | Transformer Encoder and Decoders | David Blackwell | N/A |
+| 26/06/23 | Transformer Encoder and Decoders | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
 | 10/07/23 | Tokenizers, Masked Language modelling and Pre-training | David Blackwell | N/A |
 | 24/07/23 | Huggingface tutorial | David Blackwell | N/A |
 
@@ -88,9 +88,6 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 **Extra**
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Andrej Karpathy's GPT-2 from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=4766s)
-- [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
-  - Read from 9.8 (read pages from 21 onwards)
-- [Speech and Language Processing | Chapter 10: Transformers and Pretrained Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 - [Anthropic's Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 - [NLP with Deep Learning Stanford Course | Lecture 6](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
@@ -98,7 +95,17 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Stanford NLP with Deep Learning | Lecture 9: Self- Attention and Transformers](https://youtu.be/ptuGllU5SQQ)
 - [Michigan Deep Learning for Comp Vis | Lecture 13: Attention](https://www.youtube.com/watch?v=YAgjfMR9R_M)
 
-**Note**: material below is not confirmed for the session yet...
+## 26/06/23: Transformer Encoder and Decoders
 
-## Transformer Encoder and Decoders
+**Main**
+- [Attention is all you need](https://arxiv.org/abs/1706.03762)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+
+**Extra**
+- [Speech and Language Processing | Chapter 9: RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+  - Read from 9.8 (read pages from 21 onwards)
+- [Speech and Language Processing | Chapter 10: Transformers and Pretrained Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 - [NLP with Deep Learning Stanford Course | Self-Attention & Transformers](https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf)
+
+**Note**: material below is not confirmed for the session yet...
