@@ -22,7 +22,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 03/05/23 | Sequence-to-sequence models part II: Encoder-decoder models ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/04-seq2seq-part-ii/seq2seq_part2_hut23_robots_in_disguise.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | 15/05/23 | Hands-on RNN/LSTM session ([Materials](https://github.com/phinate/jax-rnn))| David Blackwell | [Nathan Simpson](https://github.com/phinate), [Levan Bokeria](https://github.com/lbokeria), [David Llewellyn-Jones](https://github.com/llewelld) |
 | 31/05/23 | Reginald overview & Attention and self-attention networks ([Notebook](https://github.com/alan-turing-institute/transformers-reading-group/tree/main/REGinalds/gpt2-demo)) | David Blackwell | [Evelina Gabasova](https://github.com/evelinag), [Martin Stoffel](https://github.com/mastoffel) |
-| 26/06/23 | Transformer Encoder and Decoders | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
+| 26/06/23 | Attention continued & Transformer Encoder and Decoders | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
 | 10/07/23 | Tokenizers, Masked Language modelling and Pre-training | David Blackwell | N/A |
 | 24/07/23 | Huggingface tutorial | David Blackwell | N/A |
 
