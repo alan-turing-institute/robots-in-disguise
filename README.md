@@ -27,7 +27,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 24/07/23 | Tokenizers, Huggingface tutorial | David Blackwell | N/A |
 | 07/08/23 | Pretraining Decoders | David Blackwell | N/A |
 | 21/08/23 | - | David Blackwell | N/A |
-| 04/09/23 | RSECon23 | David Blackwell | N/A |
+| 04/09/23 | - | David Blackwell | N/A |
 | 18/09/23 | - | David Blackwell | N/A |
 
 # Material for sessions
