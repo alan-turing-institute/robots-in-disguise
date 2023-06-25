@@ -25,6 +25,10 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 26/06/23 | Attention (continued) & Transformer Encoder and Decoders | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
 | 10/07/23 | Masked Language modelling and Pre-training | David Blackwell | N/A |
 | 24/07/23 | Tokenizers, Huggingface tutorial | David Blackwell | N/A |
+| 07/08/23 | Pretraining Decoders | David Blackwell | N/A |
+| 21/08/23 | - | David Blackwell | N/A |
+| 04/09/23 | RSECon23 | David Blackwell | N/A |
+| 18/09/23 | - | David Blackwell | N/A |
 
 # Material for sessions
 
@@ -125,3 +129,13 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 **Main**
 - [Huggingface Tokenizer tutorial](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt)
 - [Huggingface `transformers` course](https://huggingface.co/learn/nlp-course/chapter2/1?fw=pt)
+
+## 07/08/23: Pretraining Decoders
+
+**Main**
+
+- [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+**Extra**
+- [Paper summary - Improving Language Understanding by Generative Pre-Training](https://sh-tsang.medium.com/review-gpt-improving-language-understanding-by-generative-pre-training-28f30d39cd10)
+- [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
