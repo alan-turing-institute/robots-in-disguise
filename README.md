@@ -23,8 +23,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 15/05/23 | Hands-on RNN/LSTM session ([Materials](https://github.com/phinate/jax-rnn))| David Blackwell | [Nathan Simpson](https://github.com/phinate), [Levan Bokeria](https://github.com/lbokeria), [David Llewellyn-Jones](https://github.com/llewelld) |
 | 31/05/23 | Reginald overview & Attention and self-attention networks ([Notebook](https://github.com/alan-turing-institute/transformers-reading-group/tree/main/REGinalds/gpt2-demo)) | David Blackwell | [Evelina Gabasova](https://github.com/evelinag), [Martin Stoffel](https://github.com/mastoffel) |
 | 26/06/23 | Attention (continued) & Transformer Encoder and Decoders | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
-| 10/07/23 | Tokenizers, Masked Language modelling and Pre-training | David Blackwell | N/A |
-| 24/07/23 | Huggingface tutorial | David Blackwell | N/A |
+| 10/07/23 | Masked Language modelling and Pre-training | David Blackwell | N/A |
+| 24/07/23 | Tokenizers, Huggingface tutorial | David Blackwell | N/A |
 
 # Material for sessions
 
@@ -109,3 +109,19 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [NLP with Deep Learning Stanford Course | Self-Attention & Transformers](https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf)
 
 **Note**: material below is not confirmed for the session yet...
+
+## 10/07/23: Masked Language modelling and Pre-training
+
+**Main**
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+
+**Extra**
+- [Speech and Language Processing | Chapter 11: Fine-Tuning and Masked Language Models](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
+- [BERT 101 🤗 State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101)
+- [Paper summary — BERT](https://medium.com/analytics-vidhya/paper-summary-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-861456fed1f9)
+
+## 24/07/23: Tokenizers and Huggingface tutorial
+
+**Main**
+- [Huggingface Tokenizer tutorial](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt)
+- [Huggingface `transformers` course](https://huggingface.co/learn/nlp-course/chapter2/1?fw=pt)
