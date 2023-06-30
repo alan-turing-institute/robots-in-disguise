@@ -128,6 +128,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 **Extra**
 - [Speech and Language Processing | Chapter 11: Fine-Tuning and Masked Language Models](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
+- [The Illustrated BERT](http://jalammar.github.io/illustrated-bert/)
 - [BERT 101 🤗 State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101)
 - [Paper summary — BERT](https://medium.com/analytics-vidhya/paper-summary-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-861456fed1f9)
 
