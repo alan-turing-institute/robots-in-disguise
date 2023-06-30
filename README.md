@@ -23,7 +23,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 15/05/23 | Hands-on RNN/LSTM session ([Materials](https://github.com/phinate/jax-rnn))| David Blackwell | [Nathan Simpson](https://github.com/phinate), [Levan Bokeria](https://github.com/lbokeria), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [31/05/23](#310523) | Reginald overview & Attention and self-attention networks ([Notebook](https://github.com/alan-turing-institute/transformers-reading-group/tree/main/REGinalds/gpt2-demo)) | David Blackwell | [Evelina Gabasova](https://github.com/evelinag), [Martin Stoffel](https://github.com/mastoffel) |
 | [26/06/23](#260623) | Attention (continued) ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/05-attention/attention.pdf)) & Transformer Encoder and Decoders ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/06-transformers-architecture/transformer_architecture_hut23_robots_in_disguise.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
-| [10/07/23](#100723) | Masked Language modelling and Pre-training | David Blackwell | N/A |
+| [10/07/23](#100723) | BERT: Masked Language modelling and Pre-training | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [24/07/23](#240723) | Tokenizers, Huggingface tutorial | David Blackwell | N/A |
 | [07/08/23](#070823) | Pretraining Decoders | David Blackwell | N/A |
 | 21/08/23 | Prompting, Reinforcement Learning from Human Feedback | David Blackwell | N/A |
@@ -121,7 +121,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 **Note**: material below is not confirmed for the session yet...
 
 ## 10/07/23
-### Masked Language modelling and Pre-training
+### BERT: Masked Language modelling and Pre-training
 
 **Main**
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
