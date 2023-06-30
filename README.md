@@ -26,7 +26,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [10/07/23](#100723) | BERT: Masked Language modelling and Pre-training | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [24/07/23](#240723) | Tokenizers, Huggingface tutorial | David Blackwell | N/A |
 | [07/08/23](#070823) | GPT: Pretraining Decoders | David Blackwell | N/A |
-| 21/08/23 | Prompting, Reinforcement Learning from Human Feedback | David Blackwell | N/A |
+| 21/08/23 | - | David Blackwell | N/A |
 | 04/09/23 | - | David Blackwell | N/A |
 | 18/09/23 | - | David Blackwell | N/A |
 
