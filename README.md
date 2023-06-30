@@ -10,7 +10,7 @@ The group meets every <b>2 weeks on Mondays at 11-12</b>. Everyone is welcome to
 
 The plan is to learn about transformer models (assuming little knowledge of deep learning and NLP) with the end goal of implementing a transformers model from scratch.
 
-Please add suggestions and emoji preferences to the [list of proposed topics](https://hackmd.io/NILcoBk1QquVNkDR6dbIBA) on HackMD.
+Please add suggestions and emoji preferences to the [list of proposed topics](https://hackmd.io/4zHl_1G6Se-yumHTN48dqg?both) on HackMD.
 
 ## Schedule
 
