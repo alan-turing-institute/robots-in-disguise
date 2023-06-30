@@ -25,7 +25,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [26/06/23](#260623) | Attention (continued) ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/05-attention/attention.pdf)) & Transformer Encoder and Decoders ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/06-transformers-architecture/transformer_architecture_hut23_robots_in_disguise.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
 | [10/07/23](#100723) | BERT: Masked Language modelling and Pre-training | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [24/07/23](#240723) | Tokenizers, Huggingface tutorial | David Blackwell | N/A |
-| [07/08/23](#070823) | Pretraining Decoders | David Blackwell | N/A |
+| [07/08/23](#070823) | GPT: Pretraining Decoders | David Blackwell | N/A |
 | 21/08/23 | Prompting, Reinforcement Learning from Human Feedback | David Blackwell | N/A |
 | 04/09/23 | - | David Blackwell | N/A |
 | 18/09/23 | - | David Blackwell | N/A |
@@ -140,7 +140,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Huggingface `transformers` course](https://huggingface.co/learn/nlp-course/chapter2/1?fw=pt)
 
 ## 07/08/23
-### Pretraining Decoders
+### GPT: Pretraining Decoders
 
 **Main**
 
