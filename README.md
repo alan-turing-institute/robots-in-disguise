@@ -24,11 +24,16 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [31/05/23](#310523) | Reginald overview & Attention and self-attention networks ([Notebook](https://github.com/alan-turing-institute/transformers-reading-group/tree/main/REGinalds/gpt2-demo)) | David Blackwell | [Evelina Gabasova](https://github.com/evelinag), [Martin Stoffel](https://github.com/mastoffel) |
 | [26/06/23](#260623) | Attention (continued) ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/05-attention/attention.pdf)) & Transformer Encoder and Decoders ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/06-transformers-architecture/transformer_architecture_hut23_robots_in_disguise.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
 | [10/07/23](#100723) | BERT: Masked Language modelling and Pre-training | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
-| [24/07/23](#240723) | Tokenizers, Huggingface tutorial | David Blackwell | N/A |
-| [07/08/23](#070823) | GPT: Pretraining Decoders | David Blackwell | N/A |
-| 21/08/23 | - | David Blackwell | N/A |
-| 04/09/23 | - | David Blackwell | N/A |
-| 18/09/23 | - | David Blackwell | N/A |
+| [24/07/23](#240723) | GPT: Pretraining Decoders | David Blackwell | N/A |
+| [07/08/23](#070823) | Vision Transformers | David Blackwell | N/A |
+| [21/08/23](#210823) | Vision Transformers | David Blackwell | N/A |
+| 04/09/23 | **No session due to RSECon22** | David Blackwell | N/A |
+| [18/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
+| [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
+| 16/10/23 | N/A | David Blackwell | N/A |
+| 30/10/23 | N/A | David Blackwell | N/A |
+| 13/11/23 | N/A | David Blackwell | N/A |
+| 27/11/23 | N/A | David Blackwell | N/A |
 
 # Material for sessions
 
@@ -133,15 +138,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Paper summary — BERT](https://medium.com/analytics-vidhya/paper-summary-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-861456fed1f9)
 
 ## 24/07/23
-### Tokenizers and Huggingface tutorial
-
-**Main**
-- [Huggingface Tokenizer tutorial](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt)
-- [Huggingface `transformers` course](https://huggingface.co/learn/nlp-course/chapter2/1?fw=pt)
-
-## 07/08/23
 ### GPT: Pretraining Decoders
-
 **Main**
 
 - [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -149,3 +146,23 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 **Extra**
 - [Paper summary - Improving Language Understanding by Generative Pre-Training](https://sh-tsang.medium.com/review-gpt-improving-language-understanding-by-generative-pre-training-28f30d39cd10)
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+**Note** the below materials for other sessions, or are not confirmed
+
+## 07/08/23
+### Vision Transformer
+
+## 21/08/23
+### Vision Transformer
+
+## 18/09/23
+### LoRA (+ parameter efficient fine-tuning)
+
+## 02/10/23
+### Reinforcement Learning Human Feedback (RLHF)
+
+### Tokenizers and Huggingface tutorial
+
+**Main**
+- [Huggingface Tokenizer tutorial](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt)
+- [Huggingface `transformers` course](https://huggingface.co/learn/nlp-course/chapter2/1?fw=pt)
