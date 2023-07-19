@@ -30,7 +30,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | 04/09/23 | **No session due to RSECon23** | David Blackwell | N/A |
 | [18/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
-| 16/10/23 | N/A | David Blackwell | N/A |
+| [16/10/23](#161023) | Prompt Engineering | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
 | 30/10/23 | N/A | David Blackwell | N/A |
 | 13/11/23 | N/A | David Blackwell | N/A |
 | 27/11/23 | N/A | David Blackwell | N/A |
@@ -160,6 +160,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## 02/10/23
 ### Reinforcement Learning Human Feedback (RLHF)
+
+## 16/10/23
+### Prompt Engineering
 
 ### Tokenizers and Huggingface tutorial
 
