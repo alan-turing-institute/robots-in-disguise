@@ -25,8 +25,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [26/06/23](#260623) | Attention (continued) ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/05-attention/attention.pdf)) & Transformer Encoder and Decoders ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/06-transformers-architecture/transformer_architecture_hut23_robots_in_disguise.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel), [Ryan Chan](https://github.com/rchan26) |
 | [10/07/23](#100723) | BERT: Masked Language modelling and Pre-training | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [24/07/23](#240723) | GPT: Pretraining Decoders | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
-| [07/08/23](#070823) | Vision Transformers | David Blackwell | N/A |
-| [21/08/23](#210823) | Vision Transformers | David Blackwell | N/A |
+| [07/08/23](#070823) | Vision Transformers | [Ryan Chan](https://github.com/rchan26) | N/A |
+| [21/08/23](#210823) | Vision Transformers | [Ryan Chan](https://github.com/rchan26) | N/A |
 | 04/09/23 | **No session due to RSECon23** | David Blackwell | N/A |
 | [18/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
@@ -151,6 +151,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## 07/08/23
 ### Vision Transformer
+**Main**
+
+- [An Image Is Worth 16x16 Words: Transformers for Image Recongition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 
 ## 21/08/23
 ### Vision Transformer
