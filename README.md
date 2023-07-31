@@ -139,8 +139,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## 24/07/23
 ### GPT: Pretraining Decoders
-**Main**
 
+**Main**
 - [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 **Extra**
@@ -151,9 +151,12 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## 07/08/23
 ### Vision Transformer
-**Main**
 
+**Main**
 - [An Image Is Worth 16x16 Words: Transformers for Image Recongition at scale](https://arxiv.org/pdf/2010.11929.pdf)
+
+**Extra**
+- [Vision Transformer for Image Classification - Shusen Wang (YouTube)](https://youtu.be/HZ4j_U3FC94)
 
 ## 21/08/23
 ### Vision Transformer
