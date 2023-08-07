@@ -153,10 +153,16 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 ### Vision Transformer
 
 **Main**
+- [Gradient Based Learning Applied to Document Recognition](https://ieeexplore.ieee.org/document/726791)
 - [An Image Is Worth 16x16 Words: Transformers for Image Recongition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 
 **Extra**
 - [Vision Transformer for Image Classification - Shusen Wang (YouTube)](https://youtu.be/HZ4j_U3FC94)
+- [Neocognitron: A Self-organizing Neural Network Model
+for a Mechanism of Pattern Recognition
+Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf)
+- [But what is a convolution? - 3Blue1Brown (YouTube)](https://www.youtube.com/watch?v=KuXjwB4LzSA&t=705s)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## 21/08/23
 ### Vision Transformer
