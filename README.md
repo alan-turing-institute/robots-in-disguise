@@ -31,9 +31,10 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [18/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
 | [16/10/23](#161023) | Prompt Engineering | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
-| 30/10/23 | Introduction to Diffusion models | David Blackwell | N/A |
-| 13/11/23 | Stable Diffusion | David Blackwell | N/A |
+| [30/10/23](#301023) | Introduction to Diffusion models | David Blackwell | N/A |
+| [13/11/23](#131123) | Stable Diffusion | David Blackwell | N/A |
 | 27/11/23 | N/A | David Blackwell | N/A |
+| 11/12/23 | N/A | David Blackwell | N/A |
 
 # Material for sessions
 
@@ -150,7 +151,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 **Note** the below materials for other sessions, or are not confirmed
 
 ## 07/08/23
-### Vision Transformer
+### Vision Transformers part I
 
 **Main**
 - [Gradient Based Learning Applied to Document Recognition](https://ieeexplore.ieee.org/document/726791)
@@ -165,7 +166,12 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## 21/08/23
-### Vision Transformer
+### Vision Transformers part II
+
+**Main**
+
+**Extra**
+
 
 ## 18/09/23
 ### LoRA (+ parameter efficient fine-tuning)
@@ -175,6 +181,12 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 
 ## 16/10/23
 ### Prompt Engineering
+
+## 30/10/23
+### Introduction to Diffusion models
+
+## 13/11/23
+### Stable Diffusion
 
 ### Tokenizers and Huggingface tutorial
 
