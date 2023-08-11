@@ -124,8 +124,6 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Speech and Language Processing | Chapter 10: Transformers and Pretrained Language Models](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 - [NLP with Deep Learning Stanford Course | Self-Attention & Transformers](https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf)
 
-**Note**: material below is not confirmed for the session yet...
-
 ## 10/07/23
 ### BERT: Masked Language modelling and Pre-training
 
