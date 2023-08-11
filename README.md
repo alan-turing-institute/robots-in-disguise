@@ -167,9 +167,10 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 ### Vision Transformers part II
 
 **Main**
+- [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)
 
 **Extra**
-
+- [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
 
 ## 18/09/23
 ### LoRA (+ parameter efficient fine-tuning)
