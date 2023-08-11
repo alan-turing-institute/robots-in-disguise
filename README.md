@@ -31,8 +31,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [18/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
 | [16/10/23](#161023) | Prompt Engineering | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
-| [30/10/23](#301023) | Introduction to Diffusion models | David Blackwell | N/A |
-| [13/11/23](#131123) | Stable Diffusion | David Blackwell | N/A |
+| [30/10/23](#301023) | Introduction to Diffusion models | David Blackwell | Edmund Dable-Heath |
+| [13/11/23](#131123) | Stable Diffusion | David Blackwell | Edmund Dable-Heath |
 | 27/11/23 | N/A | David Blackwell | N/A |
 | 11/12/23 | N/A | David Blackwell | N/A |
 
