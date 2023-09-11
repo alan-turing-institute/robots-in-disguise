@@ -31,9 +31,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [18/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
 | [16/10/23](#161023) | Prompt Engineering | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
-| [30/10/23](#301023) | Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
+| [30/10/23](#301023) | Knowledge retrieval LLMs | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [13/11/23](#131123) | Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| [27/11/23](#271123) | Knowledge retrieval LLMs | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
+| [27/11/23](#271123) | Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | 11/12/23 | N/A | David Blackwell | N/A |
 
 # Material for sessions
@@ -189,16 +189,13 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 ### Prompt Engineering
 
 ## 30/10/23
-### Introduction to Diffusion models
-
-## 13/11/23
-### Stable Diffusion
+### Knowledge retrieval LLMs
 
 ## 13/11/23
 ### Stable Diffusion
 
 ## 27/11/23
-### Knowledge retrieval LLMs
+### Introduction to Diffusion models
 
 ### Tokenizers and Huggingface tutorial
 
