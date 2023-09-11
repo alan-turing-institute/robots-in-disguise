@@ -175,6 +175,13 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 ## 18/09/23
 ### LoRA (+ parameter efficient fine-tuning)
 
+**Main**
+- [Huggingface PEFT library](https://huggingface.co/docs/peft/index)
+
+**Extra**
+- [LoRA: Low-Rank Adaption of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+- [LoRA conceptual guide](https://huggingface.co/docs/peft/conceptual_guides/lora)
+
 ## 02/10/23
 ### Reinforcement Learning Human Feedback (RLHF)
 
