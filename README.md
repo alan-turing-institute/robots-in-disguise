@@ -185,6 +185,20 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 ## 02/10/23
 ### Reinforcement Learning Human Feedback (RLHF)
 
+**Main**
+- [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+
+**Extra**
+- [An introduction to Reinforcement Learning](https://youtu.be/JgvyzIkgxF0)
+- [Understanding Reinforcement Learning from Human Feedback (RLHF): Part 1](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
+- [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
+- [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/abs/2307.04964)
+
+**Beyond RLHF**
+- [Reinforced Self-Training (ReST) for Language Modeling](https://arxiv.org/abs/2308.08998)
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+
 ## 16/10/23
 ### Prompt Engineering
 
