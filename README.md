@@ -34,7 +34,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [30/10/23](#301023) | Knowledge retrieval LLMs | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [13/11/23](#131123) | Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [27/11/23](#271123) | Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| 11/12/23 | N/A | David Blackwell | N/A |
+| [11/12/23](#111223) | Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 
 # Material for sessions
 
@@ -210,6 +210,9 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 
 ## 27/11/23
 ### Introduction to Diffusion models
+
+## 11/12/23
+### Mechanistic interpretability
 
 ### Tokenizers and Huggingface tutorial
 
