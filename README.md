@@ -29,7 +29,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [21/08/23](#210823) | Vision Transformers part II ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/10-vision-transformers-part-ii/vision_transformer_part2_hut23_robots_in_disguise.pdf)) | David Blackwell | [Katie Awty-Carroll](https://github.com/klh5) |
 | 04/09/23 | **No session due to RSECon23** | David Blackwell | N/A |
 | [18/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) part I ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/11-peft/20230915_PEFT.pdf)) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
-| [25/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) part II ([Notebook](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/11-peft/peft.ipynb)) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
+| [25/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) part II ([Notebook](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/11-peft/peft.ipynb)) | Margaret Hamilton | [Jack Roberts](https://github.com/jack89roberts) |
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
 | [16/10/23](#161023) | Prompt Engineering | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
 | [30/10/23](#301023) | Knowledge retrieval LLMs | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
