@@ -203,6 +203,17 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 ## 16/10/23
 ### Prompt Engineering
 
+**Guides**
+- [https://docs.anthropic.com/claude/docs/introduction-to-prompt-design]
+- [https://www.assemblyai.com/docs/guides/lemur-best-practices]
+
+**Videos**
+- (Jeremy Howard)[https://www.youtube.com/watch?v=jkrNMKz9pWU&t=1475s]
+- (Andrej Karpathy)[https://www.youtube.com/watch?v=bZQun8Y4L2A&t=408s]
+
+**Meta**
+- [https://github.com/promptslab/Awesome-Prompt-Engineering]
+
 ## 30/10/23
 ### Knowledge retrieval LLMs
 
