@@ -32,11 +32,11 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/12-rlhf/2023-10-02-rlhf.pdf)) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
 | [16/10/23](#161023) | Prompt Engineering ([Slides](https://github.com/alan-turing-institute/transformers-reading-group/blob/main/sessions/13-prompt-engineering/prompts.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
 | [30/10/23](#301023) | Knowledge retrieval LLMs | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
-| [06/11/23](#061123) | Evaluating factuality in LLMs | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
+| [06/11/23](#061123) | Discussion: Evaluating factuality in LLMs | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
 | [13/11/23](#131123) | Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [20/11/23](#201123) | **tbc** | David Blackwell | N/A |
 | [27/11/23](#271123) | Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| [04/12/23](#041223) | Toxicity | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
+| [04/12/23](#041223) | Discussion: Toxicity | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
 | [11/12/23](#111223) | Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 
 # Material for sessions
