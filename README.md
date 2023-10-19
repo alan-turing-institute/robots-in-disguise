@@ -1,6 +1,6 @@
-# _Robots in Disguise_: Foundation Models Reading Group
+# _Robots in Disguise_: The Foundation Models Reading Group
 
-Public repo for The Alan Turing Institute's reading group on foundation models.
+Public repo for The Alan Turing Institute's reading group on foundation models as part of the activities of Foundational AI theme.
 
 If you're based at the Turing, follow `#robots-in-disguise` on the Turing Slack for the most recent updates.
 
