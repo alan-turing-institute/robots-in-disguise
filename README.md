@@ -4,6 +4,8 @@ Public repo for The Alan Turing Institute's reading group on foundation models a
 
 If you're based at the Turing, follow `#robots-in-disguise` on the Turing Slack for the most recent updates.
 
+**To see all the slides and reading materials for previous sessions, see the [archive](PREVIOUS.md).**
+
 Note that this originated from the [Research Engineering Team](https://www.turing.ac.uk/research-engineering)'s reading group on Transformers.
 
 ## Overview
@@ -11,8 +13,6 @@ Note that this originated from the [Research Engineering Team](https://www.turin
 The group meets every <b>week on Mondays at 11-12</b>. Everyone is welcome to join! If you have any questions email [Ryan](mailto:rchan@turing.ac.uk).
 
 Please add suggestions and emoji preferences to the [list of proposed topics](https://hackmd.io/4zHl_1G6Se-yumHTN48dqg?both) on HackMD.
-
-**To see all the slides and reading materials for previous sessions, see the [archive](PREVIOUS.md).**
 
 ## Upcoming Schedule
 
