@@ -12,6 +12,8 @@ The group meets every <b>week on Mondays at 11-12</b>. Everyone is welcome to jo
 
 Please add suggestions and emoji preferences to the [list of proposed topics](https://hackmd.io/4zHl_1G6Se-yumHTN48dqg?both) on HackMD.
 
+**For previous sessions, see the [archive](PREVIOUS.md).**
+
 ## Upcoming Schedule
 
 |Date | Topic | Room | Lead |
