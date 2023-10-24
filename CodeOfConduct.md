@@ -71,10 +71,8 @@ disabilities.
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting Turing HR (hr@turing.ac.uk) and the reading group organisers and maintainers:
+If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting Turing HR (hr@turing.ac.uk) and, if you feel comfortable doing so, the reading group organisers and maintainers:
 Ryan Chan (email: rchan@turing.ac.uk) and Federico Nanni (email: fnanni@turing.ac.uk).
-
-To report an issue involving one of the members, please email other members individually.
 
 All reports will be handled with discretion. In your report please include:
 
