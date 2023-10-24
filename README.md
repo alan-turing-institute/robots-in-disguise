@@ -60,7 +60,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 ### Mechanistic interpretability
 
 ## 08/01/24
-### Mechanistic interpretability
+### tbc
 
 ## 15/01/24
 ### Retentive Networks
