@@ -25,7 +25,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [27/11/23](#271123) | Technical: Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [04/12/23](#041223) | Discussion: Toxicity | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
 | [11/12/23](#111223) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
-| [08/01/24](#080124) | Discussion: tbc | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
+| [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
 | [22/01/24](#220124) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 | [29/01/24](#290124) | Technical: Quantisation | David Blackwell | [Tom Davies](tomogwen), [Tarek Allam](https://tallamjr.github.io/) |
