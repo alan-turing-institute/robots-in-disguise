@@ -10,7 +10,7 @@ Note that this originated from the [Research Engineering Team](https://www.turin
 
 ## Overview
 
-The group meets every <b>week on Mondays at 11-12</b>. Everyone is welcome to join! If you have any questions email [Ryan](mailto:rchan@turing.ac.uk).
+The group meets every <b>week on Mondays at 11-12</b>. Everyone is welcome to join! If you have any questions email [Ryan](mailto:rchan@turing.ac.uk) or [Fede](mailto:fnanni@turing.ac.uk).
 
 Please add suggestions and emoji preferences to the [list of proposed topics](https://hackmd.io/4zHl_1G6Se-yumHTN48dqg?both) on HackMD.
 
