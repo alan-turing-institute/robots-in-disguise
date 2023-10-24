@@ -34,7 +34,7 @@ Our open source community strives to:
 - **Be careful in the words that we choose**: We are a community of
   professionals, and we conduct ourselves professionally. Be kind to others. Do
   not insult or put down other participants. Harassment and other exclusionary
-  behavior aren't acceptable. This includes, but is not limited to: Violent
+  behavior aren't acceptable. Any form of behavior or communication that demeans, belittles, or causes discomfort to another person is considered harassment. This includes, but is not limited to: Violent
   threats or language directed against another person, Discriminatory jokes and
   language, Posting sexually explicit or violent material, Posting (or
   threatening to post) other people’s personally identifying information
@@ -62,7 +62,7 @@ expect them to take responsibility for it. If someone has been harmed or
 offended, it is our responsibility to listen carefully and respectfully, and do
 our best to right the wrong.
 
-Although this list cannot be exhaustive, we explicitly honor diversity in age,
+While not all the aspects listed below are legally protected characteristics, we value and respect everyone's unique identities and experiences. Although this list cannot be exhaustive, we explicitly honor diversity in age,
 gender, gender identity or expression, culture, ethnicity, language, national
 origin, political beliefs, profession, race, religion, sexual orientation,
 socioeconomic status, and technical ability. We will not tolerate discrimination
@@ -71,14 +71,14 @@ disabilities.
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the reading group organisers and maintainers:
+If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting Turing HR (hr@turing.ac.uk) and the reading group organisers and maintainers:
 Ryan Chan (email: rchan@turing.ac.uk) and Federico Nanni (email: fnanni@turing.ac.uk).
 
 To report an issue involving one of the members, please email other members individually.
 
 All reports will be handled with discretion. In your report please include:
 
-- Your contact information.
+- Your contact information, if you feel comfortable doing so. Otherwise feel free to do so anonymously.
 
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there
   are additional witnesses, please include them as well. Your account of what
@@ -87,14 +87,6 @@ All reports will be handled with discretion. In your report please include:
   include a link.
 
 - Any additional information that may be helpful.
-
-After filing a report, a representative will contact you personally, review the
-incident, follow up with any additional questions, and make a decision as to how
-to respond. If the person who is harassing you is part of the response team,
-they will recuse themselves from handling your incident. If the complaint
-originates from a member of the response team, it will be handled by a different
-member of the response team. We will respect confidentiality requests for the
-purpose of protecting victims of abuse.
 
 ### Attribution & Acknowledgements
 
