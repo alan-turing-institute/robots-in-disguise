@@ -31,6 +31,12 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 ## 30/10/23
 ### Knowledge retrieval LLMs
 
+**Main**
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+
+**Extra**
+- [High-level Concepts, RAG Pipeline](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html)
+
 ## 06/11/23
 ### Evaluating factuality in LLMs
 
