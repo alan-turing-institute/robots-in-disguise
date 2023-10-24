@@ -1,6 +1,6 @@
 # Code of Conduct for the Foundation Model Reading Group
 
-As a community-oriented project we welcome everyone, and encourage a friendly and positive environment.
+As a community-oriented reading group we welcome everyone, and encourage a friendly and positive environment.
 
 This code of conduct outlines our expectations for participants within the
 community, as well as steps to reporting unacceptable behavior. We are committed
@@ -71,7 +71,7 @@ disabilities.
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the project organiser and maintainer:
+If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the reading group organisers and maintainers:
 Ryan Chan (email: rchan@turing.ac.uk) and Federico Nanni (email: fnanni@turing.ac.uk).
 
 To report an issue involving one of the members, please email other members individually.
