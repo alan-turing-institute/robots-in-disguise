@@ -29,7 +29,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
 | [22/01/24](#220124) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 | [29/01/24](#290124) | Technical: Quantisation | David Blackwell | [Tom Davies](tomogwen), [Tarek Allam](https://tallamjr.github.io/) |
-| [05/02/24](#050224) | Discussion: Toxicity [TBC] | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
+| [05/02/24](#050224) | Discussion: Toxicity [TBC] | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
 
 # Material for sessions
 
