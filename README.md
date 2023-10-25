@@ -23,7 +23,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [13/11/23](#131123) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 | [27/11/23](#271123) | Technical: Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| [04/12/23](#041223) | Discussion: Guidance for Safe Foundation Model Deployment | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
+| [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
 | [11/12/23](#111223) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
