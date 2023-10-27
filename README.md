@@ -19,7 +19,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
 | [30/10/23](#301023) | Technical: Knowledge retrieval LLMs | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
-| [06/11/23](#061123) | Discussion: Evaluating factuality in LLMs | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
+| [06/11/23](#061123) | Discussion: Current challenges and future directions in safety evaluations for generative AI | David Blackwell | [Jonathan Bright](https://www.turing.ac.uk/people/researchers/jonathan-bright) |
 | [13/11/23](#131123) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 | [27/11/23](#271123) | Technical: Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
