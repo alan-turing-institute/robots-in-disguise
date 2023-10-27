@@ -27,9 +27,11 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [11/12/23](#111223) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
-| [22/01/24](#220124) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
+| [22/01/24](#220124) | Research at Turing: TBC | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
 | [29/01/24](#290124) | Technical: Quantisation | David Blackwell | [Tom Davies](tomogwen), [Tarek Allam](https://tallamjr.github.io/) |
 | [05/02/24](#050224) | Discussion: Toxicity [TBC] | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
+| [12/02/24](#120224) | Technical: TBC | David Blackwell |  |
+| [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 
 # Material for sessions
 
@@ -70,13 +72,19 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 
 ## 22/01/24
-### Longitudinal NLP
+### TBC
 
 ## 29/01/24
 ### Quantisation
 
 ## 05/02/24
 ### Toxicity
+
+## 12/02/24
+### TBC
+
+## 19/02/24
+### Longitudinal NLP
 
 **Main**
 - [BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453)
