@@ -19,6 +19,7 @@ This page shows a history of previous sessions in the reading group.
 | [25/09/23](#180923) | LoRA (+ parameter efficient fine-tuning) part II ([Notebook](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/11-peft/peft.ipynb)) | Margaret Hamilton | [Jack Roberts](https://github.com/jack89roberts) |
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/12-rlhf/2023-10-02-rlhf.pdf)) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
 | [16/10/23](#161023) | Prompt Engineering ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/13-prompt-engineering/prompts.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
+| [30/10/23](#161023) | Knowledge Retrieval FMs ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/14-knowledge-retrieval-fms/Knowledge_Retrieval_FMs.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 
 # Material for sessions
 
@@ -196,3 +197,15 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 
 **Meta**
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+
+## 30/10/23
+### Knowledge retrieval FMs
+
+**Main**
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+
+**Extra**
+- [Retrieval Augmented Generation: Streamlining the creation of intelligent natural language processing models](https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)
+- [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
+- [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
+- [Self-RAG: Learning to Retrieve, Generate And Critique Through Self-Reflection](https://arxiv.org/pdf/2310.11511.pdf)
