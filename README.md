@@ -35,7 +35,14 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 # Material for sessions
 
 ## 06/11/23
-### Evaluating factuality in LLMs
+### Current challenges and future directions in safety evaluations for generative AI
+
+**Main**
+- [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/pdf/2310.11986.pdf)
+
+**Extras**
+- [Challenges in evaluating AI systems - Anthropic](https://www.anthropic.com/index/evaluating-ai-systems)
+- [AI and Catastrophic Risk - Y. Bengio](https://www.journalofdemocracy.org/ai-and-catastrophic-risk/)
 
 ## 13/11/23
 ### Stable Diffusion
