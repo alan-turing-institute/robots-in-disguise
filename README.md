@@ -23,14 +23,19 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 | [27/11/23](#271123) | Technical: Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
-| [11/12/23](#111223) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
+| [11/12/23](#111223) | TBC | David Blackwell | TBC |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
 | [29/01/24](#290124) | Technical: Quantisation | David Blackwell | [Tom Davies](tomogwen), [Tarek Allam](https://tallamjr.github.io/) |
 | [05/02/24](#050224) | Discussion: Toxicity [TBC] | David Blackwell | [Fede Nanni](https://github.com/fedenanni), [Ryan Chan](https://github.com/rchan26) |
-| [12/02/24](#120224) | Technical: TBC | David Blackwell |  |
+| [12/02/24](#120224) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
+| [26/02/24](#260224) | TBC | David Blackwell | TBC |
+| [04/03/24](#040324) | TBC | David Blackwell | TBC |
+| [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
+| [18/03/24](#180324) | TBC | David Blackwell | TBC |
+| [25/03/24](#250324) | TBC | David Blackwell | TBC |
 
 # Material for sessions
 
@@ -85,6 +90,21 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 **Main**
 - [BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453)
+
+## 26/02/24
+### TBC
+
+## 04/03/24
+### TBC
+
+## 11/03/24
+### Applying Vision Transformers in Neuroscience
+
+## 18/03/24
+### TBC
+
+## 25/03/24
+### TBC
 
 ## Miscellaneous
 
