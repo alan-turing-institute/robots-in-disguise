@@ -20,6 +20,7 @@ This page shows a history of previous sessions in the reading group.
 | [02/10/23](#021023) | Reinforcement Learning Human Feedback (RLHF) ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/12-rlhf/2023-10-02-rlhf.pdf)) | David Blackwell | [Eseoghene Ben-Iwhiwhu](https://github.com/dlpbc) |
 | [16/10/23](#161023) | Prompt Engineering ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/13-prompt-engineering/prompts.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
 | [30/10/23](#301023) | Technical: Knowledge retrieval ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/14-knowledge-retrieval-fms/Knowledge_Retrieval_FMs.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
+| [06/11/23](#061123) | Discussion: Current challenges and future directions in safety evaluations for generative AI ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/15-safety-evaluations-for-generative-ai/safety-evals-for-gen-ai.pdf)) | David Blackwell | [Jonathan Bright](https://www.turing.ac.uk/people/researchers/jonathan-bright) |
 
 # Material for sessions
 
@@ -209,3 +210,13 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 - [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
 - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
 - [Self-RAG: Learning to Retrieve, Generate And Critique Through Self-Reflection](https://arxiv.org/pdf/2310.11511.pdf)
+
+## 06/11/23
+### Current challenges and future directions in safety evaluations for generative AI
+
+**Main**
+- [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/pdf/2310.11986.pdf)
+
+**Extras**
+- [Challenges in evaluating AI systems - Anthropic](https://www.anthropic.com/index/evaluating-ai-systems)
+- [AI and Catastrophic Risk - Y. Bengio](https://www.journalofdemocracy.org/ai-and-catastrophic-risk/)

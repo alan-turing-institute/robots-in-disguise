@@ -18,7 +18,6 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [06/11/23](#061123) | Discussion: Current challenges and future directions in safety evaluations for generative AI | David Blackwell | [Jonathan Bright](https://www.turing.ac.uk/people/researchers/jonathan-bright) |
 | [13/11/23](#131123) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 | [27/11/23](#271123) | Technical: Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
@@ -38,16 +37,6 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [25/03/24](#250324) | TBC | David Blackwell | TBC |
 
 # Material for sessions
-
-## 06/11/23
-### Current challenges and future directions in safety evaluations for generative AI
-
-**Main**
-- [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/pdf/2310.11986.pdf)
-
-**Extras**
-- [Challenges in evaluating AI systems - Anthropic](https://www.anthropic.com/index/evaluating-ai-systems)
-- [AI and Catastrophic Risk - Y. Bengio](https://www.journalofdemocracy.org/ai-and-catastrophic-risk/)
 
 ## 13/11/23
 ### Stable Diffusion
