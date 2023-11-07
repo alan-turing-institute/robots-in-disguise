@@ -35,6 +35,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | TBC | David Blackwell | TBC |
 | [25/03/24](#250324) | TBC | David Blackwell | TBC |
+| [08/04/24](#080424) | TBC: Research at Turing | David Blackwell | TBC: Marek Strong |
 
 # Material for sessions
 
@@ -93,6 +94,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 ### TBC
 
 ## 25/03/24
+### TBC
+
+## 08/04/24
 ### TBC
 
 ## Miscellaneous
