@@ -31,7 +31,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [12/02/24](#120224) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 | [26/02/24](#260224) | TBC | David Blackwell | TBC |
-| [04/03/24](#040324) | TBC | David Blackwell | TBC |
+| [04/03/24](#040324) | TBC: HuggingFace Talk  | David Blackwell | TBC: Daniel Van Strien and Amy |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | TBC | David Blackwell | TBC |
 | [25/03/24](#250324) | TBC | David Blackwell | TBC |
