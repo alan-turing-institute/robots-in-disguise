@@ -20,9 +20,9 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | --- | ----- | ---- | ---- |
 | [13/11/23](#131123) | Technical: Introduction to Diffusion models | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
-| [27/11/23](#271123) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
+| [27/11/23](#271123) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://aoifehughes.github.io/) |
 | [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
-| [11/12/23](#111223) | TBC | David Blackwell | TBC |
+| [11/12/23](#111223) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
@@ -46,13 +46,13 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 ### Transformers for coding/software engineering
 
 ## 27/11/23
-### Stable Diffusion
+### Uncensored LLMs
 
 ## 04/12/23
 ### Guidance for Safe Foundation Model Deployment
 
 ## 11/12/23
-### Mechanistic interpretability
+### Stable Diffusion
 
 ## 08/01/24
 ### tbc
