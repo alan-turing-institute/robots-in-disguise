@@ -41,6 +41,15 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## 13/11/23
 ### Technical: Introduction to Diffusion models
+There are plenty of blog-posts and top level overviews of diffusion models which explain the main idea of, 'running a noisy blurring process backwards from the noise', however for more technical reading (which I will warn are quite heavy on the maths) the main two papers are:
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+- [DENOISING DIFFUSION IMPLICIT MODELS](https://arxiv.org/pdf/2010.02502.pdf)
+
+Both are about the sampling methods used in the process (notably without the inclusion of context that allows for text-to-image generation). For a general overview the following is fairly good:
+
+- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796.pdf)
+
+And if you're curious (and want spoilers) about stable diffusion and latent diffusion models [this is the main paper](https://arxiv.org/pdf/2112.10752.pdf).
 
 ## 20/11/23
 ### Transformers for coding/software engineering
@@ -53,6 +62,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 ## 11/12/23
 ### Stable Diffusion
+
+The main stable/latent diffusion paper [is here](https://arxiv.org/pdf/2112.10752.pdf).
 
 ## 08/01/24
 ### tbc
