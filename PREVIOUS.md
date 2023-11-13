@@ -21,6 +21,7 @@ This page shows a history of previous sessions in the reading group.
 | [16/10/23](#161023) | Prompt Engineering ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/13-prompt-engineering/prompts.pdf)) | David Blackwell | [Martin Stoffel](https://github.com/mastoffel) |
 | [30/10/23](#301023) | Technical: Knowledge retrieval ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/14-knowledge-retrieval-fms/Knowledge_Retrieval_FMs.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [06/11/23](#061123) | Discussion: Current challenges and future directions in safety evaluations for generative AI ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/15-safety-evaluations-for-generative-ai/safety-evals-for-gen-ai.pdf)) | David Blackwell | [Jonathan Bright](https://www.turing.ac.uk/people/researchers/jonathan-bright) |
+| [13/11/23](#131123) | Technical: Introduction to Diffusion models ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/16-diffusion-models/intro_to_diffusion_models.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 
 # Material for sessions
 
@@ -220,3 +221,15 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 **Extras**
 - [Challenges in evaluating AI systems - Anthropic](https://www.anthropic.com/index/evaluating-ai-systems)
 - [AI and Catastrophic Risk - Y. Bengio](https://www.journalofdemocracy.org/ai-and-catastrophic-risk/)
+
+## 13/11/23
+### Technical: Introduction to Diffusion models
+There are plenty of blog-posts and top level overviews of diffusion models which explain the main idea of, 'running a noisy blurring process backwards from the noise', however for more technical reading (which I will warn are quite heavy on the maths) the main two papers are:
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+- [DENOISING DIFFUSION IMPLICIT MODELS](https://arxiv.org/pdf/2010.02502.pdf)
+
+Both are about the sampling methods used in the process (notably without the inclusion of context that allows for text-to-image generation). For a general overview the following is fairly good:
+
+- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796.pdf)
+
+And if you're curious (and want spoilers) about stable diffusion and latent diffusion models [this is the main paper](https://arxiv.org/pdf/2112.10752.pdf).
