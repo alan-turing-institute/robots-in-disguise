@@ -18,7 +18,6 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 | [27/11/23](#271123) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://aoifehughes.github.io/) |
 | [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
