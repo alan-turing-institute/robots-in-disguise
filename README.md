@@ -41,6 +41,12 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 ## 20/11/23
 ### Transformers for coding/software engineering
 
+**Main**
+- Encoders for code classification: [The EarlyBIRD Catches the Bug: On Exploiting Early Layers of Encoder Models for More Efficient Code Classification](https://arxiv.org/abs/2305.04940)
+
+**Extra**
+- [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533)
+
 ## 27/11/23
 ### Uncensored LLMs
 
