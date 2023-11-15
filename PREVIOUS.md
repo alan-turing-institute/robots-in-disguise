@@ -29,18 +29,18 @@ This page shows a history of previous sessions in the reading group.
 ### Introduction to Word Embeddings and Language modelling
 
 **Main**
-  - [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
-  - [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
-  - [Word Embeddings (2)](https://www.ruder.io/word-embeddings-softmax/)
-  - [Word Embeddings (3)](https://www.ruder.io/secret-word2vec/)
-  - [Brief History of NLP (part 1)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-1-ffbcb937ebce)
-  - [Brief History of NLP (part 2)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-2-f5e575e8e37)
+- [Don't Count, Predict! paper](https://aclanthology.org/P14-1023.pdf)
+- [Word Embeddings (1)](https://www.ruder.io/word-embeddings-1/)
+- [Word Embeddings (2)](https://www.ruder.io/word-embeddings-softmax/)
+- [Word Embeddings (3)](https://www.ruder.io/secret-word2vec/)
+- [Brief History of NLP (part 1)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-1-ffbcb937ebce)
+- [Brief History of NLP (part 2)](https://medium.com/@antoine.louis/a-brief-history-of-natural-language-processing-part-2-f5e575e8e37)
 
 **Extra**
-  - [Deep Learning, NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-  - [Stanford NLP with Deep Learning | Lecture 1: Intro & Word Vectors](https://youtu.be/rmVRLeJRkl4)
-  - [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-  - [Stanford Large Language Models | Lecture 1: Introduction](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
+- [Deep Learning, NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+- [Stanford NLP with Deep Learning | Lecture 1: Intro & Word Vectors](https://youtu.be/rmVRLeJRkl4)
+- [Speech and Language Processing - Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+- [Stanford Large Language Models | Lecture 1: Introduction](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
     
 ## 03/04/23
 ### Deep Learning Basics
