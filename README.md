@@ -29,7 +29,7 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 | [05/02/24](#050224) | Discussion: Existential Risk of AI? | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
 | [12/02/24](#120224) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
-| [26/02/24](#260224) | TBC | David Blackwell | TBC |
+| [26/02/24](#260224) | Research at Turing: Machine translation quality estimation | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | [04/03/24](#040324) | TBC: HuggingFace Talk  | David Blackwell | TBC: Daniel Van Strien and Amy |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | TBC | David Blackwell | TBC |
@@ -88,7 +88,7 @@ The main stable/latent diffusion paper [is here](https://arxiv.org/pdf/2112.1075
 - [BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453)
 
 ## 26/02/24
-### TBC
+### Machine Translation Quality Estimation
 
 ## 04/03/24
 ### TBC
