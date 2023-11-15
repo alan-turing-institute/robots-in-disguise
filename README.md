@@ -46,6 +46,8 @@ Please add suggestions and emoji preferences to the [list of proposed topics](ht
 
 **Extra**
 - [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533)
+- [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169)
+- [Automated Program Repair in the Era of Large Pre-trained Language Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)
 
 ## 27/11/23
 ### Uncensored LLMs
