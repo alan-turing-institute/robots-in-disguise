@@ -12,7 +12,7 @@ Note that this originated from the [Research Engineering Team](https://www.turin
 
 The group meets every <b>week on Mondays at 11-12</b>. Everyone is welcome to join! If you have any questions email [Ryan](mailto:rchan@turing.ac.uk) or [Fede](mailto:fnanni@turing.ac.uk) and remember to go through our [Code of Conduct](CodeOfConduct.md) before joining.
 
-Please add suggestions and emoji preferences to the [list of proposed topics](https://hackmd.io/4zHl_1G6Se-yumHTN48dqg?both) on HackMD.
+Please get in touch if you would like to give a talk (either about your research or a topic you think is relevant to the reading group) add suggestions and emoji preferences to the [list of proposed topics](https://hackmd.io/4zHl_1G6Se-yumHTN48dqg?both) on HackMD!
 
 ## Upcoming Schedule
 
