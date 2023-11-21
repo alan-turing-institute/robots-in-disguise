@@ -22,6 +22,7 @@ This page shows a history of previous sessions in the reading group.
 | [30/10/23](#301023) | Technical: Knowledge retrieval ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/14-knowledge-retrieval-fms/Knowledge_Retrieval_FMs.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [06/11/23](#061123) | Discussion: Current challenges and future directions in safety evaluations for generative AI ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/15-safety-evaluations-for-generative-ai/safety-evals-for-gen-ai.pdf)) | David Blackwell | [Jonathan Bright](https://www.turing.ac.uk/people/researchers/jonathan-bright) |
 | [13/11/23](#131123) | Technical: Introduction to Diffusion models ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/16-diffusion-models/intro_to_diffusion_models.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
+| [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 
 # Material for sessions
 
@@ -224,12 +225,24 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 
 ## 13/11/23
 ### Technical: Introduction to Diffusion models
+
 There are plenty of blog-posts and top level overviews of diffusion models which explain the main idea of, 'running a noisy blurring process backwards from the noise', however for more technical reading (which I will warn are quite heavy on the maths) the main two papers are:
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 - [DENOISING DIFFUSION IMPLICIT MODELS](https://arxiv.org/pdf/2010.02502.pdf)
 
 Both are about the sampling methods used in the process (notably without the inclusion of context that allows for text-to-image generation). For a general overview the following is fairly good:
-
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796.pdf)
 
 And if you're curious (and want spoilers) about stable diffusion and latent diffusion models [this is the main paper](https://arxiv.org/pdf/2112.10752.pdf).
+
+## 20/11/23
+### Transformers for coding/software engineering
+
+**Main**
+- [The EarlyBIRD Catches the Bug: On Exploiting Early Layers of Encoder Models for More Efficient Code Classification](https://arxiv.org/abs/2305.04940)
+
+**Extra**
+- [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533)
+- [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169)
+- [Automated Program Repair in the Era of Large Pre-trained Language Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)
+- [A Survey on Language Models for Code](https://arxiv.org/pdf/2311.07989v1.pdf)

@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 | [27/11/23](#271123) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://aoifehughes.github.io/) |
 | [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
 | [11/12/23](#111223) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
@@ -38,18 +37,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 # Material for sessions
 
-## 20/11/23
-### Transformers for coding/software engineering
-
-**Main**
-- Encoders for code classification: [The EarlyBIRD Catches the Bug: On Exploiting Early Layers of Encoder Models for More Efficient Code Classification](https://arxiv.org/abs/2305.04940)
-
-**Extra**
-- [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533)
-- [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169)
-- [Automated Program Repair in the Era of Large Pre-trained Language Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)
-- [A Survey on Language Models for Code](https://arxiv.org/pdf/2311.07989v1.pdf)
-
 ## 27/11/23
 ### Uncensored LLMs
 
@@ -59,7 +46,8 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 11/12/23
 ### Stable Diffusion
 
-The main stable/latent diffusion paper [is here](https://arxiv.org/pdf/2112.10752.pdf).
+**Main**
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf).
 
 ## 08/01/24
 ### tbc
