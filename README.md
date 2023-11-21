@@ -48,6 +48,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 - [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533)
 - [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169)
 - [Automated Program Repair in the Era of Large Pre-trained Language Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)
+- [A Survey on Language Models for Code](https://arxiv.org/pdf/2311.07989v1.pdf)
 
 ## 27/11/23
 ### Uncensored LLMs
