@@ -22,7 +22,7 @@ This page shows a history of previous sessions in the reading group.
 | [30/10/23](#301023) | Technical: Knowledge retrieval ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/14-knowledge-retrieval-fms/Knowledge_Retrieval_FMs.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [06/11/23](#061123) | Discussion: Current challenges and future directions in safety evaluations for generative AI ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/15-safety-evaluations-for-generative-ai/safety-evals-for-gen-ai.pdf)) | David Blackwell | [Jonathan Bright](https://www.turing.ac.uk/people/researchers/jonathan-bright) |
 | [13/11/23](#131123) | Technical: Introduction to Diffusion models ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/16-diffusion-models/intro_to_diffusion_models.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
+| [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/17-trasformers-for-coding/transformers-for-software-engineering-and-earlybird.pdf)) | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 
 # Material for sessions
 
