@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [27/11/23](#271123) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://aoifehughes.github.io/) |
 | [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
 | [11/12/23](#111223) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
@@ -36,9 +35,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [08/04/24](#080424) | TBC: Research at Turing | David Blackwell | Marek Strong |
 
 # Material for sessions
-
-## 27/11/23
-### Uncensored LLMs
 
 ## 04/12/23
 ### Guidance for Safe Foundation Model Deployment
