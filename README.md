@@ -39,6 +39,9 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 04/12/23
 ### Guidance for Safe Foundation Model Deployment
 
+**Main**
+- [PAI’s Guidance for Safe Foundation Model Deployment](https://partnershiponai.org/modeldeployment/)
+
 ## 11/12/23
 ### Stable Diffusion
 
