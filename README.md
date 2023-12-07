@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
 | [11/12/23](#111223) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
@@ -35,12 +34,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [08/04/24](#080424) | TBC: Research at Turing | David Blackwell | Marek Strong |
 
 # Material for sessions
-
-## 04/12/23
-### Guidance for Safe Foundation Model Deployment
-
-**Main**
-- [PAI’s Guidance for Safe Foundation Model Deployment](https://partnershiponai.org/modeldeployment/)
 
 ## 11/12/23
 ### Stable Diffusion

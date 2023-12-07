@@ -23,6 +23,7 @@ This page shows a history of previous sessions in the reading group.
 | [06/11/23](#061123) | Discussion: Current challenges and future directions in safety evaluations for generative AI ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/15-safety-evaluations-for-generative-ai/safety-evals-for-gen-ai.pdf)) | David Blackwell | [Jonathan Bright](https://www.turing.ac.uk/people/researchers/jonathan-bright) |
 | [13/11/23](#131123) | Technical: Introduction to Diffusion models ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/16-diffusion-models/intro_to_diffusion_models.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/17-trasformers-for-coding/transformers-for-software-engineering-and-earlybird.pdf)) | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
+| [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/18-best-practice-for-responsible-foundation-models/Best-Practice-for-Responsible-Foundation-Models.pdf)) | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
 
 # Material for sessions
 
@@ -246,3 +247,9 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 - [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169)
 - [Automated Program Repair in the Era of Large Pre-trained Language Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)
 - [A Survey on Language Models for Code](https://arxiv.org/pdf/2311.07989v1.pdf)
+
+## 04/12/23
+### Guidance for Safe Foundation Model Deployment
+
+**Main**
+- [PAI’s Guidance for Safe Foundation Model Deployment](https://partnershiponai.org/modeldeployment/)
