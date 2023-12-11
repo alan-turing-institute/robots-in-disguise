@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [11/12/23](#111223) | Technical: Stable Diffusion | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
@@ -34,12 +33,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [08/04/24](#080424) | TBC: Research at Turing | David Blackwell | Marek Strong |
 
 # Material for sessions
-
-## 11/12/23
-### Stable Diffusion
-
-**Main**
-- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf).
 
 ## 08/01/24
 ### tbc
