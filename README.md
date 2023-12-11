@@ -28,14 +28,15 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [26/02/24](#260224) | Research at Turing: Machine translation quality estimation | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | [04/03/24](#040324) | Invited Talk: What is the Hugging Face Hub & An introduction to computer vision with 🤗 transformers  | David Blackwell | Daniel Van Strien and Amy Sartran |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
-| [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | Emanuele La Malfa |
-| [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning -- Using meta-learning and second order optimisation to prune the model | David Blackwell | Yilei Liang |
-| [08/04/24](#080424) | TBC: Research at Turing | David Blackwell | Marek Strong |
+| [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
+| [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | Yilei Liang |
+| [08/04/24](#080424) | Research at Turing: TBC | David Blackwell | Marek Strong |
+| [15/04/24](#150424) | Discussion: Towards openness beyond open access: case study on BigCode LLM governance | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 
 # Material for sessions
 
 ## 08/01/24
-### tbc
+### Benchmarking AI applications on GPUs
 
 ## 15/01/24
 ### Retentive Networks
@@ -44,16 +45,16 @@ Please **get in touch** if you would like to give a talk (either about your rese
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 
 ## 22/01/24
-### TBC
+### Spatial Graph Patterning of Filamentous Structures
 
 ## 29/01/24
 ### Quantisation
 
 ## 05/02/24
-### Toxicity
+### Existential Risk of AI?
 
 ## 12/02/24
-### TBC
+### Mechanistic interpretability
 
 ## 19/02/24
 ### Longitudinal NLP
@@ -65,19 +66,22 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ### Machine Translation Quality Estimation
 
 ## 04/03/24
-### HuggingFace Talks
+### What is the Hugging Face Hub & An introduction to computer vision with 🤗 transformers
 
 ## 11/03/24
 ### Applying Vision Transformers in Neuroscience
 
 ## 18/03/24
-### TBC
+### Not even a Chinese Room: evaluating LLMs on code simulation
 
 ## 25/03/24
-### TBC
+### Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model
 
 ## 08/04/24
 ### TBC
+
+## 15/04/24
+### Towards openness beyond open access: case study on BigCode LLM governance 
 
 ## Miscellaneous
 
