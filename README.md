@@ -32,6 +32,8 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | Yilei Liang |
 | [08/04/24](#080424) | Research at Turing: TBC | David Blackwell | Marek Strong |
 | [15/04/24](#150424) | Discussion: Towards openness beyond open access: case study on BigCode LLM governance | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
+| [22/04/24](#220424) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://github.com/AoifeHughes) |
+| [29/04/24)(#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 
 # Material for sessions
 
@@ -82,6 +84,15 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 ## 15/04/24
 ### Towards openness beyond open access: case study on BigCode LLM governance 
+
+## 22/04/24
+### Uncensored LLMs, use cases, pros/cons, and the ethics of them
+
+## 29/04/24
+### How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions
+
+**Main**
+- [How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions](https://arxiv.org/abs/2309.15840)
 
 ## Miscellaneous
 
