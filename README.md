@@ -33,7 +33,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [08/04/24](#080424) | Research at Turing: TBC | David Blackwell | Marek Strong |
 | [15/04/24](#150424) | Discussion: Towards openness beyond open access: case study on BigCode LLM governance | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 | [22/04/24](#220424) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://github.com/AoifeHughes) |
-| [29/04/24)(#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
+| [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 
 # Material for sessions
 
