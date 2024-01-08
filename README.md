@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
 | [29/01/24](#290124) | Technical: Vision Transformers Need Registers | David Blackwell | [Tom Davies](tomogwen) |
@@ -36,9 +35,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 
 # Material for sessions
-
-## 08/01/24
-### Benchmarking AI applications on GPUs
 
 ## 15/01/24
 ### Retentive Networks
