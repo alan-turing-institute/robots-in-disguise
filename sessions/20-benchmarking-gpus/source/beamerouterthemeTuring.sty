@@ -1,0 +1,101 @@
+\mode<presentation>
+
+% Requirement
+\RequirePackage{tikz}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{multicol}
+
+% Settings
+\usepackage[orientation=landscape,size=custom,width=16,height=9,scale=0.5,debug]{beamerposter} 
+
+\newlength{\gridblock}
+\setlength{\gridblock}{0.0476\paperwidth}
+
+\geometry{hmargin=\gridblock}
+\geometry{vmargin=0px}
+\geometry{head=0px}
+\geometry{headsep=0px}
+\geometry{hoffset=0px}
+\geometry{voffset=0px}
+\geometry{top=0px}
+\geometry{tmargin=0px}
+\geometry{headheight=0px}
+\geometry{foot=0px}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+
+\newlength{\basefontsize}
+\setlength{\basefontsize}{0.02\paperheight}
+
+\newlength{\titlefontsize}
+\setlength{\titlefontsize}{4.375\basefontsize}
+\newlength{\subtitlefontsize}
+\setlength{\subtitlefontsize}{4.375\basefontsize}
+\newlength{\authorfontsize}
+\setlength{\authorfontsize}{3.325\basefontsize}
+\newlength{\frametitlesize}
+\setlength{\frametitlesize}{2.625\basefontsize}
+\newlength{\framesubtitlesize}
+\setlength{\framesubtitlesize}{1.625\basefontsize}
+
+\newlength{\bodytextsize}
+\setlength{\bodytextsize}{2\basefontsize}
+\newlength{\blocktitlesize}
+\setlength{\blocktitlesize}{\bodytextsize}
+\newlength{\blockbodysize}
+\setlength{\blockbodysize}{\bodytextsize}
+
+\newlength{\footerfontsize}
+\setlength{\footerfontsize}{\basefontsize}
+
+\newcommand{\headinglineheightmultiplier}{1.2}
+\newcommand{\bodylineheightmultiplier}{1.4}
+
+\setbeamerfont{title}{series=\bfseries,size={\fontsize{\titlefontsize}{\titlefontsize}}}
+\setbeamerfont{subtitle}{size={\fontsize{\subtitlefontsize}{\subtitlefontsize}}}
+\setbeamerfont{author}{size={\fontsize{\authorfontsize}{\authorfontsize}}}
+\setbeamerfont{frametitle}{series=\bfseries,size={\fontsize{\frametitlesize}{\frametitlesize}}}
+\setbeamerfont{imprint}{series=\mdseries,size={\fontsize{\frametitlesize}{\headinglineheightmultiplier\frametitlesize}}}
+\setbeamerfont{imprint}{series=\mdseries,size={\fontsize{\frametitlesize}{\headinglineheightmultiplier\frametitlesize}}}
+\setbeamerfont{framesubtitle}{series=\bfseries,size={\fontsize{\framesubtitlesize}{\framesubtitlesize}}}
+\setbeamerfont{footline}{series=\mdseries,size={\fontsize{\footerfontsize}{\footerfontsize}}}
+
+
+% 
+\setbeamerfont{normal text}{series=\mdseries,size={\fontsize{\blockbodysize}{\bodylineheightmultiplier\blockbodysize}}}
+\setbeamerfont{block title}{series=\bfseries,size={\fontsize{\blocktitlesize}{\bodylineheightmultiplier\blocktitlesize}}}
+\setbeamerfont{block body}{series=\mdseries,size={\fontsize{\blockbodysize}{\bodylineheightmultiplier\blockbodysize}}}
+\setbeamerfont*{block itemize/enumerate body}{size=\fontsize{\blockbodysize}{\bodylineheightmultiplier\blockbodysize}}
+\setbeamerfont*{itemize/enumerate subbody}{parent=itemize/enumerate body}
+\setbeamerfont*{itemize/enumerate subsubbody}{parent=itemize/enumerate body}
+
+\setbeamertemplate{itemize item}{--}%
+\setbeamertemplate{itemize item}{--}%
+\setbeamertemplate{itemize subitem}{--}%
+\setbeamertemplate{itemize subsubitem}{--}%
+
+\usefonttheme{professionalfonts}
+
+\setbeamertemplate{navigation symbols}{}
+
+\defbeamertemplate{frame numbering}{counter}{\insertframenumber}
+
+% Set colours from beamer colour theme
+\setbeamercolor*{title page header}{fg=text}
+\setbeamercolor*{frametitle}{fg=text}
+\setbeamercolor*{block title}{fg=text}
+\setbeamercolor*{block body}{fg=text}
+\setbeamercolor*{normal text}{fg=text}
+\setbeamercolor*{author}{fg=text}
+\setbeamercolor*{date}{fg=text}
+\setbeamercolor*{footline}{fg=text}
+\setbeamercolor*{item}{fg=text}
+\setbeamercolor*{section in toc}{fg=text}
+
+
+
+\mode<all>

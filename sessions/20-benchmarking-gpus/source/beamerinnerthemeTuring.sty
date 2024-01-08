@@ -1,0 +1,76 @@
+\mode<presentation>
+
+\institute{The Alan Turing Institute}
+
+\setbeamertemplate{background}{
+	\begin{tikzpicture}
+	\useasboundingbox (0,0) rectangle(\paperwidth,\paperheight);
+	\fill[color=cornerleaf] (0,0) rectangle (\paperwidth,\paperheight);
+	\ifnum\thepage=1\relax%
+		\node[anchor=north east,inner sep=0] at (1.0\paperwidth,1.0\paperheight) {
+			\includegraphics[height=0.89\paperheight,keepaspectratio]{\cornerimagefilename}
+		};
+		\node at (0.5\paperwidth,0.5\paperheight) {
+			\includegraphics[width=\paperwidth]{\logofilename}
+		};
+	\fi
+	\ifnum\thepage>1\relax%
+		\fill[slidebg,opacity=1] (0,0) rectangle(\paperwidth,\paperheight);
+	\fi
+	\end{tikzpicture}
+}
+
+% Title page
+\defbeamertemplate*{title page}{Turing}[1][]
+{
+	\begin{tikzpicture}
+	\useasboundingbox (0,0) rectangle(\paperwidth,\paperheight);
+	\node[anchor=north west,inner sep=0] at (0.0\paperwidth,0.57\paperheight) {
+		\begin{beamercolorbox}[wd=0.53\textwidth,leftskip=0\textwidth,sep=0px,#1]{title page header}
+			\usebeamerfont{title}\inserttitle\par%
+		\end{beamercolorbox}%
+	};
+	\node[anchor=north west,inner sep=0] at (0.0\paperwidth,0.22\paperheight) {
+		\begin{beamercolorbox}[wd=0.7\textwidth,leftskip=0\textwidth,sep=0px,#1]{title page header}
+			\usebeamerfont{author}\insertauthor\par%
+		\end{beamercolorbox}%
+	};
+	\end{tikzpicture}
+	\vskip3.0\gridblock
+    \begin{beamercolorbox}[wd=0.53\textwidth,leftskip=0\textwidth,sep=0px,#1]{title page header}
+      \usebeamerfont{author}\insertauthor\par%
+    \end{beamercolorbox}%
+  \vfill
+}
+
+% Section divider page
+\AtBeginSection[]{
+	\begin{frame}
+		\vskip3.5\gridblock
+		\begin{beamercolorbox}[wd=\textwidth,leftskip=0\textwidth,sep=0px]{logo}
+			\begin{tikzpicture}
+				\fill[color=line] (0,0) rectangle(\textwidth,0.05\gridblock);
+			\end{tikzpicture}
+    		\end{beamercolorbox}%
+		\vskip0.35\gridblock
+    		\begin{beamercolorbox}[wd=\textwidth,leftskip=0\textwidth,sep=0px]{}
+     	\usebeamerfont{subtitle}\insertsectionhead\par%
+    		\end{beamercolorbox}%
+	\end{frame}
+}
+
+% Page title
+\setbeamertemplate{frametitle}
+{
+	\begin{beamercolorbox}[wd=\textwidth,leftskip=0\textwidth]{frametitle}
+		\vskip0.2\gridblock\insertframetitle\par
+	\end{beamercolorbox}%
+}
+\addtobeamertemplate{frametitle}{\vspace*{0.6\gridblock}}{\vspace*{0.1\gridblock}}
+
+% Footer (all pages)
+\setbeamertemplate{footline}{
+{% Empty footer
+}}
+
+
