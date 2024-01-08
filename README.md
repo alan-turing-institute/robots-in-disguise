@@ -21,7 +21,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
-| [29/01/24](#290124) | Technical: Quantisation | David Blackwell | [Tom Davies](tomogwen), [Tarek Allam](https://tallamjr.github.io/) |
+| [29/01/24](#290124) | Technical: Vision Transformers Need Registers | David Blackwell | [Tom Davies](tomogwen) |
 | [05/02/24](#050224) | Discussion: Existential Risk of AI? | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
 | [12/02/24](#120224) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
@@ -50,7 +50,13 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ### Spatial Graph Patterning of Filamentous Structures
 
 ## 29/01/24
-### Quantisation
+### Vision Transformers Need Registers
+
+**Main**
+- [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
+
+**Extra**
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 ## 05/02/24
 ### Existential Risk of AI?
