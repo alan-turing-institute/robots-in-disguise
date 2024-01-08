@@ -25,7 +25,7 @@ This page shows a history of previous sessions in the reading group.
 | [20/11/23](#201123) | Research at Turing: Transformers for coding/software engineering ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/17-trasformers-for-coding/transformers-for-software-engineering-and-earlybird.pdf)) | Mae Jemison | [Anastasiia Grishina](https://www.turing.ac.uk/people/enrichment-students/anastasiia-grishina) |
 | [04/12/23](#041223) | Discussion: Best Practice for Responsible Foundation Models – What Should Developers Do and How You Can Help ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/18-best-practice-for-responsible-foundation-models/Best-Practice-for-Responsible-Foundation-Models.pdf)) | Ursula Franklin | [Carolyn Ashurst](https://www.turing.ac.uk/people/turing-research-fellows/carolyn-ashurst) |
 | [11/12/23](#111223) | Technical: Stable Diffusion  ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/tree/main/sessions/19-stable-diffusion/stable_diffusion.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs ([Slides]([https://github.com/alan-turing-institute/rc-gpt2-performance-benchmarking-workspace/blob/main/presentations/20240108-transformers-reading-group/transformers-rcp-benchmarking.pdf](https://thealanturininstitute.sharepoint.com/:b:/s/ResearchComputing/ESwZYX_-K9BGr5cD8THwv48BIzrUdTjKoMOLmtqBalPiBQ?e=mWPIEw))) | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
+| [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/20-benchmarking-gpus/transformers-rcp-benchmarking.pdf))) | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 
 # Material for sessions
 
@@ -266,7 +266,7 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 ### Benchmarking AI applications on GPUs
 
 **Main**
-- [Benchmarking AI applications on GPUs Slides PDF]([https://github.com/alan-turing-institute/rc-gpt2-performance-benchmarking-workspace/blob/main/presentations/20240108-transformers-reading-group/transformers-rcp-benchmarking.pdf](https://thealanturininstitute.sharepoint.com/:b:/s/ResearchComputing/ESwZYX_-K9BGr5cD8THwv48BIzrUdTjKoMOLmtqBalPiBQ?e=mWPIEw))
+- [Benchmarking AI applications on GPUs Slides PDF](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/20-benchmarking-gpus/transformers-rcp-benchmarking.pdf)
 
 **Extra**
 - [Repo containing write-up and LaTeX source for the slides](https://github.com/alan-turing-institute/rc-gpt2-performance-benchmarking-workspace) (may not be available immediately)
