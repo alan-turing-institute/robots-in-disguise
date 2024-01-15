@@ -18,7 +18,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | Ed Gunn |
+| [15/01/24](#150124) | Technical: Retentive Networks | David Blackwell | [Ed Gunn](https://github.com/egunn-turing) |
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
 | [29/01/24](#290124) | Technical: Vision Transformers Need Registers | David Blackwell | [Tom Davies](tomogwen) |
 | [05/02/24](#050224) | Discussion: Existential Risk of AI? | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
