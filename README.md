@@ -39,6 +39,9 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 22/01/24
 ### Spatial Graph Patterning of Filamentous Structures
 
+**Main**
+- [GRACE - Graph Representation Analysis for Connected Embeddings](https://github.com/alan-turing-institute/grace)
+
 ## 29/01/24
 ### Vision Transformers Need Registers
 
