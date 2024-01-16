@@ -57,9 +57,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 19/02/24
 ### Longitudinal NLP
 
-**Main**
-- [BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453)
-
 ## 26/02/24
 ### Machine Translation Quality Estimation
 
