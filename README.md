@@ -18,8 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
-| [29/01/24](#290124) | Technical: Vision Transformers Need Registers | David Blackwell | [Tom Davies](tomogwen) |
 | [05/02/24](#050224) | Discussion: Existential Risk of AI? | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
 | [12/02/24](#120224) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
@@ -40,23 +38,16 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 # Material for sessions
 
-## 22/01/24
-### Spatial Graph Patterning of Filamentous Structures
-
-**Main**
-- [GRACE - Graph Representation Analysis for Connected Embeddings](https://github.com/alan-turing-institute/grace)
-
-## 29/01/24
-### Vision Transformers Need Registers
-
-**Main**
-- [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
-
-**Extra**
-- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-
 ## 05/02/24
 ### Existential Risk of AI?
+
+**Main**
+- [Preventing an AI-related catastrophe](https://80000hours.org/problem-profiles/artificial-intelligence/)
+
+**Extra**
+- [Podcast: The 80,000 Hours Podcast on Artificial Intelligence](https://80000hours.org/podcast/on-artificial-intelligence/)
+- Book: Nick Bostrom - "Superintelligence"
+- Book: Toby Ord - "The Precipice"
 
 ## 12/02/24
 ### Mechanistic interpretability

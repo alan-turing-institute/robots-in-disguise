@@ -27,6 +27,8 @@ This page shows a history of previous sessions in the reading group.
 | [11/12/23](#111223) | Technical: Stable Diffusion  ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/tree/main/sessions/19-stable-diffusion/stable_diffusion.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [08/01/24](#080124) | Discussion: Benchmarking AI applications on GPUs ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/20-benchmarking-gpus/transformers-rcp-benchmarking.pdf)) | David Blackwell | [Tomas Lazauskas](https://github.com/tomaslaz), [David Llewellyn-Jones](https://github.com/llewelld) |
 | [15/01/24](#150124) | Technical: Retentive Networks ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/tree/main/sessions/21-retentive-networks/RetentiveNetworks.pdf)) | David Blackwell | [Ed Gunn](https://github.com/egunn-turing) |
+| [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
+| [29/01/24](#290124) | Technical: Vision Transformers Need Registers ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/23-vision-transformers-need-registers/vision-transformers-need-registers.pdf)) | David Blackwell | [Tom Davies](tomogwen) |
 
 # Material for sessions
 
@@ -280,3 +282,18 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 
 **Main**
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
+
+## 22/01/24
+### Spatial Graph Patterning of Filamentous Structures
+
+**Main**
+- [GRACE - Graph Representation Analysis for Connected Embeddings](https://github.com/alan-turing-institute/grace)
+
+## 29/01/24
+### Vision Transformers Need Registers
+
+**Main**
+- [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
+
+**Extra**
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
