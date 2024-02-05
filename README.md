@@ -34,6 +34,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | David Blackwell | [Angus Williams](https://gavinabercrombie.github.io/) |
 | [27/05/24](#270524) | FREE SLOT! | David Blackwell | |
 | [03/06/24](#030624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://gavinabercrombie.github.io/) |
+| [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 
 
 # Material for sessions
