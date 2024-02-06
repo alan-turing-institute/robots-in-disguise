@@ -41,6 +41,11 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 12/02/24
 ### Mechanistic interpretability
 
+**Main** 
+- [(2020) Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+- [(2021) A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
+
+
 ## 19/02/24
 ### Longitudinal NLP
 
