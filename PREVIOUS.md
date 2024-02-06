@@ -29,6 +29,7 @@ This page shows a history of previous sessions in the reading group.
 | [15/01/24](#150124) | Technical: Retentive Networks ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/tree/main/sessions/21-retentive-networks/RetentiveNetworks.pdf)) | David Blackwell | [Ed Gunn](https://github.com/egunn-turing) |
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
 | [29/01/24](#290124) | Technical: Vision Transformers Need Registers ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/23-vision-transformers-need-registers/vision-transformers-need-registers.pdf)) | David Blackwell | [Tom Davies](tomogwen) |
+| [05/02/24](#050224) | Discussion: Existential Risk of AI? ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/24-ai-existential-risk/2024-02-05-Bokeria-AI-x-risk.pdf)) | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
 
 # Material for sessions
 
@@ -297,3 +298,14 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 
 **Extra**
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+
+## 05/02/24
+### Existential Risk of AI?
+
+**Main**
+- [Preventing an AI-related catastrophe](https://80000hours.org/problem-profiles/artificial-intelligence/)
+
+**Extra**
+- [Podcast: The 80,000 Hours Podcast on Artificial Intelligence](https://80000hours.org/podcast/on-artificial-intelligence/)
+- Book: Nick Bostrom - "Superintelligence"
+- Book: Toby Ord - "The Precipice"

@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [05/02/24](#050224) | Discussion: Existential Risk of AI? | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
 | [12/02/24](#120224) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 | [26/02/24](#260224) | Research at Turing: Machine translation quality estimation | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
@@ -26,29 +25,18 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
 | [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | Yilei Liang |
-| [08/04/24](#080424) | Research at Turing: TBC | David Blackwell | Marek Strong |
+| [08/04/24](#080424) | Research at Turing: TBC | Ursula Franklin | Marek Strong |
 | [15/04/24](#150424) | Discussion: Towards openness beyond open access: case study on BigCode LLM governance | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 | [22/04/24](#220424) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://github.com/AoifeHughes) |
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 | [13/05/24](#130524) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
-| [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | David Blackwell | [Angus Williams](https://gavinabercrombie.github.io/) |
+| [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | Ursula Franklin | [Angus Williams](https://gavinabercrombie.github.io/) |
 | [27/05/24](#270524) | FREE SLOT! | David Blackwell | |
 | [03/06/24](#030624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://gavinabercrombie.github.io/) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 
 
 # Material for sessions
-
-## 05/02/24
-### Existential Risk of AI?
-
-**Main**
-- [Preventing an AI-related catastrophe](https://80000hours.org/problem-profiles/artificial-intelligence/)
-
-**Extra**
-- [Podcast: The 80,000 Hours Podcast on Artificial Intelligence](https://80000hours.org/podcast/on-artificial-intelligence/)
-- Book: Nick Bostrom - "Superintelligence"
-- Book: Toby Ord - "The Precipice"
 
 ## 12/02/24
 ### Mechanistic interpretability
