@@ -34,7 +34,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [27/05/24](#270524) | FREE SLOT! | David Blackwell | |
 | [03/06/24](#030624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://gavinabercrombie.github.io/) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
-| [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, Katriona Goldmann, Colin Laganier and others|
+| [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, [Kat Goldmann](https://www.turing.ac.uk/people/research-engineering/katriona-goldmann), Colin Laganier and others|
 
 
 # Material for sessions
