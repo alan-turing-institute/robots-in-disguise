@@ -319,7 +319,7 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 - [(2021) A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 **Supplementary**
-
+- [CVPR tutorial: Intro to Circuits in CNNs by Chris Olah](https://www.youtube.com/watch?v=gXsKyZ_Y_i8)
 - [Transformer Circuits Playlist](https://www.youtube.com/watch?v=V3NQaDR3xI4&list=PLoyGOS2WIonajhAVqKUgEMNmeq3nEeM51)
 - [Neel Nanda's Walkthrough: A Mathematical Framework for Transformer Circuits](https://www.youtube.com/watch?v=KV5gbOmHbjU)
 
