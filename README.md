@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [12/02/24](#120224) | Technical: Mechanistic interpretability | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 | [26/02/24](#260224) | Research at Turing: Machine translation quality estimation | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | [04/03/24](#040324) | Invited Talk: What is the Hugging Face Hub & An introduction to computer vision with 🤗 transformers  | David Blackwell | Daniel Van Strien and Amy Sartran |
@@ -38,14 +37,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 
 # Material for sessions
-
-## 12/02/24
-### Mechanistic interpretability
-
-**Main** 
-- [(2020) Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
-- [(2021) A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
-
 
 ## 19/02/24
 ### Longitudinal NLP

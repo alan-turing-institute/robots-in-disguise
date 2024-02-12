@@ -30,6 +30,7 @@ This page shows a history of previous sessions in the reading group.
 | [22/01/24](#220124) | Research at Turing: Spatial Graph Patterning of Filamentous Structures | David Blackwell | [Kristina Ulicna](https://www.turing.ac.uk/people/research-associates/kristina-ulicna)|
 | [29/01/24](#290124) | Technical: Vision Transformers Need Registers ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/23-vision-transformers-need-registers/vision-transformers-need-registers.pdf)) | David Blackwell | [Tom Davies](tomogwen) |
 | [05/02/24](#050224) | Discussion: Existential Risk of AI? ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/24-ai-existential-risk/2024-02-05-Bokeria-AI-x-risk.pdf)) | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
+| [12/02/24](#120224) | Technical: Mechanistic interpretability ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/25-mechanistic-interpretability/Mech%20Interp%20Intro%2C%20FM%20Reading%20Group.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 
 # Material for sessions
 
@@ -309,3 +310,19 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 - [Podcast: The 80,000 Hours Podcast on Artificial Intelligence](https://80000hours.org/podcast/on-artificial-intelligence/)
 - Book: Nick Bostrom - "Superintelligence"
 - Book: Toby Ord - "The Precipice"
+
+## 12/02/24
+### Mechanistic interpretability
+
+**Main** 
+- [(2020) Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+- [(2021) A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
+
+**Supplementary**
+
+- [Transformer Circuits Playlist](https://www.youtube.com/watch?v=V3NQaDR3xI4&list=PLoyGOS2WIonajhAVqKUgEMNmeq3nEeM51)
+- [Neel Nanda's Walkthrough: A Mathematical Framework for Transformer Circuits](https://www.youtube.com/watch?v=KV5gbOmHbjU)
+
+**Extras**
+- [Build GPT2 from scratch - Neel Nanda](https://www.youtube.com/watch?v=bOYE6E8JrtU&t=2s)
+- [Mechinterp vs Neuroscience - Chris Olah](https://colah.github.io/notes/interp-v-neuro/)
