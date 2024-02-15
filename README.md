@@ -41,6 +41,12 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 19/02/24
 ### Longitudinal NLP
 
+**Main**
+- [Combining Hierachical VAEs with LLMs for Clinically Meaningful Timeline Summarisation in Social Media](https://arxiv.org/pdf/2401.16240.pdf)
+
+**Extra**
+- [Identifying Moments of Change from Longitudinal User Text](https://aclanthology.org/2022.acl-long.318.pdf)
+
 ## 26/02/24
 ### Machine Translation Quality Estimation
 
