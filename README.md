@@ -43,9 +43,12 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 **Main**
 - [Combining Hierachical VAEs with LLMs for Clinically Meaningful Timeline Summarisation in Social Media](https://arxiv.org/pdf/2401.16240.pdf)
+- [Sig-Networks Toolkit: Signature Networks for Longitudinal Language Modelling](https://arxiv.org/pdf/2312.03523.pdf)
 
 **Extra**
 - [Identifying Moments of Change from Longitudinal User Text](https://aclanthology.org/2022.acl-long.318.pdf)
+- [ROFORMER: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)
+- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf)
 
 ## 26/02/24
 ### Machine Translation Quality Estimation
