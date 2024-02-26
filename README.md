@@ -18,8 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
-| [26/02/24](#260224) | Research at Turing: Machine translation quality estimation | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | [04/03/24](#040324) | Discussion: Towards openness beyond open access: case study on BigCode LLM governance | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
@@ -37,21 +35,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 
 # Material for sessions
-
-## 19/02/24
-### Longitudinal NLP
-
-**Main**
-- [Combining Hierachical VAEs with LLMs for Clinically Meaningful Timeline Summarisation in Social Media](https://arxiv.org/pdf/2401.16240.pdf)
-- [Sig-Networks Toolkit: Signature Networks for Longitudinal Language Modelling](https://arxiv.org/pdf/2312.03523.pdf)
-
-**Extra**
-- [Identifying Moments of Change from Longitudinal User Text](https://aclanthology.org/2022.acl-long.318.pdf)
-- [ROFORMER: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)
-- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf)
-
-## 26/02/24
-### Machine Translation Quality Estimation
 
 ## 04/03/24
 ### Towards openness beyond open access: case study on BigCode LLM governance

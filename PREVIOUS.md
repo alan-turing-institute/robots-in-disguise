@@ -31,6 +31,8 @@ This page shows a history of previous sessions in the reading group.
 | [29/01/24](#290124) | Technical: Vision Transformers Need Registers ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/23-vision-transformers-need-registers/vision-transformers-need-registers.pdf)) | David Blackwell | [Tom Davies](tomogwen) |
 | [05/02/24](#050224) | Discussion: Existential Risk of AI? ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/24-ai-existential-risk/2024-02-05-Bokeria-AI-x-risk.pdf)) | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
 | [12/02/24](#120224) | Technical: Mechanistic interpretability ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/25-mechanistic-interpretability/Mech%20Interp%20Intro%2C%20FM%20Reading%20Group.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
+| [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
+| [26/02/24](#260224) | Research at Turing: Machine translation quality estimation ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/27-machine-translation-quality-estimation/MTQE_2024-02-26_Foundation_Models_Reading_Group.pdf)) | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 
 # Material for sessions
 
@@ -326,3 +328,18 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 **Extras**
 - [Build GPT2 from scratch - Neel Nanda](https://www.youtube.com/watch?v=bOYE6E8JrtU&t=2s)
 - [Mechinterp vs Neuroscience - Chris Olah](https://colah.github.io/notes/interp-v-neuro/)
+
+## 19/02/24
+### Longitudinal NLP
+
+**Main**
+- [Combining Hierachical VAEs with LLMs for Clinically Meaningful Timeline Summarisation in Social Media](https://arxiv.org/pdf/2401.16240.pdf)
+- [Sig-Networks Toolkit: Signature Networks for Longitudinal Language Modelling](https://arxiv.org/pdf/2312.03523.pdf)
+
+**Extra**
+- [Identifying Moments of Change from Longitudinal User Text](https://aclanthology.org/2022.acl-long.318.pdf)
+- [ROFORMER: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)
+- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf)
+
+## 26/02/24
+### Machine Translation Quality Estimation
