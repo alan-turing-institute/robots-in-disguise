@@ -39,6 +39,12 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 04/03/24
 ### Towards openness beyond open access: case study on BigCode LLM governance
 
+**Main**
+- [Towards Openness Beyond Open Access: User Journeys through 3 Open AI Collaboratives](https://arxiv.org/abs/2301.08488)
+- [The BigCode Project Governance Card](https://arxiv.org/abs/2312.03872)
+- Aya Initiative: [website](https://txt.cohere.com/aya-multilingual/), [data paper](https://cohere.com/research/papers/aya-dataset-paper-2024-02-13)
+- [Collective Intelligence Project white paper](https://cip.org/whitepaper)
+
 ## 11/03/24
 ### Applying Vision Transformers in Neuroscience
 
