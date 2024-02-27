@@ -28,7 +28,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 | [13/05/24](#130524) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 | [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | Ursula Franklin | [Angus Williams](https://gavinabercrombie.github.io/) |
-| [27/05/24](#270524) | State space models | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
+| [27/05/24](#270524) | Technical: State space models | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [03/06/24](#030624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://gavinabercrombie.github.io/) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 | [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, [Kat Goldmann](https://www.turing.ac.uk/people/research-engineering/katriona-goldmann), Colin Laganier and others|
