@@ -37,7 +37,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 # Material for sessions
 
 ## 04/03/24
-### Towards openness beyond open access: case study on BigCode LLM governance
+### Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project
 
 **Main**
 - [Towards Openness Beyond Open Access: User Journeys through 3 Open AI Collaboratives](https://arxiv.org/abs/2301.08488)
