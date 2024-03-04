@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [04/03/24](#040324) | Discussion: Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
 | [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | Yilei Liang |
@@ -35,15 +34,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 
 # Material for sessions
-
-## 04/03/24
-### Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project
-
-**Main**
-- [Towards Openness Beyond Open Access: User Journeys through 3 Open AI Collaboratives](https://arxiv.org/abs/2301.08488)
-- [The BigCode Project Governance Card](https://arxiv.org/abs/2312.03872)
-- Aya Initiative: [website](https://txt.cohere.com/aya-multilingual/), [data paper](https://cohere.com/research/papers/aya-dataset-paper-2024-02-13)
-- [Collective Intelligence Project white paper](https://cip.org/whitepaper)
 
 ## 11/03/24
 ### Applying Vision Transformers in Neuroscience

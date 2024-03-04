@@ -33,6 +33,7 @@ This page shows a history of previous sessions in the reading group.
 | [12/02/24](#120224) | Technical: Mechanistic interpretability ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/25-mechanistic-interpretability/Mech%20Interp%20Intro%2C%20FM%20Reading%20Group.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 | [26/02/24](#260224) | Research at Turing: Machine translation quality estimation ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/27-machine-translation-quality-estimation/MTQE_2024-02-26_Foundation_Models_Reading_Group.pdf)) | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
+| [04/03/24](#040324) | Discussion: Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/28-participatory-ai-governance/2024_ParticipatoryAIGovernance_JD.pdf)) | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 
 # Material for sessions
 
@@ -343,3 +344,12 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 
 ## 26/02/24
 ### Machine Translation Quality Estimation
+
+## 04/03/24
+### Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project
+
+**Main**
+- [Towards Openness Beyond Open Access: User Journeys through 3 Open AI Collaboratives](https://arxiv.org/abs/2301.08488)
+- [The BigCode Project Governance Card](https://arxiv.org/abs/2312.03872)
+- Aya Initiative: [website](https://txt.cohere.com/aya-multilingual/), [data paper](https://cohere.com/research/papers/aya-dataset-paper-2024-02-13)
+- [Collective Intelligence Project white paper](https://cip.org/whitepaper)
