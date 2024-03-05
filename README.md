@@ -21,7 +21,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
 | [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | Yilei Liang |
-| [08/04/24](#080424) | AVAILABLE SLOT | Ursula Franklin |  |
+| [08/04/24](#080424) | Technical: Paper overviews: TBC | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Ryan Chan](https://github.com/rchan26) |
 | [15/04/24](#150424) | Research at Turing: Natural Logic-based Fact Verification with LLMs | David Blackwell | [Marek Strong](https://marekstrong.github.io/)  |
 | [22/04/24](#220424) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://github.com/AoifeHughes) |
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
