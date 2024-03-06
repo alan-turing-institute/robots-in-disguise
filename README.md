@@ -37,6 +37,9 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 ## 11/03/24
 ### Applying Vision Transformers in Neuroscience
+- [2022 in review: neuroAI comes of age](https://xcorr.net/2023/01/01/2022-in-review-neuroai-comes-of-age/)
+- [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2)
+- [V1T: large-scale mouse V1 response prediction using a Vision Transformer](https://openreview.net/forum?id=qHZs2p4ZD4)
 
 ## 18/03/24
 ### Not even a Chinese Room: evaluating LLMs on code simulation
