@@ -28,7 +28,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [13/05/24](#130524) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 | [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | Ursula Franklin | [Angus Williams](https://gavinabercrombie.github.io/) |
 | [27/05/24](#270524) | Technical: State space models | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
-| [03/06/24](#030624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://gavinabercrombie.github.io/) |
+| [03/06/24](#030624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://github.com/fedenanni) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 | [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, [Kat Goldmann](https://www.turing.ac.uk/people/research-engineering/katriona-goldmann), Colin Laganier and others|
 
@@ -37,6 +37,8 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 ## 11/03/24
 ### Applying Vision Transformers in Neuroscience
+
+**Main**
 - [2022 in review: neuroAI comes of age](https://xcorr.net/2023/01/01/2022-in-review-neuroai-comes-of-age/)
 - [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2)
 - [V1T: large-scale mouse V1 response prediction using a Vision Transformer](https://openreview.net/forum?id=qHZs2p4ZD4)
@@ -48,10 +50,10 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ### Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model
 
 ## 08/04/24
-### TBC
+### Paper overviews: TBC
 
 ## 15/04/24
-###  
+### Natural Logic-based Fact Verification with LLMs
 
 ## 22/04/24
 ### Uncensored LLMs, use cases, pros/cons, and the ethics of them
@@ -63,16 +65,16 @@ Please **get in touch** if you would like to give a talk (either about your rese
 - [How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions](https://arxiv.org/abs/2309.15840)
 
 ## 13/05/24
-###  TBC
+### TBC
 
 ## 20/05/24
-###  Mixture of experts methods / merging LLMs
+### Mixture of experts methods / merging LLMs
 
+## 27/05/24
+### State space models
 
-## Miscellaneous
+## 03/06/24
+### Conference Overview: Coling/LREC
 
-### Tokenizers and Huggingface tutorial
-
-**Main**
-- [Huggingface Tokenizer tutorial](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt)
-- [Huggingface `transformers` course](https://huggingface.co/learn/nlp-course/chapter2/1?fw=pt)
+## 17/06/24
+### Edge AI
