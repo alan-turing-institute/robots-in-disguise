@@ -31,7 +31,7 @@ This page shows a history of previous sessions in the reading group.
 | [29/01/24](#290124) | Technical: Vision Transformers Need Registers ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/23-vision-transformers-need-registers/vision-transformers-need-registers.pdf)) | David Blackwell | [Tom Davies](tomogwen) |
 | [05/02/24](#050224) | Discussion: Existential Risk of AI? ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/24-ai-existential-risk/2024-02-05-Bokeria-AI-x-risk.pdf)) | David Blackwell | [Levan Bokeria](https://www.turing.ac.uk/people/research-engineering/levan-bokeria) |
 | [12/02/24](#120224) | Technical: Mechanistic interpretability ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/25-mechanistic-interpretability/Mech%20Interp%20Intro%2C%20FM%20Reading%20Group.pdf)) | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
-| [19/02/24](#190224) | Research at Turing: Longitudinal NLP | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
+| [19/02/24](#190224) | Research at Turing: Longitudinal NLP ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/26-longitudinal-nlp/Dynamic%20Language%20Modelling_190224_reduced.pdf)) | David Blackwell | [Jenny Chim](https://j-chim.github.io/), [Talia Tseriotou](https://github.com/ttseriotou) |
 | [26/02/24](#260224) | Research at Turing: Machine translation quality estimation ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/27-machine-translation-quality-estimation/MTQE_2024-02-26_Foundation_Models_Reading_Group.pdf)) | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | [04/03/24](#040324) | Discussion: Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/28-participatory-ai-governance/2024_ParticipatoryAIGovernance_JD.pdf)) | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 
@@ -353,3 +353,11 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 - [The BigCode Project Governance Card](https://arxiv.org/abs/2312.03872)
 - Aya Initiative: [website](https://txt.cohere.com/aya-multilingual/), [data paper](https://cohere.com/research/papers/aya-dataset-paper-2024-02-13)
 - [Collective Intelligence Project white paper](https://cip.org/whitepaper)
+
+## Miscellaneous
+
+### Tokenizers and Huggingface tutorial
+
+**Main**
+- [Huggingface Tokenizer tutorial](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt)
+- [Huggingface `transformers` course](https://huggingface.co/learn/nlp-course/chapter2/1?fw=pt)
