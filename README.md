@@ -46,6 +46,12 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 18/03/24
 ### Not even a Chinese Room: evaluating LLMs on code simulation
 
+**Main**
+- [CodeMind: A Framework to Challenge Large Language Models for Code Reasoning](https://arxiv.org/pdf/2402.09664.pdf)
+- [Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap](https://arxiv.org/pdf/2402.19450.pdf)
+- [The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?](https://arxiv.org/pdf/2402.19475.pdf)
+- [THE GENERATIVE AI PARADOX: “What It Can Create, It May Not Understand”](https://openreview.net/pdf?id=CF8H8MS5P8)
+
 ## 25/03/24
 ### Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model
 
