@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
 | [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | Yilei Liang |
 | [08/04/24](#080424) | Technical: Paper overviews: TBC | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Ryan Chan](https://github.com/rchan26) |
@@ -34,14 +33,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 
 # Material for sessions
-
-## 11/03/24
-### Applying Vision Transformers in Neuroscience
-
-**Main**
-- [2022 in review: neuroAI comes of age](https://xcorr.net/2023/01/01/2022-in-review-neuroai-comes-of-age/)
-- [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2)
-- [V1T: large-scale mouse V1 response prediction using a Vision Transformer](https://openreview.net/forum?id=qHZs2p4ZD4)
 
 ## 18/03/24
 ### Not even a Chinese Room: evaluating LLMs on code simulation
