@@ -46,6 +46,11 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 25/03/24
 ### Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model
 
+**Main**
+- [Fisher-Legendre (FishLeg) optimization of deep neural networks](https://openreview.net/pdf?id=c9lAOPvQHS)
+- [Second order derivatives for network pruning: Optimal Brain Surgeon](https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf)
+- [The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models](https://arxiv.org/pdf/2203.07259.pdf)
+
 ## 08/04/24
 ### Paper overviews: TBC
 
