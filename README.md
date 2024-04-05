@@ -18,11 +18,9 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
-| [25/03/24](#250324) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | [Yilei Liang](https://www.cst.cam.ac.uk/people/yl841) |
 | [08/04/24](#080424) | Technical: Paper overviews: TBC | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Ryan Chan](https://github.com/rchan26) |
 | [15/04/24](#150424) | Research at Turing: Natural Logic-based Fact Verification with LLMs | David Blackwell | [Marek Strong](https://marekstrong.github.io/)  |
-| [22/04/24](#220424) | Discussion: Uncensored LLMs, use cases, pros/cons, and the ethics of them | David Blackwell | [Aoife Hughes](https://github.com/AoifeHughes) |
+| [22/04/24](#220424) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | [Yilei Liang](https://www.cst.cam.ac.uk/people/yl841) |
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 | [13/05/24](#130524) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 | [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | Ursula Franklin | [Angus Williams](https://gavinabercrombie.github.io/) |
@@ -34,23 +32,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 # Material for sessions
 
-## 18/03/24
-### Not even a Chinese Room: evaluating LLMs on code simulation
-
-**Main**
-- [CodeMind: A Framework to Challenge Large Language Models for Code Reasoning](https://arxiv.org/pdf/2402.09664.pdf)
-- [Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap](https://arxiv.org/pdf/2402.19450.pdf)
-- [The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?](https://arxiv.org/pdf/2402.19475.pdf)
-- [THE GENERATIVE AI PARADOX: “What It Can Create, It May Not Understand”](https://openreview.net/pdf?id=CF8H8MS5P8)
-
-## 25/03/24
-### Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model
-
-**Main**
-- [Fisher-Legendre (FishLeg) optimization of deep neural networks](https://openreview.net/pdf?id=c9lAOPvQHS)
-- [Second order derivatives for network pruning: Optimal Brain Surgeon](https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf)
-- [The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models](https://arxiv.org/pdf/2203.07259.pdf)
-
 ## 08/04/24
 ### Paper overviews: TBC
 
@@ -58,8 +39,12 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ### Natural Logic-based Fact Verification with LLMs
 
 ## 22/04/24
-### Uncensored LLMs, use cases, pros/cons, and the ethics of them
+### Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model
 
+**Main**
+- [Fisher-Legendre (FishLeg) optimization of deep neural networks](https://openreview.net/pdf?id=c9lAOPvQHS)
+- [Second order derivatives for network pruning: Optimal Brain Surgeon](https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf)
+- [The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models](https://arxiv.org/pdf/2203.07259.pdf)
 ## 29/04/24
 ### How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions
 
