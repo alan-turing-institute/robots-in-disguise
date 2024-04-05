@@ -35,6 +35,7 @@ This page shows a history of previous sessions in the reading group.
 | [26/02/24](#260224) | Research at Turing: Machine translation quality estimation ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/27-machine-translation-quality-estimation/MTQE_2024-02-26_Foundation_Models_Reading_Group.pdf)) | David Blackwell | [Radka Jersakova](https://www.turing.ac.uk/people/researchers/radka-jersakova), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | [04/03/24](#040324) | Discussion: Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/28-participatory-ai-governance/2024_ParticipatoryAIGovernance_JD.pdf)) | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/29-applying-vision-transformers-in-neuroscience/2024-03-11-foundation-model-of-the-mouse-visual-cortex.pdf)) | David Blackwell | [Bryan Li](https://bryanli.io/) |
+| [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
 
 # Material for sessions
 
@@ -362,6 +363,15 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 - [2022 in review: neuroAI comes of age](https://xcorr.net/2023/01/01/2022-in-review-neuroai-comes-of-age/)
 - [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2)
 - [V1T: large-scale mouse V1 response prediction using a Vision Transformer](https://openreview.net/forum?id=qHZs2p4ZD4)
+
+## 18/03/24
+### Not even a Chinese Room: evaluating LLMs on code simulation
+
+**Main**
+- [CodeMind: A Framework to Challenge Large Language Models for Code Reasoning](https://arxiv.org/pdf/2402.09664.pdf)
+- [Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap](https://arxiv.org/pdf/2402.19450.pdf)
+- [The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?](https://arxiv.org/pdf/2402.19475.pdf)
+- [THE GENERATIVE AI PARADOX: “What It Can Create, It May Not Understand”](https://openreview.net/pdf?id=CF8H8MS5P8)
 
 ## Miscellaneous
 
