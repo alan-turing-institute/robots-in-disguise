@@ -18,7 +18,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [08/04/24](#080424) | Technical: Paper overviews: TBC | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Ryan Chan](https://github.com/rchan26) |
+| [08/04/24](#080424) | Technical: Paper overviews: TBC | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Praveen Selvaraj](https://github.com/pravsels) |
 | [15/04/24](#150424) | Research at Turing: Natural Logic-based Fact Verification with LLMs | David Blackwell | [Marek Strong](https://marekstrong.github.io/)  |
 | [22/04/24](#220424) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | [Yilei Liang](https://www.cst.cam.ac.uk/people/yl841) |
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
@@ -33,7 +33,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 # Material for sessions
 
 ## 08/04/24
-### Paper overviews: TBC
+### Paper overviews
 
 ## 15/04/24
 ### Natural Logic-based Fact Verification with LLMs
