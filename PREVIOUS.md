@@ -36,6 +36,7 @@ This page shows a history of previous sessions in the reading group.
 | [04/03/24](#040324) | Discussion: Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/28-participatory-ai-governance/2024_ParticipatoryAIGovernance_JD.pdf)) | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/29-applying-vision-transformers-in-neuroscience/2024-03-11-foundation-model-of-the-mouse-visual-cortex.pdf)) | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
+| [08/04/24](#080424) | Technical: Paper overviews | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Praveen Selvaraj](https://github.com/pravsels) |
 
 # Material for sessions
 
@@ -372,6 +373,10 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 - [Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap](https://arxiv.org/pdf/2402.19450.pdf)
 - [The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?](https://arxiv.org/pdf/2402.19475.pdf)
 - [THE GENERATIVE AI PARADOX: “What It Can Create, It May Not Understand”](https://openreview.net/pdf?id=CF8H8MS5P8)
+
+
+## 08/04/24
+### Paper overviews
 
 ## Miscellaneous
 
