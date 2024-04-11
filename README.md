@@ -24,7 +24,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [13/05/24](#130524) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 | [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | Ursula Franklin | [Angus Williams](https://gavinabercrombie.github.io/) |
 | [27/05/24](#270524) | Technical: State space models | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
-| [04/06/24](#040624) | Invited Talk: Nicholas Carlini | Enigma | [Nicholas Carlini](https://nicholas.carlini.com/) |
+| [04/06/24](#040624) | Invited Talk: Nicholas Carlini | Enigma (2.30pm) | [Nicholas Carlini](https://nicholas.carlini.com/) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 | [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, [Kat Goldmann](https://www.turing.ac.uk/people/research-engineering/katriona-goldmann), Colin Laganier and others|
 | [24/06/24](#240624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://github.com/fedenanni) |
@@ -57,8 +57,8 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 27/05/24
 ### State space models
 
-## 03/06/24
-### Conference Overview: Coling/LREC
+## 04/06/24
+### Invited Talk
 
 ## 17/06/24
 ### Edge AI
