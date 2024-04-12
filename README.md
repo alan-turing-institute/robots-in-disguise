@@ -21,13 +21,16 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [15/04/24](#150424) | Research at Turing: Natural Logic-based Fact Verification with LLMs | David Blackwell | [Marek Strong](https://marekstrong.github.io/)  |
 | [22/04/24](#220424) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | [Yilei Liang](https://www.cst.cam.ac.uk/people/yl841) |
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
-| [13/05/24](#130524) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
+| [13/05/24](#130524) | Technical: Overview of LLM Security | David Blackwell | [Ed Chapman](https://www.turing.ac.uk/people/research-engineering/edward-chapman) and [Burak Hasircioglu](https://www.turing.ac.uk/people/researchers/burak-hasircioglu) |
 | [20/05/24](#200524) | Technical: Mixture of experts methods / merging LLMs | Ursula Franklin | [Angus Williams](https://gavinabercrombie.github.io/) |
 | [27/05/24](#270524) | Technical: State space models | David Blackwell | [Praveen Selvaraj](https://github.com/pravsels) |
 | [04/06/24](#040624) | Invited Talk: Nicholas Carlini | Enigma (2.30pm) | [Nicholas Carlini](https://nicholas.carlini.com/) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 | [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, [Kat Goldmann](https://www.turing.ac.uk/people/research-engineering/katriona-goldmann), Colin Laganier and others|
 | [24/06/24](#240624) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://github.com/fedenanni) |
+| [01/07/24](#140724) | FREE SLOT | David Blackwell | FREE SLOT |
+| [08/07/24](#080724) | FREE SLOT | David Blackwell | FREE SLOT |
+| [15/07/24](#150724) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 
 
 # Material for sessions
@@ -49,7 +52,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 - [How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions](https://arxiv.org/abs/2309.15840)
 
 ## 13/05/24
-### TBC
+### Overview of LLM Security
 
 ## 20/05/24
 ### Mixture of experts methods / merging LLMs
@@ -65,3 +68,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 ## 24/06/24
 ### Conference Overview: Coling/LREC
+
+## 15/07/24
+### TBC
