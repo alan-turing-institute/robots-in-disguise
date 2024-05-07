@@ -36,7 +36,10 @@ This page shows a history of previous sessions in the reading group.
 | [04/03/24](#040324) | Discussion: Expanding participatory governance for LLMs: case studies from BigCode, Aya Initiative, and Collective Intelligence Project ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/28-participatory-ai-governance/2024_ParticipatoryAIGovernance_JD.pdf)) | David Blackwell | [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding) |
 | [11/03/24](#110324) | Research at Turing: Applying Vision Transformers in Neuroscience ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/29-applying-vision-transformers-in-neuroscience/2024-03-11-foundation-model-of-the-mouse-visual-cortex.pdf)) | David Blackwell | [Bryan Li](https://bryanli.io/) |
 | [18/03/24](#180324) | Research at Turing: Not even a Chinese Room: evaluating LLMs on code simulation | David Blackwell | [Emanuele La Malfa](https://www.cs.ox.ac.uk/people/emanuele.lamalfa/) |
-| [08/04/24](#080424) | Technical: Paper overviews | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Praveen Selvaraj](https://github.com/pravsels) |
+| [08/04/24](#080424) | Technical: Paper overviews ([Slides](https://image-editing.notion.site/Representation-Engineering-a451cb7f5af048b6878bc96396dac5a1), [Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/31-quick-paper-overviews/Quick_overview_ Binoculars_Paper.pdf)) | Ursula Franklin | [Fede Nanni](https://github.com/fedenanni), [Markus Hauru](https://github.com/mhauru/), [Praveen Selvaraj](https://github.com/pravsels) |
+| [15/04/24](#150424) | Research at Turing: Natural Logic-based Fact Verification with LLMs | David Blackwell | [Marek Strong](https://marekstrong.github.io/)  |
+| [22/04/24](#220424) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | [Yilei Liang](https://www.cst.cam.ac.uk/people/yl841) |
+| [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/34-how-to-catch-ai-liar/LLM_Lie_detection.pdf)) | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 
 # Material for sessions
 
@@ -374,9 +377,31 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 - [The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?](https://arxiv.org/pdf/2402.19475.pdf)
 - [THE GENERATIVE AI PARADOX: “What It Can Create, It May Not Understand”](https://openreview.net/pdf?id=CF8H8MS5P8)
 
-
 ## 08/04/24
 ### Paper overviews
+
+**Main**
+- [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
+- [AI Transparancy Technique](https://www.ai-transparency.org/)
+- [Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
+- [Binoculars GitHub repo](https://github.com/ahans30/Binoculars?tab=readme-ov-file)
+
+## 15/04/24
+### Natural Logic-based Fact Verification with LLMs
+
+## 22/04/24
+### Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model
+
+**Main**
+- [Fisher-Legendre (FishLeg) optimization of deep neural networks](https://openreview.net/pdf?id=c9lAOPvQHS)
+- [Second order derivatives for network pruning: Optimal Brain Surgeon](https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf)
+- [The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models](https://arxiv.org/pdf/2203.07259.pdf)
+
+## 29/04/24
+### How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions
+
+**Main**
+- [How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions](https://arxiv.org/abs/2309.15840)
 
 ## Miscellaneous
 
