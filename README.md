@@ -34,6 +34,10 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## 13/05/24
 ### Overview of LLM Security
 
+**Main**
+- [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
+- [FINE-TUNING ALIGNED LANGUAGE MODELS COMPROMISES SAFETY, EVEN WHEN USERS DO NOT INTEND TO!](https://arxiv.org/pdf/2310.03693)
+
 ## 20/05/24
 ### KAN: Kolmogorov-Arnold Networks
 
