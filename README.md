@@ -18,25 +18,22 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [13/05/24](#130524) | Technical: Overview of LLM Security | David Blackwell | [Ed Chapman](https://www.turing.ac.uk/people/research-engineering/edward-chapman), [Burak Hasircioglu](https://www.turing.ac.uk/people/researchers/burak-hasircioglu), [Ezzeldin Zaki](https://www.kth.se/profile/eshereen) |
 | [20/05/24](#200524) | Technical: KAN: Kolmogorov-Arnold Networks | Ursula Franklin | [Andrew Duncan](https://www.turing.ac.uk/people/researchers/andrew-duncan) |
-| [04/06/24](#040624) | Invited Talk: Nicholas Carlini | Enigma (2.30pm) | [Nicholas Carlini](https://nicholas.carlini.com/) |
+| [04/06/24](#040624) | Invited Talk: Are we ready for attacks on machine learning? | Enigma (2.30pm) | [Nicholas Carlini](https://nicholas.carlini.com/) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 | [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, [Kat Goldmann](https://www.turing.ac.uk/people/research-engineering/katriona-goldmann), Colin Laganier and others|
-| [24/06/24](#240624) | Invited Talk: Improving LLMs for low-resource African languages (talk at 3pm!) | David Blackwell | Ed Bayes and others |
+| [24/06/24](#240624) | Invited Talk: Improving LLMs for low-resource African languages | Ursula Franklin (3pm) | Ed Bayes and others |
 | [01/07/24](#010724) | Technical: A perspective on the fundamentals of transformers | David Blackwell | Ed Gunn |
 | [08/07/24](#080724) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://github.com/fedenanni) |
 | [15/07/24](#150724) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
-
+| [22/07/24](#220724) | TBC | David Blackwell | TBC |
+| [29/07/24](#290724) | TBC | David Blackwell | TBC |
+| [05/08/24](#050824) | TBC | David Blackwell | TBC |
+| [12/08/24](#120824) | TBC | David Blackwell | TBC |
+| [19/08/24](#190824) | TBC | David Blackwell | TBC |
+| [26/08/24](#260824) | TBC | David Blackwell | TBC |
 
 # Material for sessions
-
-## 13/05/24
-### Overview of LLM Security
-
-**Main**
-- [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
-- [FINE-TUNING ALIGNED LANGUAGE MODELS COMPROMISES SAFETY, EVEN WHEN USERS DO NOT INTEND TO!](https://arxiv.org/pdf/2310.03693)
 
 ## 20/05/24
 ### KAN: Kolmogorov-Arnold Networks
@@ -45,13 +42,25 @@ Please **get in touch** if you would like to give a talk (either about your rese
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 
 ## 04/06/24
-### Invited Talk
+### Invited Talk - 
+
+**Abstract**
+It has now been a decade since the first adversarial examples were demonstrated on deep learning models. And yet, even still, we can not robustly classify MNIST images better than LeNet-5 or ImageNet images better than AlexNet. But now, more than ever, we need robust machine learning models. And not only robust to evasion attack: but also robust to poisoning, stealing, and many other attacks. In this talk I survey the current progress we have made on adversarial machine learning. While we have made many significant advances in making attacks practical, we have had made considerably less progress on defences. Making progress towards addressing these challenges will be of the highest importance in the coming years.
 
 ## 17/06/24
 ### Edge AI
 
 ## 24/06/24
+### Improving LLMs for low-resource African languages
+
+## 01/07/24
+### A perspective on the fundamentals of transformers
+
+## 08/07/24
 ### Conference Overview: Coling/LREC
+
+## 15/07/24
+### Invited Talk
 
 ## 15/07/24
 ### TBC
