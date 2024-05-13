@@ -23,15 +23,19 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
 | [17/06/24](#170624) | Research at Turing: Edge AI | David Blackwell | Liam Fletcher, [Kat Goldmann](https://www.turing.ac.uk/people/research-engineering/katriona-goldmann), Colin Laganier and others|
 | [24/06/24](#240624) | Invited Talk: Improving LLMs for low-resource African languages | Ursula Franklin (3pm) | Ed Bayes and others |
-| [01/07/24](#010724) | Technical: A perspective on the fundamentals of transformers | David Blackwell | Ed Gunn |
-| [08/07/24](#080724) | TBC: Conference Overview: Coling/LREC | David Blackwell | [Fede Nanni](https://github.com/fedenanni) |
+| [01/07/24](#010724) | Technical: A perspective on the fundamentals of transformers | Ursula Franklin | Ed Gunn |
+| [08/07/24](#080724) | TBC: Conference Overview: Coling/LREC | Cipher | [Fede Nanni](https://github.com/fedenanni) |
 | [15/07/24](#150724) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
-| [22/07/24](#220724) | TBC | David Blackwell | TBC |
-| [29/07/24](#290724) | TBC | David Blackwell | TBC |
-| [05/08/24](#050824) | TBC | David Blackwell | TBC |
-| [12/08/24](#120824) | TBC | David Blackwell | TBC |
+| [22/07/24](#220724) | TBC | Ursula Franklin | TBC |
+| [29/07/24](#290724) | TBC | Ursula Franklin | TBC |
+| [05/08/24](#050824) | TBC | Ursula Franklin | TBC |
+| [12/08/24](#120824) | TBC | Ursula Franklin | TBC |
 | [19/08/24](#190824) | TBC | David Blackwell | TBC |
 | [26/08/24](#260824) | TBC | David Blackwell | TBC |
+| [02/09/24](#020924) | TBC | David Blackwell | TBC |
+| [09/09/24](#090924) | TBC | Ursula Franklin | TBC |
+| [16/09/24](#160924) | TBC | David Blackwell | TBC |
+| [23/09/24](#230924) | TBC | David Blackwell | TBC |
 
 # Material for sessions
 
