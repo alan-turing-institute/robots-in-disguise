@@ -18,7 +18,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [13/05/24](#130524) | Technical: Overview of LLM Security | David Blackwell | [Ed Chapman](https://www.turing.ac.uk/people/research-engineering/edward-chapman) and [Burak Hasircioglu](https://www.turing.ac.uk/people/researchers/burak-hasircioglu) |
+| [13/05/24](#130524) | Technical: Overview of LLM Security | David Blackwell | [Ed Chapman](https://www.turing.ac.uk/people/research-engineering/edward-chapman), [Burak Hasircioglu](https://www.turing.ac.uk/people/researchers/burak-hasircioglu), [Ezzeldin Zaki](https://www.kth.se/profile/eshereen) |
 | [20/05/24](#200524) | Technical: KAN: Kolmogorov-Arnold Networks | Ursula Franklin | [Andrew Duncan](https://www.turing.ac.uk/people/researchers/andrew-duncan) |
 | [04/06/24](#040624) | Invited Talk: Nicholas Carlini | Enigma (2.30pm) | [Nicholas Carlini](https://nicholas.carlini.com/) |
 | [10/06/24](#100624) | REG Hack Week 👋 | David Blackwell | |
