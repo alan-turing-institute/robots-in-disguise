@@ -41,6 +41,7 @@ This page shows a history of previous sessions in the reading group.
 | [22/04/24](#220424) | Research at Turing: Learn how to learn and distil during learning - Using meta-learning and second order optimisation to prune the model | David Blackwell | [Yilei Liang](https://www.cst.cam.ac.uk/people/yl841) |
 | [29/04/24](#290424) | Invited Talk: How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/34-how-to-catch-ai-liar/LLM_Lie_detection.pdf)) | David Blackwell | [Lorenzo Pacchiardi](http://www.lorenzopacchiardi.me/) |
 | [13/05/24](#130524) | Technical: Overview of LLM Security ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/35-llm-security/LLM_Security_slides.pdf)) | David Blackwell | [Ed Chapman](https://www.turing.ac.uk/people/research-engineering/edward-chapman), [Burak Hasircioglu](https://www.turing.ac.uk/people/researchers/burak-hasircioglu), [Ezzeldin Zaki](https://www.kth.se/profile/eshereen) |
+| [20/05/24](#200524) | Technical: KAN: Kolmogorov-Arnold Networks | Ursula Franklin | [Andrew Duncan](https://www.turing.ac.uk/people/researchers/andrew-duncan) |
 
 # Material for sessions
 
