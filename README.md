@@ -24,7 +24,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [15/07/24](#080724) | TBC: Conference Overview: Coling/LREC | Cipher | [Fede Nanni](https://github.com/fedenanni) |
 | [22/07/24](#220724) | Invited Talk: Designing a Value-driven GAI Framework for Social Good: Embedding Social Good Values into GAI Models  | Ursula Franklin | [Victor OK Li](https://www.eee.hku.hk/people/vli/), [Jacqueline CK Lam](https://www.eee.hku.hk/people/jcklam/) and [Jon Crowcroft](https://www.turing.ac.uk/people/researchers/jon-crowcroft) |
 | [29/07/24](#290724) | TBC | Ursula Franklin | TBC |
-| [05/08/24](#050824) | TBC | Ursula Franklin | TBC |
+| [05/08/24](#050824) | Invited Talk: The growth of parallelism in machine learning inference | Ursula Franklin | [Tim Harris (Microsoft)](https://timharris.uk/) |
 | [12/08/24](#120824) | TBC | Ursula Franklin | TBC |
 | [19/08/24](#190824) | TBC | David Blackwell | TBC |
 | [26/08/24](#260824) | TBC | David Blackwell | TBC |
