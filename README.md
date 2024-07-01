@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [24/06/24](#240624) | Invited Talk: Improving LLMs for low-resource African languages | Ursula Franklin (3pm) | Ed Bayes and others |
 | [01/07/24](#010724) | Technical: A perspective on the fundamentals of transformers | Ursula Franklin | Ed Gunn |
 | [08/07/24](#150724) | Invited Talk: Equally Safe Online? A participatory approach to tackling Gender-Based Violence | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 | [15/07/24](#080724) | TBC: Conference Overview: Coling/LREC | Cipher | [Fede Nanni](https://github.com/fedenanni) |
@@ -67,7 +66,10 @@ Please **get in touch** if you would like to give a talk (either about your rese
 	- [Xie et al.'21](https://arxiv.org/abs/2111.02080)
 
 ## 08/07/24
-### TBC
+### Equally Safe Online? A participatory approach to tackling Gender-Based Violence
+
+We are in the midst of an ‘epidemic of online abuse’, which disproportionately affects women and minoritised groups. In recent years, technology companies and computer science researchers have made efforts to automate the identification of hate speech and other toxic or abusive language. However, existing resources are limited in a number of important ways, such as their lack of theoretical grounding and stakeholder input.The EPSRC funded project Equally Safe Online aims to harness stakeholder expertise to co-design resources and methods to tackle online GBV.
+In this talk, I will discuss outcomes and ongoing work from the project, focusing on participatory design for NLP, perspectivist approaches to dataset creation, and generation of counterspeech against hateful language.
 
 ## 15/07/24
 ### Conference Overview: Coling/LREC
