@@ -20,7 +20,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | --- | ----- | ---- | ---- |
 | [24/06/24](#240624) | Invited Talk: Improving LLMs for low-resource African languages | Ursula Franklin (3pm) | Ed Bayes and others |
 | [01/07/24](#010724) | Technical: A perspective on the fundamentals of transformers | Ursula Franklin | Ed Gunn |
-| [08/07/24](#150724) | Invited Talk: [TBC] | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
+| [08/07/24](#150724) | Invited Talk: Equally Safe Online? A participatory approach to tackling Gender-Based Violence | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 | [15/07/24](#080724) | TBC: Conference Overview: Coling/LREC | Cipher | [Fede Nanni](https://github.com/fedenanni) |
 | [22/07/24](#220724) | Invited Talk: Designing a Value-driven GAI Framework for Social Good: Embedding Social Good Values into GAI Models  | Ursula Franklin | [Victor OK Li](https://www.eee.hku.hk/people/vli/), [Jacqueline CK Lam](https://www.eee.hku.hk/people/jcklam/) and [Jon Crowcroft](https://www.turing.ac.uk/people/researchers/jon-crowcroft) |
 | [29/07/24](#290724) | TBC | Ursula Franklin | TBC |
