@@ -35,20 +35,42 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 # Material for sessions
 
-## 24/06/24
-### Improving LLMs for low-resource African languages
-
 ## 01/07/24
 ### A perspective on the fundamentals of transformers
 
+- [ICASSP Tutorial](https://sites.usc.edu/aif4s/2024/04/14/icassp-2024-tutorial-on-fundamentals-of-transformers/)
+- Transformers primer
+	- [Vaswani et al.'17](https://arxiv.org/abs/1706.03762)
+	- [Elhage et al.'21](https://transformer-circuits.pub/2021/framework/index.html)
+- Optimisation
+	- [Ji et al.'20](https://proceedings.mlr.press/v125/ji20a.html)
+	- [Tarzanagh et al.'23b](https://arxiv.org/abs/2308.16898)
+	- [Tarzanagh et al.'23a](https://arxiv.org/abs/2306.13596)
+	- [Vasudeva et al.'24](https://arxiv.org/abs/2402.05738)
+- Approximation
+	- [Yun et al.'19](https://arxiv.org/abs/1912.10077)
+	- [Kajitsuka & Sato'23](https://arxiv.org/abs/2307.14023)
+	- [Guo et al.'19](https://arxiv.org/abs/1902.09113)
+	- [Child et al.'19](https://arxiv.org/abs/1904.10509)
+	- [Yun et al.'20](https://arxiv.org/abs/2006.04862)
+	- [Beltagy et al.'20](https://arxiv.org/abs/2004.05150)
+	- [Zaheer et al.'20](https://arxiv.org/abs/2007.14062)
+- Memorisation
+	- [Blog](https://ml-jku.github.io/hopfield-layers/)
+	- [Hopfield'82](https://www.pnas.org/doi/abs/10.1073/pnas.79.8.2554)
+	- [Krotov, Hopfield'16](https://arxiv.org/abs/1606.01164)
+	- [Dermircigil et al.'17](https://arxiv.org/abs/1702.01929)
+	- [Krotov, Hopfield'20](https://arxiv.org/abs/2008.06996)
+	- [Ramsauer et al.'20](https://arxiv.org/abs/2008.02217)
+- In-context learning
+	- [Oswald et al.'22](https://arxiv.org/abs/2212.07677)
+	- [Xie et al.'21](https://arxiv.org/abs/2111.02080)
+
 ## 08/07/24
-### Conference Overview: Coling/LREC
+### TBC
 
 ## 15/07/24
 ### Conference Overview: Coling/LREC
-
-## 15/07/24
-### Invited Talk
 
 ## 22/07/24
 ### Designing a Value-driven GAI Framework for Social Good: Embedding Social Good Values into GAI Models 
