@@ -25,7 +25,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [29/07/24](#290724) | TBC | Ursula Franklin | TBC |
 | [05/08/24](#050824) | Invited Talk: The growth of parallelism in machine learning inference | Ursula Franklin | [Tim Harris (Microsoft)](https://timharris.uk/) |
 | [12/08/24](#120824) | TBC | Ursula Franklin | TBC |
-| [19/08/24](#190824) | TBC | David Blackwell | TBC |
+| [19/08/24](#190824) | Overview of Knowledge Graphs | David Blackwell | Navdeep Kaur |
 | [26/08/24](#260824) | TBC | David Blackwell | TBC |
 | [02/09/24](#020924) | TBC | David Blackwell | TBC |
 | [09/09/24](#090924) | TBC | Ursula Franklin | TBC |
