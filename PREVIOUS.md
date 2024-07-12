@@ -43,6 +43,8 @@ This page shows a history of previous sessions in the reading group.
 | [13/05/24](#130524) | Technical: Overview of LLM Security ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/35-llm-security/LLM_Security_slides.pdf)) | David Blackwell | [Ed Chapman](https://www.turing.ac.uk/people/research-engineering/edward-chapman), [Burak Hasircioglu](https://www.turing.ac.uk/people/researchers/burak-hasircioglu), [Ezzeldin Zaki](https://www.kth.se/profile/eshereen) |
 | [20/05/24](#200524) | Technical: KAN: Kolmogorov-Arnold Networks | Ursula Franklin | [Andrew Duncan](https://www.turing.ac.uk/people/researchers/andrew-duncan) |
 | [04/06/24](#040624) | Invited Talk: Are we ready for attacks on machine learning? | Enigma (2.30pm) | [Nicholas Carlini](https://nicholas.carlini.com/) |
+| [01/07/24](#010724) | Technical: A perspective on the fundamentals of transformers ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/38-a-perspective-on-the-fundamentals-of-transformers/a_perspective_on_the_fundamentals_of_transformers_slide.pdf)) | Ursula Franklin | Ed Gunn |
+| [08/07/24](#080724) | Invited Talk: Equally Safe Online? A participatory approach to tackling Gender-Based Violence ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/39-perspectivism-in-nlp/gavin-abercrombie-talk.pdf)) | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
 
 # Material for sessions
 
@@ -412,6 +414,55 @@ And if you're curious (and want spoilers) about stable diffusion and latent diff
 **Main**
 - [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
 - [FINE-TUNING ALIGNED LANGUAGE MODELS COMPROMISES SAFETY, EVEN WHEN USERS DO NOT INTEND TO!](https://arxiv.org/pdf/2310.03693)
+
+## 20/05/24
+### KAN: Kolmogorov-Arnold Networks
+
+**Main**
+- [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
+
+## 04/06/24
+### Invited Talk - 
+
+**Abstract**
+It has now been a decade since the first adversarial examples were demonstrated on deep learning models. And yet, even still, we can not robustly classify MNIST images better than LeNet-5 or ImageNet images better than AlexNet. But now, more than ever, we need robust machine learning models. And not only robust to evasion attack: but also robust to poisoning, stealing, and many other attacks. In this talk I survey the current progress we have made on adversarial machine learning. While we have made many significant advances in making attacks practical, we have had made considerably less progress on defences. Making progress towards addressing these challenges will be of the highest importance in the coming years.
+
+## 01/07/24
+### A perspective on the fundamentals of transformers
+
+- [ICASSP Tutorial](https://sites.usc.edu/aif4s/2024/04/14/icassp-2024-tutorial-on-fundamentals-of-transformers/)
+- Transformers primer
+	- [Vaswani et al.'17](https://arxiv.org/abs/1706.03762)
+	- [Elhage et al.'21](https://transformer-circuits.pub/2021/framework/index.html)
+- Optimisation
+	- [Ji et al.'20](https://proceedings.mlr.press/v125/ji20a.html)
+	- [Tarzanagh et al.'23b](https://arxiv.org/abs/2308.16898)
+	- [Tarzanagh et al.'23a](https://arxiv.org/abs/2306.13596)
+	- [Vasudeva et al.'24](https://arxiv.org/abs/2402.05738)
+- Approximation
+	- [Yun et al.'19](https://arxiv.org/abs/1912.10077)
+	- [Kajitsuka & Sato'23](https://arxiv.org/abs/2307.14023)
+	- [Guo et al.'19](https://arxiv.org/abs/1902.09113)
+	- [Child et al.'19](https://arxiv.org/abs/1904.10509)
+	- [Yun et al.'20](https://arxiv.org/abs/2006.04862)
+	- [Beltagy et al.'20](https://arxiv.org/abs/2004.05150)
+	- [Zaheer et al.'20](https://arxiv.org/abs/2007.14062)
+- Memorisation
+	- [Blog](https://ml-jku.github.io/hopfield-layers/)
+	- [Hopfield'82](https://www.pnas.org/doi/abs/10.1073/pnas.79.8.2554)
+	- [Krotov, Hopfield'16](https://arxiv.org/abs/1606.01164)
+	- [Dermircigil et al.'17](https://arxiv.org/abs/1702.01929)
+	- [Krotov, Hopfield'20](https://arxiv.org/abs/2008.06996)
+	- [Ramsauer et al.'20](https://arxiv.org/abs/2008.02217)
+- In-context learning
+	- [Oswald et al.'22](https://arxiv.org/abs/2212.07677)
+	- [Xie et al.'21](https://arxiv.org/abs/2111.02080)
+
+## 08/07/24
+### Equally Safe Online? A participatory approach to tackling Gender-Based Violence
+
+We are in the midst of an ‘epidemic of online abuse’, which disproportionately affects women and minoritised groups. In recent years, technology companies and computer science researchers have made efforts to automate the identification of hate speech and other toxic or abusive language. However, existing resources are limited in a number of important ways, such as their lack of theoretical grounding and stakeholder input.The EPSRC funded project Equally Safe Online aims to harness stakeholder expertise to co-design resources and methods to tackle online GBV.
+In this talk, I will discuss outcomes and ongoing work from the project, focusing on participatory design for NLP, perspectivist approaches to dataset creation, and generation of counterspeech against hateful language.
 
 ## Miscellaneous
 
