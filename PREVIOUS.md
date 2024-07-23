@@ -45,6 +45,8 @@ This page shows a history of previous sessions in the reading group.
 | [04/06/24](#040624) | Invited Talk: Are we ready for attacks on machine learning? | Enigma (2.30pm) | [Nicholas Carlini](https://nicholas.carlini.com/) |
 | [01/07/24](#010724) | Technical: A perspective on the fundamentals of transformers ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/38-a-perspective-on-the-fundamentals-of-transformers/a_perspective_on_the_fundamentals_of_transformers_slide.pdf)) | Ursula Franklin | Ed Gunn |
 | [08/07/24](#080724) | Invited Talk: Equally Safe Online? A participatory approach to tackling Gender-Based Violence ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/39-perspectivism-in-nlp/gavin-abercrombie-talk.pdf)) | David Blackwell | [Gavin Abercrombie](https://gavinabercrombie.github.io/) |
+| [15/07/24](#150724) | Invited Talk: Open science projects for open-source models and transparent open datasets | Cipher | [Christopher Klamm](https://chkla.github.io/gitPage/) |
+| [22/07/24](#220724) | Invited Talk: Designing a Value-driven GAI Framework for Social Good: Embedding Social Good Values into GAI Models  | Ursula Franklin | [Victor OK Li](https://www.eee.hku.hk/people/vli/), [Jacqueline CK Lam](https://www.eee.hku.hk/people/jcklam/) and [Jon Crowcroft](https://www.turing.ac.uk/people/researchers/jon-crowcroft) |
 
 # Material for sessions
 
@@ -463,6 +465,12 @@ It has now been a decade since the first adversarial examples were demonstrated 
 
 We are in the midst of an ‘epidemic of online abuse’, which disproportionately affects women and minoritised groups. In recent years, technology companies and computer science researchers have made efforts to automate the identification of hate speech and other toxic or abusive language. However, existing resources are limited in a number of important ways, such as their lack of theoretical grounding and stakeholder input.The EPSRC funded project Equally Safe Online aims to harness stakeholder expertise to co-design resources and methods to tackle online GBV.
 In this talk, I will discuss outcomes and ongoing work from the project, focusing on participatory design for NLP, perspectivist approaches to dataset creation, and generation of counterspeech against hateful language.
+
+## 15/07/24
+### Open science projects for open-source models and transparent open datasets
+
+## 22/07/24
+### Designing a Value-driven GAI Framework for Social Good: Embedding Social Good Values into GAI Models 
 
 ## Miscellaneous
 
