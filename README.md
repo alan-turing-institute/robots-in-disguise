@@ -21,10 +21,10 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [05/08/24](#050824) | Invited Talk: The growth of parallelism in machine learning inference | Ursula Franklin | [Tim Harris (Microsoft)](https://timharris.uk/) |
 | [12/08/24](#120824) | TBC | Ursula Franklin | TBC |
 | [19/08/24](#190824) | Overview of Knowledge Graphs | David Blackwell | Navdeep Kaur |
-| [26/08/24](#260824) | TBC | David Blackwell | TBC |
+| [26/08/24](#260824) | Technical: Mechanistic Interpretability | David Blackwell | [Ryan Chan](https://github.com/rchan26), [Fede Nanni](https://github.com/fedenanni) |
 | [02/09/24](#020924) | TBC | David Blackwell | TBC |
-| [09/09/24](#090924) | TBC | Ursula Franklin | TBC |
+| [09/09/24](#090924) | Technical: Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26), [Fede Nanni](https://github.com/fedenanni) |
 | [16/09/24](#160924) | TBC | David Blackwell | TBC |
-| [23/09/24](#230924) | TBC | David Blackwell | TBC |
+| [23/09/24](#230924) | Technical: Mechanistic Interpretability | David Blackwell | [Ryan Chan](https://github.com/rchan26), [Fede Nanni](https://github.com/fedenanni) |
 
 # Material for sessions
