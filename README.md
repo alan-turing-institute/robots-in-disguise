@@ -20,7 +20,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | --- | ----- | ---- | ---- |
 | [12/08/24](#120824) | Llama 3.1 Report Overview | Ursula Franklin | [Edwin Brown](https://github.com/EdwinB12), [Ryan Chan](https://github.com/rchan26) |
 | [19/08/24](#190824) | Overview of Knowledge Graphs | David Blackwell |[Navdeep Kaur](https://www.turing.ac.uk/people/navdeep-kaur) |
-| [26/08/24](#260824) | BANK HOLIDAY | NA | NA |
+| [28/08/24](#280824) | Technical: Mixture of Experts | Jack Good | [Angus R Williams](https://angusrw.com/) |
 | [04/09/24](#020924) | Invited Talk: TBC | David Blackwell | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
 | [09/09/24](#090924) | Invited Talk: Title TBC | David Blackwell | [Han Zhou (Cambridge)](https://hzhou.top/)|
 | [16/09/24](#160924) | Technical: Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26), [Fede Nanni](https://github.com/fedenanni) |
