@@ -48,6 +48,7 @@ This page shows a history of previous sessions in the reading group.
 | [15/07/24](#150724) | Invited Talk: Open science projects for open-source models and transparent open datasets | Cipher | [Christopher Klamm](https://chkla.github.io/gitPage/) |
 | [22/07/24](#220724) | Invited Talk: Designing a Value-driven GAI Framework for Social Good: Embedding Social Good Values into GAI Models ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/41-value-driven-gai-framework-for-social-good/AI_system_with_social_good.pdf)) | Ursula Franklin | [Victor OK Li](https://www.eee.hku.hk/people/vli/), [Jacqueline CK Lam](https://www.eee.hku.hk/people/jcklam/) and [Jon Crowcroft](https://www.turing.ac.uk/people/researchers/jon-crowcroft) |
 | [05/08/24](#050824) | Invited Talk: The growth of parallelism in machine learning inference | Ursula Franklin | [Tim Harris (Microsoft)](https://timharris.uk/) |
+| [12/08/24](#120824) | Llama 3.1 Report Overview ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/43-llama31/llama-3-1.pdf)) | Ursula Franklin | [Edwin Brown](https://github.com/EdwinB12), [Ryan Chan](https://github.com/rchan26) |
 
 # Material for sessions
 
@@ -471,6 +472,12 @@ In this talk, I will discuss outcomes and ongoing work from the project, focusin
 ### The growth of parallelism in machine learning inference
 
 When I started working on machine learning inference four years ago a typical model would run on a handful of CPU cores. We needed to think about distributing work between threads, but the systems-level problems and abstractions were well understood. Fast forward to today and machine learning models are so large that even a "small" language model can have billions of parameters and run across a multi-GPU system. In this talk I am going to go on an end-to-end journey through the implementation of these models. We will see some of the different problems which emerge in parallelism and distributed computing, and some of the places where I think we are lacking good abstractions.
+
+## 12/08/24
+
+- [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
+- [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/pdf/2305.13245)
+- [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864)
 
 ## Miscellaneous
 

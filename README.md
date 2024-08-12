@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [12/08/24](#120824) | Llama 3.1 Report Overview | Ursula Franklin | [Edwin Brown](https://github.com/EdwinB12), [Ryan Chan](https://github.com/rchan26) |
 | [19/08/24](#190824) | Overview of Knowledge Graphs | David Blackwell |[Navdeep Kaur](https://www.turing.ac.uk/people/navdeep-kaur) |
 | [28/08/24](#280824) | Technical: Mixture of Experts | Jack Good | [Angus R Williams](https://angusrw.com/) |
 | [04/09/24](#020924) | Invited Talk: TBC | David Blackwell | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
@@ -30,5 +29,3 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 # Material for sessions
 
-## 12/08/24
-- [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
