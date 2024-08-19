@@ -18,9 +18,8 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [19/08/24](#190824) | Overview of Knowledge Graphs | David Blackwell |[Navdeep Kaur](https://www.turing.ac.uk/people/navdeep-kaur) |
 | [28/08/24](#280824) | Technical: Mixture of Experts | Jack Good | [Angus R Williams](https://angusrw.com/) |
-| [04/09/24](#020924) | Invited Talk: TBC | David Blackwell | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
+| [03/09/24](#030924) | Invited Talk: Sociotechnical Safety Evaluation of AI systems | Enigma | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
 | [09/09/24](#090924) | Invited Talk: Title TBC | David Blackwell | [Han Zhou (Cambridge)](https://hzhou.top/)|
 | [16/09/24](#160924) | Technical: Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26), [Fede Nanni](https://github.com/fedenanni) |
 | [23/09/24](#230924) | TBC | David Blackwell | TBC |
@@ -33,6 +32,18 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 
 # Material for sessions
+
+## 28/08/24
+### Mixture of Experts
+
+- [Mixture of Experts Explained  - Huggingface blog](https://huggingface.co/blog/moe)
+
+## 03/09/24
+### Sociotechnical Safety Evaluation of AI systems
+
+Generative AI systems create risks which must be evaluated in order to be managed or mitigated. Current approaches to AI safety evaluation are primarily focused on assessing technical artefacts in isolation, and so may miss hazards that arise through human-AI-interaction or wide-scale deployment. In this talk, I introduce a sociotechnical approach to AI safety evaluation that aims to capture relevant complexity, to provide a more comprehensive safety assessment. In addition, different evaluation *goals* require matching evaluation *methods*. Reviewing the current landscape of AI safety evaluation, I point out strengths and key gaps that need to be addressed. I close by discussing trade-offs and open challenges at the frontier of AI safety evaluation research.
+
+- [Sociotechnical Safety Evaluation of Generative AI Systems](https://deepmind.google/research/publications/45425/)
 
 ## 07/10/24
 ### Federating Large Language Models from Scratch
