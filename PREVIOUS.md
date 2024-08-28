@@ -50,6 +50,7 @@ This page shows a history of previous sessions in the reading group.
 | [05/08/24](#050824) | Invited Talk: The growth of parallelism in machine learning inference ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/42-parallelism-in-ml-inference/2024-08-Tim-Harris.pdf)) | Ursula Franklin | [Tim Harris (Microsoft)](https://timharris.uk/) |
 | [12/08/24](#120824) | Llama 3.1 Report Overview ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/43-llama31/llama-3-1.pdf)) | Ursula Franklin | [Edwin Brown](https://github.com/EdwinB12), [Ryan Chan](https://github.com/rchan26) |
 | [19/08/24](#190824) | Overview of Knowledge Graphs ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/44-knowledge-graphs/Turing-KG-Talk.pdf)) | David Blackwell |[Navdeep Kaur](https://www.turing.ac.uk/people/navdeep-kaur) |
+| [28/08/24](#280824) | Technical: Mixture of Experts ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/45-mixture-of-experts/moe-slides.pdf)) | Jack Good | [Angus R Williams](https://angusrw.com/) |
 
 # Material for sessions
 
@@ -485,6 +486,12 @@ When I started working on machine learning inference four years ago a typical mo
 ### Overview of Knowledge Graphs
 
 - [A Survey on Knowledge Graphs: Representation, Acquisition, and Applications](https://arxiv.org/pdf/2002.00388)
+
+## 28/08/24
+### Mixture of Experts
+
+- [Mixture of Experts Explained  - Huggingface blog](https://huggingface.co/blog/moe)
+- [Applying Mixture of Experts in LLM Architectures - Nvidia blog](https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/)
 
 ## Miscellaneous
 

@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [28/08/24](#280824) | Technical: Mixture of Experts | Jack Good | [Angus R Williams](https://angusrw.com/) |
 | [03/09/24](#030924) | Invited Talk: Sociotechnical Safety Evaluation of AI systems | Enigma | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
 | [09/09/24](#090924) | Invited Talk: Title TBC | David Blackwell | [Han Zhou (Cambridge)](https://hzhou.top/)|
 | [16/09/24](#160924) | TBC | David Blackwell | TBC |
@@ -30,14 +29,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [28/10/24](#281024) | TBC | David Blackwell | TBC |
 
 
-
 # Material for sessions
-
-## 28/08/24
-### Mixture of Experts
-
-- [Mixture of Experts Explained  - Huggingface blog](https://huggingface.co/blog/moe)
-- [Applying Mixture of Experts in LLM Architectures - Nvidia blog](https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/)
 
 ## 03/09/24
 ### Sociotechnical Safety Evaluation of AI systems
