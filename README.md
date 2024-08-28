@@ -37,6 +37,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ### Mixture of Experts
 
 - [Mixture of Experts Explained  - Huggingface blog](https://huggingface.co/blog/moe)
+- [Applying Mixture of Experts in LLM Architectures - Nvidia blog](https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/)
 
 ## 03/09/24
 ### Sociotechnical Safety Evaluation of AI systems
