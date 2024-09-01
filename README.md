@@ -26,7 +26,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
 | [21/10/24](#211024) | TBC | David Blackwell | TBC |
-| [28/10/24](#281024) | TBC | David Blackwell | TBC |
+| [28/10/24](#281024) | No Laguage Left Behind (NLLB) Technical Report Overview | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
 
 
 # Material for sessions
