@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [03/09/24](#030924) | Invited Talk: Sociotechnical Safety Evaluation of AI systems | Enigma | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
 | [09/09/24](#090924) | Invited Talk: On the Brittleness of Prompts in LLMs | David Blackwell | [Han Zhou](https://hzhou.top/)|
 | [16/09/24](#160924) | TBC | David Blackwell | TBC |
 | [23/09/24](#230924) | Technical: Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26), [Fede Nanni](https://github.com/fedenanni) |
@@ -26,17 +25,10 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
 | [21/10/24](#211024) | TBC | David Blackwell | TBC |
-| [28/10/24](#281024) | No Laguage Left Behind (NLLB) Technical Report Overview | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
+| [28/10/24](#281024) | No Language Left Behind (NLLB) Technical Report Overview | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
 
 
 # Material for sessions
-
-## 03/09/24
-### Sociotechnical Safety Evaluation of AI systems
-
-Generative AI systems create risks which must be evaluated in order to be managed or mitigated. Current approaches to AI safety evaluation are primarily focused on assessing technical artefacts in isolation, and so may miss hazards that arise through human-AI-interaction or wide-scale deployment. In this talk, I introduce a sociotechnical approach to AI safety evaluation that aims to capture relevant complexity, to provide a more comprehensive safety assessment. In addition, different evaluation *goals* require matching evaluation *methods*. Reviewing the current landscape of AI safety evaluation, I point out strengths and key gaps that need to be addressed. I close by discussing trade-offs and open challenges at the frontier of AI safety evaluation research.
-
-- [Sociotechnical Safety Evaluation of Generative AI Systems](https://deepmind.google/research/publications/45425/)
 
 ## 07/10/24
 ### Federating Large Language Models from Scratch

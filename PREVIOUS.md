@@ -51,6 +51,7 @@ This page shows a history of previous sessions in the reading group.
 | [12/08/24](#120824) | Llama 3.1 Report Overview ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/43-llama31/llama-3-1.pdf)) | Ursula Franklin | [Edwin Brown](https://github.com/EdwinB12), [Ryan Chan](https://github.com/rchan26) |
 | [19/08/24](#190824) | Overview of Knowledge Graphs ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/44-knowledge-graphs/Turing-KG-Talk.pdf)) | David Blackwell |[Navdeep Kaur](https://www.turing.ac.uk/people/navdeep-kaur) |
 | [28/08/24](#280824) | Technical: Mixture of Experts ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/45-mixture-of-experts/moe-slides.pdf)) | Jack Good | [Angus R Williams](https://angusrw.com/) |
+| [03/09/24](#030924) | Invited Talk: Sociotechnical Safety Evaluation of AI systems ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/46-sociotechnical-safety-eval-of-AI/Safety-Evaluation-of-generative-AI.pdf)) | Enigma | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
 
 # Material for sessions
 
@@ -492,6 +493,13 @@ When I started working on machine learning inference four years ago a typical mo
 
 - [Mixture of Experts Explained  - Huggingface blog](https://huggingface.co/blog/moe)
 - [Applying Mixture of Experts in LLM Architectures - Nvidia blog](https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/)
+
+## 03/09/24
+### Sociotechnical Safety Evaluation of AI systems
+
+Generative AI systems create risks which must be evaluated in order to be managed or mitigated. Current approaches to AI safety evaluation are primarily focused on assessing technical artefacts in isolation, and so may miss hazards that arise through human-AI-interaction or wide-scale deployment. In this talk, I introduce a sociotechnical approach to AI safety evaluation that aims to capture relevant complexity, to provide a more comprehensive safety assessment. In addition, different evaluation *goals* require matching evaluation *methods*. Reviewing the current landscape of AI safety evaluation, I point out strengths and key gaps that need to be addressed. I close by discussing trade-offs and open challenges at the frontier of AI safety evaluation research.
+
+- [Sociotechnical Safety Evaluation of Generative AI Systems](https://deepmind.google/research/publications/45425/)
 
 ## Miscellaneous
 
