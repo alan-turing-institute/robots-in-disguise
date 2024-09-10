@@ -27,7 +27,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [28/10/24](#281024) | No Language Left Behind (NLLB) Technical Report Overview | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
 | [04/11/24](#041124) | TBC | David Blackwell | TBC |
 | [11/11/24](#111124) | TBC | David Blackwell | TBC |
-| [18/11/24](#181124) | TBC | David Blackwell | TBC |
+| [18/11/24](#181124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
 | [25/11/24](#251124) | TBC | David Blackwell | TBC |
 | [02/12/24](#021224) | TBC | David Blackwell | TBC |
 | [09/12/24](#091224) | TBC | David Blackwell | TBC |
