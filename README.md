@@ -19,12 +19,19 @@ Please **get in touch** if you would like to give a talk (either about your rese
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
 | [16/09/24](#160924) | TBC | David Blackwell | TBC |
-| [23/09/24](#230924) | (TBC) Technical: Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26) |
-| [30/09/24](#300924) | Technical: Mechanistic Interpretability | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
+| [23/09/24](#230924) | (TBC) Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26) |
+| [30/09/24](#300924) | Mechanistic Interpretability | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
-| [21/10/24](#211024) | TBC | David Blackwell | TBC |
+| [21/10/24](#211024) | Invited Talk: Building new multilingual evals and synthetic post training techniques for low resource languages | David Blackwell | TBC |
 | [28/10/24](#281024) | No Language Left Behind (NLLB) Technical Report Overview | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
+| [04/11/24](#041124) | TBC | David Blackwell | TBC |
+| [11/11/24](#111124) | TBC | David Blackwell | TBC |
+| [18/11/24](#181124) | TBC | David Blackwell | TBC |
+| [25/11/24](#251124) | TBC | David Blackwell | TBC |
+| [02/12/24](#021224) | TBC | David Blackwell | TBC |
+| [09/12/24](#091224) | TBC | David Blackwell | TBC |
+| [16/12/24](#161224) | TBC | David Blackwell | TBC |
 
 
 # Material for sessions
@@ -37,3 +44,10 @@ Large language models (LLMs) offer unprecedented ML capabilities and continue to
 We believe FL can reshape LLM practices and opportunities thanks to two of its most exciting features: relaxed synchronization requirements and privacy-by-design on users' data. The federated paradigm opens the doors of new interesting possibilities for the LLM community, like resource sharing, unbounded scaling on private data, democratization, and privacy. This talk contributes to the emerging field that blends the two worlds of FL and LLMs by presenting a fully federated approach for LLM pre-training from scratch. Our approach has shown to be viable at a scale of 3B parameters under a real working system.
 
 - [The Future of Large Language Model Pre-training is Federated](https://arxiv.org/pdf/2405.10853)
+
+## 28/10/24
+### No Language Left Behind (NLLB)
+
+- [No Language Left Behind: Scaling Human-Centered Machine Translation (Report)](https://research.facebook.com/publications/no-language-left-behind/)
+- [Scaling neural machine translation to 200 languages (Nature paper)](https://www.nature.com/articles/s41586-024-07335-x)
+- [No Language Left Behind (NLLB) project](https://ai.meta.com/research/no-language-left-behind/)
