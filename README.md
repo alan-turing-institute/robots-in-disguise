@@ -18,8 +18,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [16/09/24](#160924) | TBC | David Blackwell | TBC |
-| [23/09/24](#230924) | (TBC) Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26) |
+| [23/09/24](#230924) | Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26) |
 | [30/09/24](#300924) | Mechanistic Interpretability | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
