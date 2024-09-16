@@ -45,7 +45,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ### Mechanistic Interpretability II
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model))
+- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
 
