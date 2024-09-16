@@ -36,6 +36,20 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 # Material for sessions
 
+## 23/09/24
+### Mechanistic Interpretability I
+- [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+- [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/)
+- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
+
+## 30/09/24
+### Mechanistic Interpretability II
+- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
+- [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
+- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model))
+- [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
+- [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
+
 ## 07/10/24
 ### Federating Large Language Models from Scratch
 
