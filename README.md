@@ -40,6 +40,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/)
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
+- [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 
 ## 30/09/24
 ### Mechanistic Interpretability II
