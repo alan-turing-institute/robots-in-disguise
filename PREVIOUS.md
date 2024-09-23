@@ -53,7 +53,7 @@ This page shows a history of previous sessions in the reading group.
 | [28/08/24](#280824) | Mixture of Experts ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/45-mixture-of-experts/moe-slides.pdf)) | Jack Good | [Angus R Williams](https://angusrw.com/) |
 | [03/09/24](#030924) | Invited Talk: Sociotechnical Safety Evaluation of AI systems ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/46-sociotechnical-safety-eval-of-AI/Safety-Evaluation-of-generative-AI.pdf)) | Enigma | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
 | [09/09/24](#090924) | Invited Talk: On the Brittleness of Prompts in LLMs ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/47-brittleness-of-prompts/On%20the%20brittleness%20of%20prompts%20-%20Han%20Zhou.pdf)) | David Blackwell | [Han Zhou](https://hzhou.top/)|
-| [23/09/24](#230924) | Mechanistic Interpretability I ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/48-mechanistic-interpretability-i/sessions/48-mechanistic-interpretability-i/mech-interp-i.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
+| [23/09/24](#230924) | Mechanistic Interpretability I ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/48-mechanistic-interpretability-i/mech-interp-i.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 
 # Material for sessions
 
