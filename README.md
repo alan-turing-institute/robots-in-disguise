@@ -18,8 +18,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [23/09/24](#230924) | Mechanistic Interpretability | Ursula Franklin | [Ryan Chan](https://github.com/rchan26) |
-| [30/09/24](#300924) | Mechanistic Interpretability | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
+| [30/09/24](#300924) | Mechanistic Interpretability II | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
 | [21/10/24](#211024) | Invited Talk: Building new multilingual evals and synthetic post training techniques for low resource languages | David Blackwell | TBC |
@@ -39,14 +38,14 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ### Mechanistic Interpretability I
 - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/)
-- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
+- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
+- [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 
 ## 30/09/24
 ### Mechanistic Interpretability II
+- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
-- [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
 
