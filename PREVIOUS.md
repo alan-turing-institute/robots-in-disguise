@@ -54,6 +54,7 @@ This page shows a history of previous sessions in the reading group.
 | [03/09/24](#030924) | Invited Talk: Sociotechnical Safety Evaluation of AI systems ([Slides](https://github.com/alan-turing-institute/foundation-models-reading-group/blob/main/sessions/46-sociotechnical-safety-eval-of-AI/Safety-Evaluation-of-generative-AI.pdf)) | Enigma | [Laura Weidinger](https://scholar.google.com/citations?user=SFQLTCkAAAAJ&hl=en) |
 | [09/09/24](#090924) | Invited Talk: On the Brittleness of Prompts in LLMs ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/47-brittleness-of-prompts/On%20the%20brittleness%20of%20prompts%20-%20Han%20Zhou.pdf)) | David Blackwell | [Han Zhou](https://hzhou.top/)|
 | [23/09/24](#230924) | Mechanistic Interpretability I ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/48-mechanistic-interpretability-i/mech-interp-i.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
+| [02/10/24](#021024) | Mechanistic Interpretability II ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/49-mechanistic-interpretability-ii/mech-interp-ii.pdf)) | Delilah | [Ryan Chan](https://github.com/rchan26) |
 
 # Material for sessions
 
@@ -502,6 +503,22 @@ When I started working on machine learning inference four years ago a typical mo
 Generative AI systems create risks which must be evaluated in order to be managed or mitigated. Current approaches to AI safety evaluation are primarily focused on assessing technical artefacts in isolation, and so may miss hazards that arise through human-AI-interaction or wide-scale deployment. In this talk, I introduce a sociotechnical approach to AI safety evaluation that aims to capture relevant complexity, to provide a more comprehensive safety assessment. In addition, different evaluation *goals* require matching evaluation *methods*. Reviewing the current landscape of AI safety evaluation, I point out strengths and key gaps that need to be addressed. I close by discussing trade-offs and open challenges at the frontier of AI safety evaluation research.
 
 - [Sociotechnical Safety Evaluation of Generative AI Systems](https://deepmind.google/research/publications/45425/)
+
+## 23/09/24
+### Mechanistic Interpretability I
+- [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+- [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/)
+- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
+- [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
+- [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+
+## 02/10/24
+### Mechanistic Interpretability II
+- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
+- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
+- [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
+- [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
+
 
 ## Miscellaneous
 
