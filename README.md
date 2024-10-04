@@ -20,9 +20,9 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | --- | ----- | ---- | ---- |
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
-| [21/10/24](#211024) | Invited Talk: Building new multilingual evals and synthetic post training techniques for low resource languages | David Blackwell | [Ed Bayes](https://www.linkedin.com/in/edbayes/) and others |
+| [21/10/24](#211024) | Invited Talk: Building new multilingual evals and synthetic post training techniques for low resource languages | David Blackwell | [Ed Bayes](https://www.linkedin.com/in/edbayes/) |
 | [28/10/24](#281024) | No Language Left Behind (NLLB) Technical Report Overview | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
-| [04/11/24](#041124) | TBC | Ursula Franklin | TBC |
+| [04/11/24](#041124) | Invited Talk: Ethnographic Approaches to AI Evaluations | Ursula Franklin | [Jonas Kgomo](https://www.equiano.institute/people/jonas) |
 | [11/11/24](#111124) | Scaling laws of neural networks | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [18/11/24](#181124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
 | [25/11/24](#251124) | TBC | David Blackwell | TBC |
