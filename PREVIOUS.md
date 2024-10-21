@@ -56,7 +56,7 @@ This page shows a history of previous sessions in the reading group.
 | [23/09/24](#230924) | Mechanistic Interpretability I ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/48-mechanistic-interpretability-i/mech-interp-i.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [02/10/24](#021024) | Mechanistic Interpretability II ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/49-mechanistic-interpretability-ii/mech-interp-ii.pdf)) | Delilah | [Ryan Chan](https://github.com/rchan26) |
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/50-federated-learning-for-llms/federating-llms-from-scratch.pdf)) | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
-| [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
+| [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/51-causal-estimation-of-memorisation-profiles/natural_experiments_talk.pdf)) | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
 
 # Material for sessions
 
