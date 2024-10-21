@@ -55,6 +55,8 @@ This page shows a history of previous sessions in the reading group.
 | [09/09/24](#090924) | Invited Talk: On the Brittleness of Prompts in LLMs ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/47-brittleness-of-prompts/On%20the%20brittleness%20of%20prompts%20-%20Han%20Zhou.pdf)) | David Blackwell | [Han Zhou](https://hzhou.top/)|
 | [23/09/24](#230924) | Mechanistic Interpretability I ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/48-mechanistic-interpretability-i/mech-interp-i.pdf)) | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [02/10/24](#021024) | Mechanistic Interpretability II ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/49-mechanistic-interpretability-ii/mech-interp-ii.pdf)) | Delilah | [Ryan Chan](https://github.com/rchan26) |
+| [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/50-federated-learning-for-llms/federating-llms-from-scratch.pdf)) | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
+| [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
 
 # Material for sessions
 
@@ -519,6 +521,21 @@ Generative AI systems create risks which must be evaluated in order to be manage
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
 
+## 07/10/24
+### Federating Large Language Models from Scratch
+
+Large language models (LLMs) offer unprecedented ML capabilities and continue to improve rapidly. As a result, various organizations are locked in a race to scale LLMs and explore their limits and weaknesses. We believe federated learning (FL) offers an untapped potential to dramatically increase the supply of data sources for these models. Early work has shown, for example, how LLM pre-training can tap into edge device data leveraging FL. Others have shown the impact of using federated optimizers in a poorly connected distributed infrastructure of stateful workers to train a centralized LLM.
+
+We believe FL can reshape LLM practices and opportunities thanks to two of its most exciting features: relaxed synchronization requirements and privacy-by-design on users' data. The federated paradigm opens the doors of new interesting possibilities for the LLM community, like resource sharing, unbounded scaling on private data, democratization, and privacy. This talk contributes to the emerging field that blends the two worlds of FL and LLMs by presenting a fully federated approach for LLM pre-training from scratch. Our approach has shown to be viable at a scale of 3B parameters under a real working system.
+
+- [The Future of Large Language Model Pre-training is Federated](https://arxiv.org/pdf/2405.10853)
+
+## 14/10/24
+### Natural Experiments in NLP and Where to Find Them
+
+In training language models, training choices—such as the random seed for data ordering or the token vocabulary size—significantly influence model behaviour. Answering counterfactual questions like "How would the model perform if this instance were excluded from training?" is computationally expensive, as it requires re-training the model. Once these training configurations are set, they become fixed, creating a "natural experiment" where modifying the experimental conditions incurs high computational costs. Using econometric techniques to estimate causal effects from observational studies enables us to analyse the impact of these choices without requiring full experimental control or repeated model training. In this talk, I will present our paper, _Causal Estimation of Memorisation Profiles_ (Best Paper Award at ACL 2024), which introduces a novel method based on the difference-in-differences technique from econometrics to estimate memorisation without requiring model re-training. I will also discuss preliminary results from ongoing work that applies the regression discontinuity design to estimate the causal effect of selecting a specific vocabulary size.
+
+- [Causal Estimation of Memorisation Profiles](https://arxiv.org/abs/2406.04327)
 
 ## Miscellaneous
 
