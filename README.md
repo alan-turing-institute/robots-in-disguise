@@ -30,6 +30,11 @@ Please **get in touch** if you would like to give a talk (either about your rese
 # Material for sessions
 
 ## 02/12/24
+### Can language models play the Wikipedia game?
+
+This project examines how Language Models can navigate Wikipedia. Which tests their ability to link semantically similar topics in a practical way. We have run experiments with a large variety of sentence embedding and large language models for comparison. We have also seen how the performance varies when transversing Wikipedia in other languages and when navigating between scientific papers, which allows an assessment of the breadth of the model's abilities.
+
+## 09/12/24
 ### Mechanistic Interpretability III
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
