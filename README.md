@@ -22,8 +22,8 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | [11/11/24](#111124) | Scaling laws of neural networks | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [18/11/24](#181124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
 | [25/11/24](#251124) | TBC | David Blackwell | TBC |
-| [02/12/24](#021224) | Mechanistic Interpretability III | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
-| [09/12/24](#091224) | TBC | David Blackwell | TBC |
+| [02/12/24](#021224) | Can language models play the Wikipedia game? | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
+| [09/12/24](#091224) | Mechanistic Interpretability III | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
 | [16/12/24](#161224) | TBC | David Blackwell | TBC |
 
 
