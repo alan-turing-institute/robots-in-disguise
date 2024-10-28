@@ -57,6 +57,7 @@ This page shows a history of previous sessions in the reading group.
 | [02/10/24](#021024) | Mechanistic Interpretability II ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/49-mechanistic-interpretability-ii/mech-interp-ii.pdf)) | Delilah | [Ryan Chan](https://github.com/rchan26) |
 | [07/10/24](#071024) | Invited Talk: Federating Large Language Models from Scratch ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/50-federated-learning-for-llms/federating-llms-from-scratch.pdf)) | David Blackwell | [Lorenzo Sani](https://www.cst.cam.ac.uk/people/ls985) |
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/51-causal-estimation-of-memorisation-profiles/natural_experiments_talk.pdf)) | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
+| [28/10/24](#281024) | No Language Left Behind (NLLB) Technical Report Overview ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/52-no-language-left-behind/NLLB.pdf)) | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
 
 # Material for sessions
 
@@ -536,6 +537,13 @@ We believe FL can reshape LLM practices and opportunities thanks to two of its m
 In training language models, training choices—such as the random seed for data ordering or the token vocabulary size—significantly influence model behaviour. Answering counterfactual questions like "How would the model perform if this instance were excluded from training?" is computationally expensive, as it requires re-training the model. Once these training configurations are set, they become fixed, creating a "natural experiment" where modifying the experimental conditions incurs high computational costs. Using econometric techniques to estimate causal effects from observational studies enables us to analyse the impact of these choices without requiring full experimental control or repeated model training. In this talk, I will present our paper, _Causal Estimation of Memorisation Profiles_ (Best Paper Award at ACL 2024), which introduces a novel method based on the difference-in-differences technique from econometrics to estimate memorisation without requiring model re-training. I will also discuss preliminary results from ongoing work that applies the regression discontinuity design to estimate the causal effect of selecting a specific vocabulary size.
 
 - [Causal Estimation of Memorisation Profiles](https://arxiv.org/abs/2406.04327)
+
+## 28/10/24
+### No Language Left Behind (NLLB)
+
+- [No Language Left Behind: Scaling Human-Centered Machine Translation (Report)](https://research.facebook.com/publications/no-language-left-behind/)
+- [Scaling neural machine translation to 200 languages (Nature paper)](https://www.nature.com/articles/s41586-024-07335-x)
+- [No Language Left Behind (NLLB) project](https://ai.meta.com/research/no-language-left-behind/)
 
 ## Miscellaneous
 
