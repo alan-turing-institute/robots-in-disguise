@@ -18,21 +18,22 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [04/11/24](#041124) | Invited Talk: Ethnographic Approaches to AI Evaluations | Ursula Franklin | [Jonas Kgomo](https://www.equiano.institute/people/jonas) |
-| [11/11/24](#111124) | Scaling laws of neural networks | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| [18/11/24](#181124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
-| [25/11/24](#251124) | TBC | David Blackwell | TBC |
+| [18/11/24](#181124) | Biological neural networks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
+| [25/11/24](#251124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
 | [02/12/24](#021224) | Can language models play the Wikipedia game? | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
-| [09/12/24](#091224) | Mechanistic Interpretability III | David Blackwell | [Ryan Chan](https://github.com/rchan26) |
+| [03/12/24](#031224) | Mechanistic Interpretability | David Blackwell | [Neel Nanda](https://www.neelnanda.io/about) |
+| [09/12/24](#091224) | Scaling laws of neural networks | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [16/12/24](#161224) | TBC | David Blackwell | TBC |
 
 
 # Material for sessions
 
-## 11/11/24
-### Scaling laws of neural networks
-- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
-- [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556)
+## 18/11/24
+### Biological neural networks
+
+Two talks:
+- Event-Based Learning of Synaptic Delays in Spiking Neural Networks
+- Information-theoretic Analysis of Brain Dynamics & Neural Network Models Informed by Information Theory
 
 ## 02/12/24
 ### Can language models play the Wikipedia game?
@@ -40,8 +41,8 @@ Please **get in touch** if you would like to give a talk (either about your rese
 This project examines how Language Models can navigate Wikipedia. Which tests their ability to link semantically similar topics in a practical way. We have run experiments with a large variety of sentence embedding and large language models for comparison. We have also seen how the performance varies when transversing Wikipedia in other languages and when navigating between scientific papers, which allows an assessment of the breadth of the model's abilities.
 
 ## 09/12/24
-### Mechanistic Interpretability III
-- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
-- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
-- [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
-- [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
+### Scaling laws of neural networks
+
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556)
+
