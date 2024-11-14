@@ -18,7 +18,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [18/11/24](#181124) | Biological neural networks | David Blackwell | [Balázs Mészáros ](https://www.turing.ac.uk/people/doctoral-students/balazs-meszaros), [Jess Yu]https://www.turing.ac.uk/people/doctoral-students/jess-yu) |
+| [18/11/24](#181124) | Biological neural networks | David Blackwell | [Balázs Mészáros ](https://www.turing.ac.uk/people/doctoral-students/balazs-meszaros), [Jess Yu](https://www.turing.ac.uk/people/doctoral-students/jess-yu) |
 | [25/11/24](#251124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
 | [02/12/24](#021224) | Can language models play the Wikipedia game? | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | [03/12/24](#031224) | Mechanistic Interpretability | David Blackwell | [Neel Nanda](https://www.neelnanda.io/about) |
