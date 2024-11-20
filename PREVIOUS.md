@@ -59,6 +59,8 @@ This page shows a history of previous sessions in the reading group.
 | [14/10/24](#141024) | Invited Talk: Causal Estimation of Memorisation Profiles ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/51-causal-estimation-of-memorisation-profiles/natural_experiments_talk.pdf)) | David Blackwell | [Pietro Lesci](https://pietrolesci.github.io/) |
 | [28/10/24](#281024) | No Language Left Behind (NLLB) Technical Report Overview ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/52-no-language-left-behind/NLLB.pdf)) | David Blackwell | [Giulia Occhini](https://github.com/giuliaok), [Ryan Chan](https://github.com/rchan26) |
 | [04/11/24](#041124) | Invited Talk: Ethnographic Approaches to AI Evaluations | Ursula Franklin | [Jonas Kgomo](https://www.equiano.institute/people/jonas) |
+| [18/11/24](#181124) | Biological neural networks ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/54-biological-neural-networks/event-based-learning-of-synaptic-delays.pdf), [Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/54-biological-neural-networks/Neural-Network-Models-Informed-by-Information-Theory.pdf)) | David Blackwell | [Balázs Mészáros ](https://www.turing.ac.uk/people/doctoral-students/balazs-meszaros), [Jess Yu](https://www.turing.ac.uk/people/doctoral-students/jess-yu) |
+| [20/11/24](#021024) | Mechanistic Interpretability III ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/55-mechanistic-interpretability-iii/mech-interp-iii.pdf)) | Delilah | [Ryan Chan](https://github.com/rchan26) |
 
 # Material for sessions
 
@@ -545,6 +547,20 @@ In training language models, training choices—such as the random seed for data
 - [No Language Left Behind: Scaling Human-Centered Machine Translation (Report)](https://research.facebook.com/publications/no-language-left-behind/)
 - [Scaling neural machine translation to 200 languages (Nature paper)](https://www.nature.com/articles/s41586-024-07335-x)
 - [No Language Left Behind (NLLB) project](https://ai.meta.com/research/no-language-left-behind/)
+
+## 18/11/24
+### Biological neural networks
+
+Two talks:
+- Event-Based Learning of Synaptic Delays in Spiking Neural Networks
+- Information-theoretic Analysis of Brain Dynamics & Neural Network Models Informed by Information Theory
+
+## 02/10/24
+### Mechanistic Interpretability III
+- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
+- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
+- [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
+- [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
 
 ## Miscellaneous
 
