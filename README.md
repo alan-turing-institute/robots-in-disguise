@@ -20,9 +20,10 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | --- | ----- | ---- | ---- |
 | [25/11/24](#251124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
 | [02/12/24](#021224) | Can language models play the Wikipedia game? | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
+| 02/12/24 | Diffusion models | David Blackwell | [James Thornton](https://jtt94.github.io/) |
 | [03/12/24](#031224) | Mechanistic Interpretability | David Blackwell | [Neel Nanda](https://www.neelnanda.io/about) |
 | [09/12/24](#091224) | Scaling laws of neural networks | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
-| [16/12/24](#161224) | TBC | David Blackwell | TBC |
+| [16/12/24](#161224) | TBC | David Blackwell | [Chanju Park](https://www.turing.ac.uk/people/doctoral-students/chanju-park) |
 
 # Material for sessions
 
