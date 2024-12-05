@@ -18,19 +18,10 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [25/11/24](#251124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
-| [02/12/24](#021224) | Can language models play the Wikipedia game? | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
-| 02/12/24 | Diffusion models | Ada Lovelace | [James Thornton](https://jtt94.github.io/) |
-| [03/12/24](#031224) | Mechanistic Interpretability | Enigma | [Neel Nanda](https://www.neelnanda.io/about) |
 | [09/12/24](#091224) | Scaling laws of neural networks | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [16/12/24](#161224) | Improving training with better learning rate and batch size: Linear scaling rule from random matrix theory | David Blackwell | [Chanju Park](https://www.turing.ac.uk/people/doctoral-students/chanju-park) |
 
 # Material for sessions
-
-## 02/12/24
-### Can language models play the Wikipedia game?
-
-This project examines how Language Models can navigate Wikipedia. Which tests their ability to link semantically similar topics in a practical way. We have run experiments with a large variety of sentence embedding and large language models for comparison. We have also seen how the performance varies when transversing Wikipedia in other languages and when navigating between scientific papers, which allows an assessment of the breadth of the model's abilities.
 
 ## 09/12/24
 ### Scaling laws of neural networks

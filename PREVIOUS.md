@@ -61,6 +61,10 @@ This page shows a history of previous sessions in the reading group.
 | [04/11/24](#041124) | Invited Talk: Ethnographic Approaches to AI Evaluations | Ursula Franklin | [Jonas Kgomo](https://www.equiano.institute/people/jonas) |
 | [18/11/24](#181124) | Biological neural networks ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/54-biological-neural-networks/event-based-learning-of-synaptic-delays.pdf), [Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/54-biological-neural-networks/Neural-Network-Models-Informed-by-Information-Theory.pdf)) | David Blackwell | [Balázs Mészáros ](https://www.turing.ac.uk/people/doctoral-students/balazs-meszaros), [Jess Yu](https://www.turing.ac.uk/people/doctoral-students/jess-yu) |
 | [20/11/24](#021024) | Mechanistic Interpretability III ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/55-mechanistic-interpretability-iii/mech-interp-iii.pdf)) | Delilah | [Ryan Chan](https://github.com/rchan26) |
+| [25/11/24](#251124) | Application of foundation models in time series tasks | David Blackwell | [Gholamali Aminian](https://www.turing.ac.uk/people/researchers/gholamali-aminian) |
+| [02/12/24](#021224) | Can language models play the Wikipedia game? ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/57-wikipedia-game/TheWikipediaGame_2024_12_02_Robots.pdf)) | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
+| 02/12/24 | Diffusion models | Ada Lovelace | [James Thornton](https://jtt94.github.io/) |
+| [03/12/24](#031224) | Mechanistic Interpretability | Enigma | [Neel Nanda](https://www.neelnanda.io/about) |
 
 # Material for sessions
 
@@ -561,6 +565,11 @@ Two talks:
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2309.08600)
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
+
+## 02/12/24
+### Can language models play the Wikipedia game?
+
+This project examines how Language Models can navigate Wikipedia. Which tests their ability to link semantically similar topics in a practical way. We have run experiments with a large variety of sentence embedding and large language models for comparison. We have also seen how the performance varies when transversing Wikipedia in other languages and when navigating between scientific papers, which allows an assessment of the breadth of the model's abilities.
 
 ## Miscellaneous
 
