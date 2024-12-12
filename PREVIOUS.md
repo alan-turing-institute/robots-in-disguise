@@ -65,6 +65,7 @@ This page shows a history of previous sessions in the reading group.
 | [02/12/24](#021224) | Can language models play the Wikipedia game? ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/57-wikipedia-game/TheWikipediaGame_2024_12_02_Robots.pdf)) | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey), [Jo Knight](https://www.turing.ac.uk/people/researchers/joanna-knight) |
 | 02/12/24 | Diffusion models | Ada Lovelace | [James Thornton](https://jtt94.github.io/) |
 | [03/12/24](#031224) | Mechanistic Interpretability | Enigma | [Neel Nanda](https://www.neelnanda.io/about) |
+| [09/12/24](#091224) | Scaling laws of neural networks ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/58-neural-scaling-laws/neural_scaling.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 
 # Material for sessions
 
