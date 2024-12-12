@@ -572,6 +572,12 @@ Two talks:
 
 This project examines how Language Models can navigate Wikipedia. Which tests their ability to link semantically similar topics in a practical way. We have run experiments with a large variety of sentence embedding and large language models for comparison. We have also seen how the performance varies when transversing Wikipedia in other languages and when navigating between scientific papers, which allows an assessment of the breadth of the model's abilities.
 
+## 09/12/24
+### Scaling laws of neural networks
+
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556)
+
 ## Miscellaneous
 
 ### Tokenizers and Huggingface tutorial

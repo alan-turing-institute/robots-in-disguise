@@ -22,9 +22,4 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 # Material for sessions
 
-## 09/12/24
-### Scaling laws of neural networks
-
-- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
-- [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556)
 
