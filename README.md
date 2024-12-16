@@ -18,7 +18,6 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [16/12/24](#161224) | Improving training with better learning rate and batch size: Linear scaling rule from random matrix theory | David Blackwell | [Chanju Park](https://www.turing.ac.uk/people/doctoral-students/chanju-park) |
 
 # Material for sessions
 
