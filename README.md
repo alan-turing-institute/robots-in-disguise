@@ -17,6 +17,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## Upcoming Schedule
 
 |Date | Topic | Room | Lead |
+| --- | ----- | ---- | ---- |
 | [03/02/25](#030225) | DeepSeek: Group Discussion | David Blackwell | Fede & Ryan |
 
 # Material for sessions
