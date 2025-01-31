@@ -17,8 +17,11 @@ Please **get in touch** if you would like to give a talk (either about your rese
 ## Upcoming Schedule
 
 |Date | Topic | Room | Lead |
-| --- | ----- | ---- | ---- |
+| [03/02/25](#030225) | DeepSeek: Group Discussion | David Blackwell | Fede & Ryan |
 
 # Material for sessions
 
+## 03/02/25
+### DeepSeek
 
+[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
