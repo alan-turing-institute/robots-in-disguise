@@ -67,6 +67,9 @@ This page shows a history of previous sessions in the reading group.
 | [03/12/24](#031224) | Mechanistic Interpretability | Enigma | [Neel Nanda](https://www.neelnanda.io/about) |
 | [09/12/24](#091224) | Scaling laws of neural networks ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/58-neural-scaling-laws/neural_scaling.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [16/12/24](#161224) | Improving training with better learning rate and batch size: Linear scaling rule from random matrix theory ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/61-linear-scaling-rule/cjpark_rid_pub.pdf)) | David Blackwell | [Chanju Park](https://www.turing.ac.uk/people/doctoral-students/chanju-park) |
+| [03/02/25](#030225) | DeepSeek-R1: Group Discussion | David Blackwell | Fede & Ryan |
+| [10/02/25](#100225) | DeepSeek-V3 Technical Report: Group Discussion | David Blackwell | Fede & Ryan |
+| [03/03/25](#030325) | Alignment reduces LLMs conceptual diversity | David Blackwell | Fede |
 
 # Material for sessions
 
@@ -578,6 +581,17 @@ This project examines how Language Models can navigate Wikipedia. Which tests th
 
 - [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556)
+
+## 03/02/25
+### DeepSeek R1
+
+[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
+
+## 10/02/25
+### DeepSeek V3
+
+[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+
 
 ## Miscellaneous
 
