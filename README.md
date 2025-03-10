@@ -18,18 +18,9 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [03/02/25](#030225) | DeepSeek-R1: Group Discussion | David Blackwell | Fede & Ryan |
-| [10/02/25](#100225) | DeepSeek-V3 Technical Report: Group Discussion | David Blackwell | Fede & Ryan |
+| [24/02/25](#240225) | Enrichment Students project talk | David Blackwell | Sushant Gautam & Yara Kyrychenko |
 
 # Material for sessions
 
-## 03/02/25
-### DeepSeek R1
-
-[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
-
-## 10/02/25
-### DeepSeek V3
-
-[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
-
+## 24/03/25
+### Enrichment student project talk
