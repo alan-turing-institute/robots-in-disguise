@@ -18,9 +18,14 @@ Please **get in touch** if you would like to give a talk (either about your rese
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [24/02/25](#240225) | Enrichment Students project talk | David Blackwell | Sushant Gautam & Yara Kyrychenko |
+| [24/03/25](#240325) | S1: Simple test-time scaling | David Blackwell | Fede |
+| [04/04/25](#070425) | Enrichment Students project talk | David Blackwell | Sushant Gautam & Yara Kyrychenko |
 
 # Material for sessions
 
 ## 24/03/25
+### S1: Simple test-time scaling 
+[The paper](https://arxiv.org/pdf/2501.19393)
+
+## 07/04/25
 ### Enrichment student project talk
