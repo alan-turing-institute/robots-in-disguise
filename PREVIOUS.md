@@ -70,6 +70,14 @@ This page shows a history of previous sessions in the reading group.
 | [03/02/25](#030225) | DeepSeek-R1: Group Discussion | David Blackwell | Fede & Ryan |
 | [10/02/25](#100225) | DeepSeek-V3 Technical Report: Group Discussion | David Blackwell | Fede & Ryan |
 | [03/03/25](#030325) | Alignment reduces LLMs conceptual diversity | David Blackwell | Fede |
+| [24/03/25](#240325) | S1: Simple test-time scaling | David Blackwell | Fede |
+| [04/04/25](#070425) | Enrichment Students project talk | David Blackwell | Sushant Gautam & Yara Kyrychenko |
+| 12/05/25 | Event Extaction with LLMs | David Blackwell | Alex Hickey |
+| 12/05/25 | Test-Time Reinforcement Learning | David Blackwell | Fede |
+| 22/09/25 | On the Theoretical Limitations of Embedding-Based Retrieval | David Blackwell | Fede & Alex |
+| 23/10/25 | Agentic Context Engineering | David Blackwell | Fede |
+| 30/10/25 | LLMs for Audio-Visual Speech Recognition | David Blackwell | Phil Swatton |
+
 
 # Material for sessions
 
