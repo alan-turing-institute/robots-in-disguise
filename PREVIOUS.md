@@ -67,16 +67,29 @@ This page shows a history of previous sessions in the reading group.
 | [03/12/24](#031224) | Mechanistic Interpretability | Enigma | [Neel Nanda](https://www.neelnanda.io/about) |
 | [09/12/24](#091224) | Scaling laws of neural networks ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/58-neural-scaling-laws/neural_scaling.pdf)) | David Blackwell | [Edmund Dable-Heath](https://github.com/eddableheath) |
 | [16/12/24](#161224) | Improving training with better learning rate and batch size: Linear scaling rule from random matrix theory ([Slides](https://github.com/alan-turing-institute/robots-in-disguise/blob/main/sessions/61-linear-scaling-rule/cjpark_rid_pub.pdf)) | David Blackwell | [Chanju Park](https://www.turing.ac.uk/people/doctoral-students/chanju-park) |
-| [03/02/25](#030225) | DeepSeek-R1: Group Discussion | David Blackwell | Fede & Ryan |
-| [10/02/25](#100225) | DeepSeek-V3 Technical Report: Group Discussion | David Blackwell | Fede & Ryan |
-| [03/03/25](#030325) | Alignment reduces LLMs conceptual diversity | David Blackwell | Fede |
-| [24/03/25](#240325) | S1: Simple test-time scaling | David Blackwell | Fede |
-| [04/04/25](#070425) | Enrichment Students project talk | David Blackwell | Sushant Gautam & Yara Kyrychenko |
-| 12/05/25 | Event Extaction with LLMs | David Blackwell | Alex Hickey |
-| 12/05/25 | Test-Time Reinforcement Learning | David Blackwell | Fede |
-| 22/09/25 | On the Theoretical Limitations of Embedding-Based Retrieval | David Blackwell | Fede & Alex |
-| 23/10/25 | Agentic Context Engineering | David Blackwell | Fede |
-| 30/10/25 | LLMs for Audio-Visual Speech Recognition | David Blackwell | Phil Swatton |
+| [03/02/25](#030225) | DeepSeek-R1: Group Discussion | David Blackwell | [Fede](https://github.com/fedenanni) & [Ryan](https://github.com/rchan26) |
+| [10/02/25](#100225) | DeepSeek-V3 Technical Report: Group Discussion | David Blackwell | [Fede](https://github.com/fedenanni) & [Ryan](https://github.com/rchan26) |
+| 17/02/25 | DeepSeek-V3 Technical Report (part 2) | Florence Nightingale | [Fede](https://github.com/fedenanni) |
+| [03/03/25](#030325) | Alignment reduces LLMs conceptual diversity | David Blackwell | [Fede](https://github.com/fedenanni) |
+| [24/03/25](#240325) | S1: Simple test-time scaling | David Blackwell | [Fede](https://github.com/fedenanni) |
+| [07/04/25](#070425) | Enrichment Students project talk | David Blackwell | [Sushant Gautam](https://www.turing.ac.uk/people/doctoral-students/sushant-gautam) & [Yara Kyrychenko](https://www.turing.ac.uk/people/doctoral-students/yara-kyrychenko) |
+| 12/05/25 | Event Extaction with LLMs | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
+| 21/05/25 | Test-Time Reinforcement Learning | David Blackwell | [Fede](https://github.com/fedenanni) |
+| 28/05/25 | Improving Factuality and Reasoning in Language Models through Multiagent Debate | Jack Good | [Fede](https://github.com/fedenanni) |
+| 02/06/25 | Enrichment Students Project Presentations | Margaret Hamilton | [Sandrine Chausson](https://www.turing.ac.uk/people/doctoral-students/sandrine-chausson) & [Yara Kyrychenko](https://www.turing.ac.uk/people/doctoral-students/yara-kyrychenko) |
+| 22/09/25 | On the Theoretical Limitations of Embedding-Based Retrieval | David Blackwell | [Fede](https://github.com/fedenanni) & [Alex](https://www.turing.ac.uk/people/researchers/alex-hickey) |
+| 23/10/25 | Agentic Context Engineering | David Blackwell | [Fede](https://github.com/fedenanni) |
+| 30/10/25 | LLMs for Audio-Visual Speech Recognition | David Blackwell | [Phil Swatton](https://github.com/philswatton) |
+| 06/11/25 | Continual Learning via Sparse Memory Finetuning | Margaret Hamilton | [Fede](https://github.com/fedenanni) |
+| 20/11/25 | DeepSeek OCR | David Blackwell | [Fede](https://github.com/fedenanni) & [Rosie](https://github.com/rwood-97) |
+| 22/01/26 | LLM inference engine building | Enigma | [Fede](https://github.com/fedenanni) |
+| 10/02/26 | Dropout as a Bayesian Approximation | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
+| 19/03/26 | Reasoning Models Generate Societies of Thought | David Blackwell | [Ed Gunn](https://github.com/egunn-turing) |
+| 26/03/26 | The Smol Training Playbook: The Secrets to Building World-Class LLMs | David Blackwell | [Fede](https://github.com/fedenanni) |
+| 18/06/26 | Self-Adapting Language Models & others | David Blackwell | [Fede](https://github.com/fedenanni) |
+| 25/06/26 | Hybrid Architectures | David Blackwell | [Fede](https://github.com/fedenanni) |
+| 02/07/26 | Memory in LLMs | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
+| 09/07/26 | Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs | David Blackwell | [Fede](https://github.com/fedenanni) |
 
 
 # Material for sessions

@@ -20,7 +20,5 @@ The reading group originated from the [Research Engineering Team](https://www.tu
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| 06/11/25 | Continual Learning via Sparse Memory Finetuning | Margaret Hamilton | Fede |
-| 13/11/25 | DeepSeek OCR | David Blackwell | Fede & Rosie |
-| 20/11/25 | Less is More: Recursive Reasoning with Tiny Networks | Mary Shelley | Fede  |
+| 16/07/26 | Using Local Coding Agents | Marian Rejewski | Fede |
 
