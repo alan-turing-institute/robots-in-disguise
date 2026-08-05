@@ -20,5 +20,5 @@ The reading group originated from the [Research Engineering Team](https://www.tu
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| 16/07/26 | Using Local Coding Agents | Marian Rejewski | Fede |
+| 06/08/26 | Speculative decoding | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 

@@ -90,6 +90,8 @@ This page shows a history of previous sessions in the reading group.
 | 25/06/26 | Hybrid Architectures | David Blackwell | [Fede](https://github.com/fedenanni) |
 | 02/07/26 | Memory in LLMs | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
 | 09/07/26 | Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs | David Blackwell | [Fede](https://github.com/fedenanni) |
+| 16/07/26 | Using Local Coding Agents | Marian Rejewski | [Fede](https://github.com/fedenanni) |
+| 30/07/26 | Anthropic's J-lens | David Blackwell | [Roksana Goworek](https://roksanagoworek.com/) |
 
 
 # Material for sessions
