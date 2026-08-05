@@ -2,3 +2,4 @@
 *.DS_Store
 .venv
 sessions/48-mechanistic-interpretability-i/mech-interp-i.key
+.claude/
