@@ -5,7 +5,7 @@ If you're based at the Turing, follow `#robots-in-disguise` on the Turing Slack 
 
 ## Overview
 
-The group meets <b>every week on Thursday, usually at 11-12</b>. Everyone is welcome to join! If you have any questions email [Fede Nanni](mailto:fnanni@turing.ac.uk) and remember to go through our [Code of Conduct](CodeOfConduct.md) before joining.
+The group meets <b>every week on Thursday, usually at 11-12</b>. Everyone is welcome to join! If you have any questions email Fede Nanni or Alex Hickey.
 
 Please **get in touch** if you would like to give a talk (either about your research or a topic you think is relevant to the reading group).
 
