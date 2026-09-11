@@ -92,6 +92,8 @@ This page shows a history of previous sessions in the reading group.
 | 09/07/26 | Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs | David Blackwell | [Fede](https://github.com/fedenanni) |
 | 16/07/26 | Using Local Coding Agents | Marian Rejewski | [Fede](https://github.com/fedenanni) |
 | 30/07/26 | Anthropic's J-lens | David Blackwell | [Roksana Goworek](https://roksanagoworek.com/) |
+| 06/08/26 | Speculative decoding | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
+| 10/09/26 | LLM Memory and Policy | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
 
 
 # Material for sessions

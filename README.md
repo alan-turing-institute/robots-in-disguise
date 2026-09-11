@@ -20,5 +20,5 @@ The reading group originated from the [Research Engineering Team](https://www.tu
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| 06/08/26 | Speculative decoding | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
+| 17/09/26 | Looped Transformers | Mae Jemison | [Fede](https://github.com/fedenanni) |
 
