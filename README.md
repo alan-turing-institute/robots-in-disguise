@@ -1,5 +1,4 @@
-# _Robots in Disguise_: LLM Reading Group
-
+# _Robots in Disguise_
 Public repo for The Alan Turing Institute's reading group on LLMs and related things.
 
 If you're based at the Turing, follow `#robots-in-disguise` on the Turing Slack for the most recent updates.
