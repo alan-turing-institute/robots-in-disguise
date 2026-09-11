@@ -493,7 +493,7 @@ Two talks:
 - Event-Based Learning of Synaptic Delays in Spiking Neural Networks
 - Information-theoretic Analysis of Brain Dynamics & Neural Network Models Informed by Information Theory
 
-## 02/10/24
+## 20/11/24
 ### Mechanistic Interpretability III
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/)
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/)
@@ -520,6 +520,14 @@ This project examines how Language Models can navigate Wikipedia. Which tests th
 ### DeepSeek V3
 
 [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+
+
+## 18/06/26
+### Self-Adapting Language Models & others
+
+- [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
+- [https://arxiv.org/pdf/2606.03979](https://arxiv.org/pdf/2606.03979)
+- [https://arxiv.org/pdf/2605.26099](https://arxiv.org/pdf/2605.26099)
 
 
 ## Miscellaneous
