@@ -34,9 +34,9 @@ Please **get in touch** if you would like to give a talk (either about your rese
 | 25/06/26 | [Hybrid Architectures](https://arxiv.org/pdf/2510.04800) | David Blackwell | [Fede](https://github.com/fedenanni) |
 | 18/06/26 | [Self-Adapting Language Models & others](PREVIOUS.md#180626) | David Blackwell | [Fede](https://github.com/fedenanni) |
 | 26/03/26 | [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingfacetb-smol-training-playbook.hf.space/) | David Blackwell | [Fede](https://github.com/fedenanni) |
-| 19/03/26 | Reasoning Models Generate Societies of Thought | David Blackwell | [Ed Gunn](https://github.com/egunn-turing) |
+| 19/03/26 | [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825) | David Blackwell | [Ed Gunn](https://github.com/egunn-turing) |
 | 10/02/26 | [Dropout as a Bayesian Approximation](https://proceedings.mlr.press/v48/gal16.pdf) | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
-| 22/01/26 | LLM inference engine building | Enigma | [Fede](https://github.com/fedenanni) |
+| 22/01/26 | [LLM inference engine building](https://github.com/fedenanni/inference-tool) | Enigma | [Fede](https://github.com/fedenanni) |
 | 20/11/25 | [DeepSeek OCR](https://www.arxiv.org/abs/2510.18234) | David Blackwell | [Fede](https://github.com/fedenanni) & [Rosie](https://github.com/rwood-97) |
 | 06/11/25 | [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103) | Margaret Hamilton | [Fede](https://github.com/fedenanni) |
 | 30/10/25 | [LLMs for Audio-Visual Speech Recognition](https://arxiv.org/pdf/2409.12319) | David Blackwell | [Phil Swatton](https://github.com/philswatton) |
