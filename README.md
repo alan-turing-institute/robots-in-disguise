@@ -20,6 +20,7 @@ Please **get in touch** if you would like to give a talk (either about your rese
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
 | 10/09/26 | [LLM Memory and Policy](https://arxiv.org/abs/2606.21144) | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
+| 03/09/26 | Diffusion Image Generation | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
 | 06/08/26 | [Speculative decoding](https://arxiv.org/abs/2511.08923) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 | 30/07/26 | [Anthropic's J-lens](https://transformer-circuits.pub/2026/workspace/index.html) | David Blackwell | [Roksana Goworek](https://roksanagoworek.com/) |
 | 16/07/26 | [Using Local Coding Agents](https://magazine.sebastianraschka.com/p/using-local-coding-agents) | Marian Rejewski | [Fede](https://github.com/fedenanni) |
