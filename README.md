@@ -14,13 +14,15 @@ Please **get in touch** if you would like to give a talk (either about your rese
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
 | 17/09/26 | [Looped Transformers](https://magazine.sebastianraschka.com/i/214816783/2-looped-transformers) | Mae Jemison | [Fede](https://github.com/fedenanni) |
+| 25/09/26 | Vulnerability detection in the age of AI | David Blackwell | [Evelina Gabasova](https://github.com/evelinag) |
+| 01/10/26 | Overview of recent cyber incidents | Ada Lovelace | [Jack Roberts](https://github.com/jack89roberts) |
 
 ## Previous sessions
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
 | 10/09/26 | [LLM Memory and Policy](https://arxiv.org/abs/2606.21144) | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
-| 03/09/26 | Diffusion Image Generation | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
+| 03/09/26 | Controlled Diffusion Generation | David Blackwell | [Alex Hickey](https://www.turing.ac.uk/people/researchers/alex-hickey) |
 | 06/08/26 | [Speculative decoding](https://arxiv.org/abs/2511.08923) | David Blackwell | [Jack Roberts](https://github.com/jack89roberts) |
 | 30/07/26 | [Anthropic's J-lens](https://transformer-circuits.pub/2026/workspace/index.html) | David Blackwell | [Roksana Goworek](https://roksanagoworek.com/) |
 | 16/07/26 | [Using Local Coding Agents](https://magazine.sebastianraschka.com/p/using-local-coding-agents) | Marian Rejewski | [Fede](https://github.com/fedenanni) |
